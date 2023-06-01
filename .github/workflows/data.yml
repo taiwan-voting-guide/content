@@ -22,5 +22,5 @@ jobs:
       - uses: EndBug/add-and-commit@v9
         with:
           author_name: Taiwan Voting Guide
-          author_email: taiwan-voting-guide@gmail.com
+          author_email: taiwan.voting.guide@gmail.com
           message: "Update data"
