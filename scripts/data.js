@@ -25,7 +25,6 @@ const options = {
       };
     })
     .sort((a, b) => b.value - a.value);
-
   const data = {
     title: "tag_clicks_last_7_days",
     name: "過去7天標籤點擊數",
