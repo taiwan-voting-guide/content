@@ -3,6 +3,7 @@ name: generate data
 on:
   schedule:
     - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 jobs:
   generate-data:
