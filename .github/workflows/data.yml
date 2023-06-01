@@ -19,3 +19,8 @@ jobs:
           MIXPANEL_SECRET: ${{ secrets.MIXPANEL_SECRET }}
         run: |
           node scripts/data.js
+      - uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Taiwan Voting Guide
+          author_email: taiwan-voting-guide@gmail.com
+          message: "Update data"
