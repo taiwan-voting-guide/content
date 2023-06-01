@@ -11,10 +11,15 @@ const options = {
 };
 
 (async function () {
-  const response = await fetch(
-    `https://mixpanel.com/api/2.0/insights?project_id=${projectId}&bookmark_id=${bookmarkId}`,
-    options
-  );
+  try {
+    const response = await fetch(
+      `https://mixpanel.com/api/2.0/insights?project_id=${projectId}&bookmark_id=${bookmarkId}`,
+      options
+    );
+  } catch (error) {
+    console.error(error);
+    return;
+  }
   const mixpanelData = await response.json();
   const tags = Object.keys(mixpanelData.series["Tag - Total"])
     .filter((key) => key !== "$overall")
