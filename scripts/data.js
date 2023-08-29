@@ -14,7 +14,7 @@ const secret = process.env.MIXPANEL_SECRET;
         accept: "application/json",
         authorization: `Basic ${secret}`,
       },
-    }
+    },
   );
 
   const mixpanelData = await response.json();
