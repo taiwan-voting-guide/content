@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: |
+      - name: blame
+        run: |
           git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" | xargs ./scripts/blame.sh
-      - uses: EndBug/add-and-commit@v9
+      - if: ${{ steps.blame.outcome == 'success' }}
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Taiwan Voting Guide
           author_email: taiwan.voting.guide@gmail.com
