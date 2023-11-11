@@ -11,9 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
+          ls -al
+      - run: |
           git diff-tree --no-commit-id --name-only -r HEAD
       - run: |
-          git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" |
+          git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" 
       - name: blame
         continue-on-error: true
         run: |
