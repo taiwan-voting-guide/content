@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: blame
+        continue-on-error: true
         run: |
           git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" | xargs ./scripts/blame.sh
       - if: ${{ steps.blame.outcome == 'success' }}
