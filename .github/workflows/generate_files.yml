@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: |
+          git diff-tree --no-commit-id --name-only -r HEAD
+      - run: |
+          git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" |
       - name: blame
         continue-on-error: true
         run: |
