@@ -6,6 +6,7 @@ if [ $# -eq 0 ]; then
 fi
 
 for politician in $@ ; do
+  politician=$(printf "$politician")
   politician=${politician#content/politician}
   politician=${politician%.md}
   git blame -e -c "content/politician/$politician.md" > "content/blame/$politician.txt"
