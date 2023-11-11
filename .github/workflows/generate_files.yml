@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          git diff-tree --no-commit-id --name-only -r HEAD | grep -q "content/politician" | xargs ./scripts/blame.sh
+          git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" | xargs ./scripts/blame.sh
       - uses: EndBug/add-and-commit@v9
         with:
           author_name: Taiwan Voting Guide
