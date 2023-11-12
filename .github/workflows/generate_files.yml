@@ -9,13 +9,9 @@ jobs:
   generate-files:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - run: |
-          ls -al
-      - run: |
-          git diff-tree --no-commit-id --name-only -r HEAD
-      - run: |
-          git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" 
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: blame
         continue-on-error: true
         run: |
@@ -26,4 +22,3 @@ jobs:
           author_name: Taiwan Voting Guide
           author_email: taiwan.voting.guide@gmail.com
           message: "Generate files"
-
