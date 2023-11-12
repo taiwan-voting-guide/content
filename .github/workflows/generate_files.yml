@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: blame
+      - id: blame
         continue-on-error: true
         run: |
           git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" | xargs ./scripts/blame.sh
