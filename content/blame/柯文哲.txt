@@ -4,25 +4,20 @@
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	4)
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	5)台灣民眾黨
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	6)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	7)::metadata
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	8)#contributor
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	9)Ku龜 - 台文外交龜 - Tâigí Taiwanese Diplomat
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	10)::
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	11)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	12)## 性別
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	13)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	14)男
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	7)## 性別
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	8)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	9)男
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	10)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	11)::metadata
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	12)#contributor
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	13)Ku龜 - 台文外交龜 - Tâigí Taiwanese Diplomat
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	14)::
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	15)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	16)::metadata
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	17)#contributor
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	18)Ku龜 - 台文外交龜 - Tâigí Taiwanese Diplomat
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	19)::
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	20)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	21)## 出生地
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	22)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	23)新竹縣新竹市
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	24)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	25)::metadata
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	26)#contributor
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	27)Ku龜 - 台文外交龜 - Tâigí Taiwanese Diplomat
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	28)::
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	16)## 出生地
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	17)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	18)新竹縣新竹市
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	19)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	20)::metadata
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	21)#contributor
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	22)Ku龜 - 台文外交龜 - Tâigí Taiwanese Diplomat
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	23)::
