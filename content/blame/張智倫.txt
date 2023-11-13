@@ -4,108 +4,102 @@ e0a4fe1a	(<you@hsuyuting.com>	2023-05-25 00:27:27 +0800	1)# 張智倫
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	4)
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	5)## 2024 帶(離)職參選
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	6)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	7)否
+26e8b15b	(<you@hsuyuting.com>	2023-11-12 20:37:15 +0800	7)否 [^1]
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	8)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	9)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	10)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	11)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	12)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	13)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	14)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	15)::
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	16)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	17)## 性別
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	18)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	19)男
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	20)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	21)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	22)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	23)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	24)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	25)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	26)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	27)::
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	28)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	29)## 生日
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	30)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	31)1983 年 11 月 24 日
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	32)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	33)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	34)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	35)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	36)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	37)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	38)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	39)::
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	40)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	41)## 出生地
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	42)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	43)臺灣臺北市
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	44)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	45)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	46)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	47)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	48)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	49)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	50)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	51)::
+26e8b15b	(<you@hsuyuting.com>	2023-11-12 20:37:15 +0800	9)[^1]: https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	10)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	11)## 性別
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	12)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	13)男
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	14)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	15)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	16)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	17)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	18)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	19)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	20)Charlie Hsu
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	21)::
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	22)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	23)## 生日
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	24)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	25)1983 年 11 月 24 日
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	26)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	27)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	28)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	29)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	30)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	31)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	32)Charlie Hsu
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	33)::
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	34)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	35)## 出生地
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	36)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	37)臺灣臺北市
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	38)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	39)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	40)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	41)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	42)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	43)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	44)Charlie Hsu
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	45)::
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	46)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	47)## 學歷
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	48)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	49)- 新北市中和區南山高中
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	50)- 銘傳大學會計系
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	51)- 美國菲力狄克森大學進修會計碩士
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	52)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	53)## 學歷
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	54)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	55)- 新北市中和區南山高中
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	56)- 銘傳大學會計系
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	57)- 美國菲力狄克森大學進修會計碩士
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	58)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	59)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	60)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	61)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	62)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	63)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	64)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	65)::
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	66)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	67)## 家庭背景
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	68)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	69)張慶忠和陳錦錠之次子，生於臺灣臺北市。隨父親定居於新北市中和區，現為嘉威聯合會計師事務所會計師。
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	70)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	71)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	72)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	73)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	74)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	75)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	76)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	77)::
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	53)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	54)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	55)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	56)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	57)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	58)Charlie Hsu
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	59)::
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	60)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	61)## 家庭背景
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	62)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	63)張慶忠和陳錦錠之次子，生於臺灣臺北市。隨父親定居於新北市中和區，現為嘉威聯合會計師事務所會計師。
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	64)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	65)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	66)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	67)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	68)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	69)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	70)Charlie Hsu
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	71)::
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	72)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	73)## 從政經歷
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	74)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	75)曾任職於其母陳錦錠新北市議員議會助理一職及國民黨中央委員。
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	76)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	77)2020 年 3 月當選為國民黨中和黨部主委，曾參選 2020 年立法委員（未當選）。
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	78)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	79)## 從政經歷
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	80)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	81)曾任職於其母陳錦錠新北市議員議會助理一職及國民黨中央委員。
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	82)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	83)2020 年 3 月當選為國民黨中和黨部主委，曾參選 2020 年立法委員（未當選）。
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	84)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	85)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	86)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	87)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	88)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	89)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	90)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	91)::
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	92)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	93)## 目前政黨
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	94)
-a893f079	(<you@hsuyuting.com>	2023-06-06 23:10:48 +0800	95)中國國民黨
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	96)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	97)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	98)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	99)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	100)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	101)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	102)Charlie Hsu
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	103)::
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	79)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	80)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	81)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	82)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	83)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	84)Charlie Hsu
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	85)::
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	86)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	87)## 目前政黨
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	88)
+a893f079	(<you@hsuyuting.com>	2023-06-06 23:10:48 +0800	89)中國國民黨
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	90)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	91)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	92)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	93)https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%99%BA%E5%80%AB
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	94)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	95)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	96)Charlie Hsu
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	97)::
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	98)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	99)## 宗教信仰
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	100)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	101)## 兩岸主張
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	102)
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	103)## 性平主張
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	104)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	105)## 宗教信仰
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	106)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	107)## 兩岸主張
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	108)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	109)## 性平主張
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	110)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	111)## 犯罪記錄
+51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	105)## 犯罪記錄

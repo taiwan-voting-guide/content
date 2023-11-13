@@ -22,82 +22,76 @@ c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	20)
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	22)
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	23)## 生日
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	24)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	25)1989 年 7 月 3 日
+407e58a5	(<you@hsuyuting.com>	2023-11-12 20:33:39 +0800	25)1989 年 7 月 3 日 [^1]
 c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	26)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	27)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	28)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	29)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	30)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	31)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	32)Charlie Hsu
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	33)::
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	34)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	35)## 出生地
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	36)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	37)美國密西根州
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	38)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	39)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	40)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	41)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	42)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	43)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	44)Charlie Hsu
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	45)::
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	46)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	47)## 學歷
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	48)
-51eba5a2	(<you@hsuyuting.com>	2023-11-07 01:32:15 +0800	49)- 國立政治大學附屬高級中學畢業 [^1]
-51eba5a2	(<you@hsuyuting.com>	2023-11-07 01:32:15 +0800	50)- 國立台灣大學政治系政治理論組肄業 [^1]
+407e58a5	(<you@hsuyuting.com>	2023-11-12 20:33:39 +0800	27)[^1]: https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	28)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	29)## 出生地
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	30)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	31)美國密西根州
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	32)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	33)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	34)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	35)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	36)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	37)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	38)Charlie Hsu
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	39)::
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	40)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	41)## 學歷
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	42)
+51eba5a2	(<you@hsuyuting.com>	2023-11-07 01:32:15 +0800	43)- 國立政治大學附屬高級中學畢業 [^1]
+51eba5a2	(<you@hsuyuting.com>	2023-11-07 01:32:15 +0800	44)- 國立台灣大學政治系政治理論組肄業 [^1]
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	45)
+51eba5a2	(<you@hsuyuting.com>	2023-11-07 01:32:15 +0800	46)[^1]: https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	47)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	48)## 家庭背景
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	49)
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	50)吳崢出生於美國密西根州，於父母留學期間，3 個月後，母親攜吳崢先行返台，成長於台北市內湖區，吳崢之名取自「與世無爭」，吳崢有一弟弟吳為取自「清淨無為」。吳崢的祖父母在 1949 年隨著中華民國政府來台，祖父吳俊屬胡宗南舊部，官拜陸軍少將。吳崢父親是律師。吳崢自稱因為家庭外省背景及少時接觸的書籍多有中國民族主義的色彩等因素，政治立場一度傾向中國國民黨。
 c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	51)
-51eba5a2	(<you@hsuyuting.com>	2023-11-07 01:32:15 +0800	52)[^1]: https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	53)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	54)## 家庭背景
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	55)
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	56)吳崢出生於美國密西根州，於父母留學期間，3 個月後，母親攜吳崢先行返台，成長於台北市內湖區，吳崢之名取自「與世無爭」，吳崢有一弟弟吳為取自「清淨無為」。吳崢的祖父母在 1949 年隨著中華民國政府來台，祖父吳俊屬胡宗南舊部，官拜陸軍少將。吳崢父親是律師。吳崢自稱因為家庭外省背景及少時接觸的書籍多有中國民族主義的色彩等因素，政治立場一度傾向中國國民黨。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	57)
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	58)曾與學運夥伴賴品妤、三立新聞台記者兼主播謝家璇交往。2018 年自網路上領養一隻名為「阿咪」的賓士貓。信仰基督長老宗，是台灣基督長老教會成員。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	59)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	60)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	61)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	62)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	63)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	64)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	65)Charlie Hsu
-a786dbcb	(<you@hsuyuting.com>	2023-06-06 22:54:51 +0800	66)::
-a786dbcb	(<you@hsuyuting.com>	2023-06-06 22:54:51 +0800	67)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	68)## 從政經歷
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	69)
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	70)- 2018 年 1 月時代力量舉辦 3 週年黨慶公布第一波議員參選名單，代表時代力量參選台北市議員第三選區（松山區、信義區）。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	71)- 2018 年 10 月 27 日，吳崢在個人 facebook 表態不支持柯文哲連任當台北市市長。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	72)- 2019 年 11 月 8 日，因理念不合宣布退出時代力量。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	73)- 2020 年立委林昶佐發起以改造國家體制等訴求的「二〇四六台灣」連線，立法委員洪申翰、賴品妤、縣市議員張之豪、林亮君、林穎孟、黃郁芬、戴瑋姍、曾玟學、黃守達、黃捷、高閔琳等人於 2020 年 10 月 16 日召開記者會宣佈正式成立。時任林亮君助理的吳崢亦以共同發起人的身份參與其中。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	74)- 2022 年 4 月 25 日宣布再度參選臺北市第三選舉區（松山、信義區）臺北市議員，最終以 396 票之差成為落選頭。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	75)- 2023 年 5 月 24 日，民主進步黨中執會通過徵召案，黨主席賴清德宣佈吳崢代表民主大聯盟入黨投入 2024 年中華民國立法委員選舉新北市第八選舉區，將對上中國國民黨前立委張慶忠之子張智倫。
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	76)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	77)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	78)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	79)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	80)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	81)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	82)Charlie Hsu
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	83)::
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	84)
-c475d2d7	(<you@hsuyuting.com>	2023-06-06 22:13:34 +0800	85)## 目前政黨
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	86)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	87)民主進步黨
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	88)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	89)::metadata
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	90)#source
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	91)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	92)
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	93)#contributor
-25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	94)Charlie Hsu
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	95)::
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	52)曾與學運夥伴賴品妤、三立新聞台記者兼主播謝家璇交往。2018 年自網路上領養一隻名為「阿咪」的賓士貓。信仰基督長老宗，是台灣基督長老教會成員。
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	53)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	54)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	55)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	56)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	57)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	58)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	59)Charlie Hsu
+a786dbcb	(<you@hsuyuting.com>	2023-06-06 22:54:51 +0800	60)::
+a786dbcb	(<you@hsuyuting.com>	2023-06-06 22:54:51 +0800	61)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	62)## 從政經歷
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	63)
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	64)- 2018 年 1 月時代力量舉辦 3 週年黨慶公布第一波議員參選名單，代表時代力量參選台北市議員第三選區（松山區、信義區）。
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	65)- 2018 年 10 月 27 日，吳崢在個人 facebook 表態不支持柯文哲連任當台北市市長。
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	66)- 2019 年 11 月 8 日，因理念不合宣布退出時代力量。
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	67)- 2020 年立委林昶佐發起以改造國家體制等訴求的「二〇四六台灣」連線，立法委員洪申翰、賴品妤、縣市議員張之豪、林亮君、林穎孟、黃郁芬、戴瑋姍、曾玟學、黃守達、黃捷、高閔琳等人於 2020 年 10 月 16 日召開記者會宣佈正式成立。時任林亮君助理的吳崢亦以共同發起人的身份參與其中。
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	68)- 2022 年 4 月 25 日宣布再度參選臺北市第三選舉區（松山、信義區）臺北市議員，最終以 396 票之差成為落選頭。
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	69)- 2023 年 5 月 24 日，民主進步黨中執會通過徵召案，黨主席賴清德宣佈吳崢代表民主大聯盟入黨投入 2024 年中華民國立法委員選舉新北市第八選舉區，將對上中國國民黨前立委張慶忠之子張智倫。
+c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	70)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	71)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	72)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	73)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	74)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	75)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	76)Charlie Hsu
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	77)::
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	78)
+c475d2d7	(<you@hsuyuting.com>	2023-06-06 22:13:34 +0800	79)## 目前政黨
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	80)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	81)民主進步黨
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	82)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	83)::metadata
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	84)#source
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	85)https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%B4%A2
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	86)
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	87)#contributor
+25259ca6	(<you@hsuyuting.com>	2023-06-10 17:27:46 +0800	88)Charlie Hsu
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	89)::
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	90)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	91)## 宗教信仰
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	92)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	93)## 兩岸主張
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	94)
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	95)## 性平主張
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	96)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	97)## 宗教信仰
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	98)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	99)## 兩岸主張
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	100)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	101)## 性平主張
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	102)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	103)## 犯罪記錄
+1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	97)## 犯罪記錄
