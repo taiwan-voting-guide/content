@@ -1,8 +1,8 @@
 e0a4fe1a	(<you@hsuyuting.com>	2023-05-25 00:27:27 +0800	1)# 吳崢
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	2)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	3)## 2024 政見
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	3)## 2024政見
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	4)
-c6983ae6	(<you@hsuyuting.com>	2023-06-06 21:53:56 +0800	5)## 2024 帶(離)職參選
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	5)## 2024帶職參選
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	6)
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	7)否
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	8)

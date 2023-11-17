@@ -1,23 +1,33 @@
 36645026	(<you@hsuyuting.com>	2023-04-27 01:42:51 +0800	1)# 柯文哲
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	2)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	3)## 目前政黨
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	3)## 2024政見
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	4)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	5)台灣民眾黨
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	5)## 2024帶職參選
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	6)
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	7)## 性別
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	8)
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	9)男
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	10)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	11)::metadata
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	12)#contributor
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	13)Ku龜 - 台文外交龜 - Tâigí Taiwanese Diplomat
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	14)::
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	15)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	16)## 出生地
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	17)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	18)新竹縣新竹市
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	19)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	20)::metadata
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	21)#contributor
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	22)Ku龜 - 台文外交龜 - Tâigí Taiwanese Diplomat
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	23)::
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	11)## 生日
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	12)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	13)## 出生地
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	14)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	15)新竹縣新竹市
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	16)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	17)## 學歷
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	18)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	19)## 家庭背景
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	20)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	21)## 從政經歷
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	22)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	23)## 目前政黨
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	24)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	25)台灣民眾黨
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	26)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	27)## 宗教信仰
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	28)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	29)## 兩岸主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	30)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	31)## 性平主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	32)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	33)## 犯罪記錄
