@@ -28,18 +28,20 @@
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	28)- 中央警官學校刑事警察學系學士（正科 45 期）（1980 年）
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	29)- 中央警察大學犯罪防治研究所法學博士（2005 年）
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	30)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	31)## 家庭背景
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	32)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	33)## 從政經歷
+2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	31)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
+2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	32)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	33)## 家庭背景
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	34)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	35)## 目前政黨
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	36)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	37)中國國民黨
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	38)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	39)## 宗教信仰
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	35)## 從政經歷
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	36)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	37)## 目前政黨
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	38)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	39)中國國民黨
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	40)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	41)## 兩岸主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	41)## 宗教信仰
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	42)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	43)## 性平主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	43)## 兩岸主張
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	44)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	45)## 犯罪記錄
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	45)## 性平主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	46)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	47)## 犯罪記錄
