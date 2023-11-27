@@ -48,32 +48,3 @@ function parseLine(str) {
     content,
   };
 }
-
-// Read directory
-// s.readdir(folderPath, (err, files) => {
-//     if (err) {
-//         console.error('Error reading directory:', err);
-//         return;
-//     }
-//
-//     // Loop through each file in the directory
-//     files.forEach(file => {
-//         const filePath = path.join(folderPath, file);
-//
-//         const fileStream = fs.createReadStream(filePath);
-//
-//         // Use readline to read the file line by line
-//         const rl = readline.createInterface({
-//             input: fileStream,
-//             crlfDelay: Infinity
-//         });
-//
-//         rl.on('line', (line) => {
-//             console.log(`Line from ${file}: ${line}`);
-//         });
-//
-//         rl.on('close', () => {
-//             console.log(`Finished reading ${file}`);
-//         });
-//     });
-// });
