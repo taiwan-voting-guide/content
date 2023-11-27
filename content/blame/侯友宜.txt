@@ -8,40 +8,44 @@
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	8)
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	9)## 性別
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	10)
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	11)男
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	12)
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	13)## 生日
+3dc99835	(<taiwan.voting.guide@gmail.com>	2023-11-28 03:22:33 +0800	11)男 [^1]
+3dc99835	(<taiwan.voting.guide@gmail.com>	2023-11-28 03:22:33 +0800	12)
+3dc99835	(<taiwan.voting.guide@gmail.com>	2023-11-28 03:22:33 +0800	13)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	14)
-047996c0	(<taiwan.voting.guide@gmail.com>	2023-09-17 20:39:51 +0800	15)1957 年 6 月 7 日 [^1]
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	15)## 生日
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	16)
-047996c0	(<taiwan.voting.guide@gmail.com>	2023-09-17 20:39:51 +0800	17)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
+047996c0	(<taiwan.voting.guide@gmail.com>	2023-09-17 20:39:51 +0800	17)1957 年 6 月 7 日 [^1]
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	18)
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	19)## 出生地
+047996c0	(<taiwan.voting.guide@gmail.com>	2023-09-17 20:39:51 +0800	19)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	20)
-9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	21)嘉義縣朴子市 [^1]
-9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	22)
-9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	23)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	24)
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	25)## 學歷
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	21)## 出生地
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	22)
+9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	23)嘉義縣朴子市 [^1]
+9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	24)
+9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	25)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	26)
-9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	27)- 臺灣省立嘉義高級中學 [^1]
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	28)- 中央警官學校刑事警察學系學士（正科 45 期）（1980 年）
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	29)- 中央警察大學犯罪防治研究所法學博士（2005 年）
-69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	30)
-2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	31)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
-2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	32)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	33)## 家庭背景
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	34)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	35)## 從政經歷
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	27)## 學歷
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	28)
+9482aaeb	(<you@hsuyuting.com>	2023-11-12 02:18:37 +0800	29)- 臺灣省立嘉義高級中學 [^1]
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	30)- 中央警官學校刑事警察學系學士（正科 45 期）（1980 年）
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	31)- 中央警察大學犯罪防治研究所法學博士（2005 年）
+69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	32)
+2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	33)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
+2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	34)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	35)## 家庭背景
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	36)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	37)## 目前政黨
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	38)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	39)中國國民黨
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	40)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	41)## 宗教信仰
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	42)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	43)## 兩岸主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	37)## 從政經歷
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	38)
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	39)## 目前政黨
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	40)
+3dc99835	(<taiwan.voting.guide@gmail.com>	2023-11-28 03:22:33 +0800	41)中國國民黨 [^1]
+3dc99835	(<taiwan.voting.guide@gmail.com>	2023-11-28 03:22:33 +0800	42)
+3dc99835	(<taiwan.voting.guide@gmail.com>	2023-11-28 03:22:33 +0800	43)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	44)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	45)## 性平主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	45)## 宗教信仰
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	46)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	47)## 犯罪記錄
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	47)## 兩岸主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	48)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	49)## 性平主張
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	50)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	51)## 犯罪記錄
