@@ -15,10 +15,14 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
       - id: blame
         continue-on-error: true
         run: |
           git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" | xargs ./scripts/blame.sh
+          node ./scripts/contribution.js
       - if: ${{ steps.blame.outcome == 'success' }}
         uses: EndBug/add-and-commit@v9
         with:
