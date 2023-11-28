@@ -32,7 +32,7 @@
 
 <video autoplay loop muted controls playsinline>
     <source src="/docs/move-tag.webm" type="video/webm" />
-    <source src="/docs/move-tag.imp4" type="video/mp4" />
+    <source src="/docs/move-tag.mp4" type="video/mp4" />
 </video>
 
 你可以點選資訊標籤右邊的箭頭跳至該內容。
