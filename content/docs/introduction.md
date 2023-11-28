@@ -9,7 +9,7 @@
 
 ### Q: 找不到我想要看到的內容
 
-如果你認為有某項資訊是重要，但並沒有列在標籤牆上，請參考[新增資訊標籤](/docs/how-to-contribute#tag)。
+如果你認為有某項資訊是重要，但並沒有列在標籤牆上，請參考[新增資訊標籤](/docs/how-to-contribute#增加或修改資訊標籤)。
 
 ### Q: 資訊與事實不符
 
@@ -35,4 +35,10 @@
 
 ---
 
+我們盡力讓所有資訊與決定公開透明：所有的程式碼、內容修改的請求、審核的過程都公開在GitHub。
+
+- [https://github.com/taiwan-voting-guide/app](https://github.com/taiwan-voting-guide/app)
+- [https://github.com/taiwan-voting-guide/content](https://github.com/taiwan-voting-guide/content)
+
+---
 > Democracy cannot succeed unless those who express their choice are prepared to choose wisely. - Franklin D. Roosevelt
