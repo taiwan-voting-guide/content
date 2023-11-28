@@ -8,12 +8,14 @@
 
 <video autoplay loop muted controls playsinline>
     <source src="/docs/add-politician.webm" type="video/webm" />
+    <source src="/docs/add-politician.mp4" type="video/mp4" />
 </video>
 
 - 你可以自由地拖動政治人物的卡片，依據你的偏好進行排序。
 
 <video autoplay loop muted controls playsinline>
-    <source src="/docs/sort-politician.webm">
+    <source src="/docs/sort-politician.webm" type="video/webm" />
+    <source src="/docs/sort-politician.mp4" type="video/mp4" />
 </video>
 
 ## 如何檢索想看到的內容
@@ -22,30 +24,38 @@
 - 點選`Ｘ`刪除已選取的內容。
 
 <video autoplay loop muted controls playsinline>
-    <source src="/docs/add-tag.webm">
+    <source src="/docs/add-tag.webm" type="video/webm" />
+    <source src="/docs/add-tag.mp4" type="video/mp4" />
 </video>
 
 你可以自由地拖動各項資訊標籤，依據你的偏好進行排序。
+
 <video autoplay loop muted controls playsinline>
-<source src="/docs/move-tag.webm">
+    <source src="/docs/move-tag.webm" type="video/webm" />
+    <source src="/docs/move-tag.imp4" type="video/mp4" />
 </video>
 
 你可以點選資訊標籤右邊的箭頭跳至該內容。
 
 <video autoplay loop muted controls playsinline>
-    <source src="/docs/jump-tag.webm">
+    <source src="/docs/jump-tag.webm" type="video/webm" />
+    <source src="/docs/jump-tag.mp4" type="video/mp4" />
 </video>
 
 ## 查看來源
 
 點選每一行中或結尾的`數字連結`便會移動至該筆資訊的來源。
+
 <video autoplay loop muted controls playsinline>
-<source src="/docs/find-source.webm">
+    <source src="/docs/find-source.webm" type="video/webm" />
+    <source src="/docs/find-source.mp4" type="video/mp4" />
 </video>
 
 ## 查看貢獻者
 
 點選`顯示貢獻者`以查看該筆資訊的貢獻者。
+
 <video autoplay loop muted controls playsinline>
-<source src="/docs/show-author.webm">
+    <source src="/docs/show-author.webm" type="video/webm" />
+    <source src="/docs/show-author.mp4" type="video/mp4" />
 </video>
