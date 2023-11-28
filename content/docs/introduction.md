@@ -9,7 +9,7 @@
 
 ### Q: 找不到我想要看到的內容
 
-如果你認為有某項資訊是重要，但並沒有列在標籤牆上，請參考[新增資訊標籤](/docs/how-to-contribute#tag)
+如果你認為有某項資訊是重要，但並沒有列在標籤牆上，請參考[新增資訊標籤](/docs/how-to-contribute#tag)。
 
 ### Q: 資訊與事實不符
 
@@ -23,9 +23,9 @@
 
 [看看貢獻的人有誰](/analysis/contribution)
 
-### 與我們合作的組織
+### 與我們合作的貢獻者
 
-[彩虹平權大平台](https://pridewatch.tw/)
+[彩虹平權大平台 PrideWatch](https://pridewatch.tw/)
 
 ## 如果你是候選人：
 
