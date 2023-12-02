@@ -1,6 +1,10 @@
 {
-  "timestamp": 1701543831362,
+  "timestamp": 1701546685461,
   "lineCounts": [
+    {
+      "email": "equallovetw@equallove.tw",
+      "count": 88
+    },
     {
       "email": "you@hsuyuting.com",
       "count": 40
@@ -8,10 +12,6 @@
     {
       "email": "taiwan.voting.guide@gmail.com",
       "count": 16
-    },
-    {
-      "email": "equallovetw@equallove.tw",
-      "count": 8
     },
     {
       "email": "jasmine820921@gmail.com",
