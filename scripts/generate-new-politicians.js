@@ -2,10 +2,10 @@ const fs = require("fs/promises");
 const path = require("path");
 
 (async function () {
-  const [,, ...params] = process.argv;
+  const [, , ...params] = process.argv;
   const [namefile] = params;
 
-  const template = await fs.open('content/template.md', "r");
+  const template = await fs.open("content/template.md", "r");
   const templateContent = await template.readFile("utf8");
 
   const file = await fs.open(namefile, "r");
@@ -23,8 +23,7 @@ const path = require("path");
     }
 
     const content = templateContent.replace(/<姓名>/g, name);
-    console.log(filename)
+    console.log(filename);
     fs.writeFile(filename, content);
   }
-
 })();
