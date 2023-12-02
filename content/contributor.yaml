@@ -1,20 +1,16 @@
--
-  email: taiwan.voting.guide@gmail.com
+- email: taiwan.voting.guide@gmail.com
   name: 選前大補帖
   isPolitician: false
   isVerified: true
--
-  email: you@hsuyuting.com
+- email: you@hsuyuting.com
   name: 許煜廷
   isPolitician: false
   isVerified: true
-- 
-  email: equallovetw@equallove.tw
+- email: equallovetw@equallove.tw
   name: 彩虹平權大平台
   isPolitician: false
   isVerified: true
-- 
-  email: jasmine820921@gmail.com
+- email: jasmine820921@gmail.com
   name: Debby Ji
   isPolitician: false
   isVerified: true
