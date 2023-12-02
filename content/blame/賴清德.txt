@@ -4,36 +4,44 @@
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	4)
 f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	5)## 2024帶公職參選
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	6)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	7)中華民國副總統
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	8)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	9)## 性別
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	7)中華民國副總統 [^1]
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	8)
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	9)[^1]: https://www.president.gov.tw/Page/581
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	10)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	11)男
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	11)## 性別
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	12)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	13)## 生日
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	14)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	15)1959年 10月 6號
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	16)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	17)## 出生地
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	18)
-3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	19)新北市萬里區
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	13)男
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	14)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	15)## 生日
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	16)
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	17)1959年10月6日 [^1]
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	18)
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	19)[^1]: https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	20)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	21)## 學歷
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	22)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	23)## 家庭背景
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	24)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	25)## 從政經歷
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	26)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	27)## 目前政黨
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	21)## 出生地
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	22)
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	23)新北市萬里區[^1]
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	24)
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	25)[^1]: https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	26)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	27)## 學歷
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	28)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	29)民主進步黨
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	29)## 家庭背景
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	30)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	31)## 宗教信仰
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	31)## 從政經歷
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	32)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	33)## 兩岸主張
-16bbd4d5	(<taiwan.voting.guide@gmail.com>	2023-09-12 21:05:43 +0800	34)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	35)## 性平主張
-16bbd4d5	(<taiwan.voting.guide@gmail.com>	2023-09-12 21:05:43 +0800	36)
-f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	37)## 前科
-f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	38)
-f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	39)## Meme迷因
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	33)## 目前政黨
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	34)
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	35)民主進步黨 [^1]
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	36)
+be9e6152	(<taiwan.voting.guide@gmail.com>	2023-12-03 03:03:03 +0800	37)[^1]: https://web.cec.gov.tw/central/cms/112news/40899
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	38)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	39)## 宗教信仰
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	40)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	41)## 兩岸主張
+16bbd4d5	(<taiwan.voting.guide@gmail.com>	2023-09-12 21:05:43 +0800	42)
+24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	43)## 性平主張
+16bbd4d5	(<taiwan.voting.guide@gmail.com>	2023-09-12 21:05:43 +0800	44)
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	45)## 前科
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	46)
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	47)## Meme迷因
