@@ -2,7 +2,7 @@ e0a4fe1a	(<you@hsuyuting.com>	2023-05-25 00:27:27 +0800	1)# 吳崢
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	2)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	3)## 2024政見
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	4)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	5)## 2024帶職參選
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	5)## 2024帶公職參選
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	6)
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	7)否
 1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	8)
@@ -70,4 +70,6 @@ b09df39d	(<equallovetw@equallove.tw>	2023-11-14 02:10:12 +0800	69)- 我願意承
 b09df39d	(<equallovetw@equallove.tw>	2023-11-14 02:10:12 +0800	70)
 b09df39d	(<equallovetw@equallove.tw>	2023-11-14 02:10:12 +0800	71)[^1]: https://pridewatch.tw/candidate/votewucheng
 b09df39d	(<equallovetw@equallove.tw>	2023-11-14 02:10:12 +0800	72)
-1bd9b22f	(<you@hsuyuting.com>	2023-06-05 00:37:50 +0800	73)## 犯罪記錄
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	73)## 前科
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	74)
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	75)## Meme迷因

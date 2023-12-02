@@ -2,7 +2,7 @@
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	2)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	3)## 2024政見
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	4)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	5)## 2024帶職參選
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	5)## 2024帶公職參選
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	6)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	7)中華民國副總統
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	8)
@@ -34,4 +34,6 @@
 16bbd4d5	(<taiwan.voting.guide@gmail.com>	2023-09-12 21:05:43 +0800	34)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	35)## 性平主張
 16bbd4d5	(<taiwan.voting.guide@gmail.com>	2023-09-12 21:05:43 +0800	36)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	37)## 犯罪記錄
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	37)## 前科
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	38)
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	39)## Meme迷因

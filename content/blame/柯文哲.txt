@@ -2,7 +2,7 @@
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	2)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	3)## 2024政見
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	4)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	5)## 2024帶職參選
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	5)## 2024帶公職參選
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	6)
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	7)## 性別
 3ce6efd9	(<you@hsuyuting.com>	2023-08-30 02:02:09 +0800	8)
@@ -30,4 +30,6 @@
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	30)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	31)## 性平主張
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	32)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	33)## 犯罪記錄
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	33)## 前科
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	34)
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	35)## Meme迷因

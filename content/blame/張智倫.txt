@@ -2,7 +2,7 @@ e0a4fe1a	(<you@hsuyuting.com>	2023-05-25 00:27:27 +0800	1)# 張智倫
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	2)
 2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	3)## 2024政見
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	4)
-2368c2a0	(<you@hsuyuting.com>	2023-11-18 13:16:34 +0800	5)## 2024帶職參選
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	5)## 2024帶公職參選
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	6)
 26e8b15b	(<you@hsuyuting.com>	2023-11-12 20:37:15 +0800	7)否 [^1]
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	8)
@@ -46,4 +46,6 @@ a893f079	(<you@hsuyuting.com>	2023-06-06 23:10:48 +0800	41)中國國民黨
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	46)
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	47)## 性平主張
 51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	48)
-51c3621e	(<you@hsuyuting.com>	2023-06-06 22:12:11 +0800	49)## 犯罪記錄
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	49)## 前科
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	50)
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	51)## Meme迷因

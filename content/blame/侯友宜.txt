@@ -2,7 +2,7 @@
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	2)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	3)## 2024政見
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	4)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	5)## 2024帶職參選
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	5)## 2024帶公職參選
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	6)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	7)新北市長
 69c0318d	(<jasmine820921@gmail.com>	2023-07-27 23:09:51 +0800	8)
@@ -48,4 +48,6 @@
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	48)
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	49)## 性平主張
 24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	50)
-24c72bc3	(<you@hsuyuting.com>	2023-11-18 03:18:59 +0800	51)## 犯罪記錄
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	51)## 前科
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	52)
+f6dc4d4c	(<you@hsuyuting.com>	2023-12-02 18:39:13 +0800	53)## Meme迷因
