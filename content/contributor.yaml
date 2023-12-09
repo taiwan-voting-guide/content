@@ -19,3 +19,8 @@
   name: byw
   isPolitician: false
   isVerified: false
+-
+  email: ronnywang@gmail.com
+  name: Ronny
+  isPolitician: false
+  isVerified: false
