@@ -14,3 +14,8 @@
   name: Debby Ji
   isPolitician: false
   isVerified: true
+-
+  email: bangyuwen@gmail.com
+  name: byu
+  isPolitician: false
+  isVerified: false
