@@ -1,5 +1,5 @@
 {
-  "timestamp": 1701968074245,
+  "timestamp": 1702104608939,
   "lineCounts": [
     {
       "email": "equallovetw@equallove.tw",
@@ -14,8 +14,20 @@
       "count": 16
     },
     {
+      "email": "bangyuwen@gmail.com",
+      "count": 6
+    },
+    {
+      "email": "ronnywang+votingguide@gmail.com",
+      "count": 4
+    },
+    {
       "email": "jasmine820921@gmail.com",
       "count": 2
+    },
+    {
+      "email": "ronnywang@gmail.com",
+      "count": 1
     }
   ]
 }
