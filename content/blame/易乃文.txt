@@ -1,45 +1,41 @@
-a9308a96	(<you@hsuyuting.com>	2023-12-03 00:27:25 +0800	1)# 易乃文
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	2)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	3)## 2024政見
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	4)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	5)## 2024帶公職參選
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	6)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	7)## 性別
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	8)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	9)## 生日
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	10)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	11)## 出生地
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	12)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	13)## 學歷
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	14)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	15)## 家庭背景
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	16)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	17)## 從政經歷
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	18)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	19)## 目前政黨
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	20)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	21)## 宗教信仰
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	22)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	23)## 兩岸主張
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	24)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	25)## 性平主張
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	26)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	27)## 前科
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	28)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	29)## Meme迷因
-a9308a96	(<you@hsuyuting.com>	2023-12-03 00:27:25 +0800	30)
-a9308a96	(<you@hsuyuting.com>	2023-12-03 00:27:25 +0800	31)## 2024網友提問
-7a43dc6c	(<equallovetw@equallove.tw>	2023-12-03 03:50:09 +0800	32)
-7a43dc6c	(<equallovetw@equallove.tw>	2023-12-03 03:50:09 +0800	33)## 2024性別友善候選人問卷
-3d94f409	(<you@hsuyuting.com>	2023-12-03 21:23:53 +0800	34)
-3d94f409	(<you@hsuyuting.com>	2023-12-03 21:23:53 +0800	35)## 2020政見與達成度
-a1e3a372	(<you@hsuyuting.com>	2023-12-08 00:53:55 +0800	36)
-a1e3a372	(<you@hsuyuting.com>	2023-12-08 00:53:55 +0800	37)## 性別相關政績
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	38)
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	39)## 國防主張
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	40)
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	41)## 能源主張
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	42)
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	43)## 訴訟記錄
-0ae530db	(<you@hsuyuting.com>	2023-12-09 14:55:34 +0800	44)
-0ae530db	(<you@hsuyuting.com>	2023-12-09 14:55:34 +0800	45)## 經歷
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	1)# 易乃文
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	2)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	3)## 個人基本資訊
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	4)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	5)### 出生年月日
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	6)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	7)### 性別
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	8)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	9)### 出生地
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	10)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	11)## 政黨
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	12)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	13)## 家庭背景
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	14)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	15)## 連任帶職
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	16)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	17)## 政見
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	18)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	19)## 學經歷
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	20)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	21)## 國防外交
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	22)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	23)## 能源環境
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	24)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)## 性別平權
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	26)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	27)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
