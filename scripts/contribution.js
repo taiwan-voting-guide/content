@@ -13,7 +13,7 @@ const folderPath = "content/blame";
     for await (const line of file.readLines()) {
       const { email, content } = parseLine(line);
 
-      if (!content || content.startsWith("# ") || content.startsWith("## ")) {
+      if (!content || content.startsWith("# ") || content.startsWith("## ") || content.startsWith("###")) {
         continue;
       }
 
