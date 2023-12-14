@@ -14,36 +14,40 @@ adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	14)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	15)## 連任帶職
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	16)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	17)## 政見
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	18)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	19)## 學經歷
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	20)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	21)## 國防外交
+6efd3cd9	(<bangyuwen@gmail.com>	2023-12-14 21:21:09 +0800	17)- 中廣董事長[^1]
+6efd3cd9	(<bangyuwen@gmail.com>	2023-12-14 21:21:09 +0800	18)
+6efd3cd9	(<bangyuwen@gmail.com>	2023-12-14 21:21:09 +0800	19)[^1]: https://tw.news.yahoo.com/你越逼我越不辭-回應政大生-趙少康-當選1年沒推內閣制就辭中廣董座-042200399.html
+6efd3cd9	(<bangyuwen@gmail.com>	2023-12-14 21:21:09 +0800	20)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	21)## 政見
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	22)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	23)### 國防主張
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	23)## 學經歷
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	24)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	25)- 質疑國軍4個月義務役不足以應付國防需求 - 2021 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	26)- 堅決反對延長兵役 - 2022 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	27)- 反對M136火山布雷系統 - 2023 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	25)## 國防外交
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	26)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	27)### 國防主張
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	28)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	29)[^1]: https://zh.wikipedia.org/zh-tw/趙少康
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	30)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	31)## 能源環境
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	29)- 質疑國軍4個月義務役不足以應付國防需求 - 2021 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	30)- 堅決反對延長兵役 - 2022 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	31)- 反對M136火山布雷系統 - 2023 [^1]
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	32)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	33)## 性別平權
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	33)[^1]: https://zh.wikipedia.org/zh-tw/趙少康
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	34)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	35)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	35)## 能源環境
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	36)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)## 性別平權
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)## 教育文化
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)## 建設交通
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)## 經濟財政
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	44)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 社福衛生
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)## 司法紀錄
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 其他
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 其他
