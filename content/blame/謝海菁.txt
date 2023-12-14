@@ -38,4 +38,6 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
+f3756c52	(<bangyuwen@gmail.com>	2023-12-14 22:26:34 +0800	41)- [介紹影片](https://udn.com/news/story/123475/7593650)
+f3756c52	(<bangyuwen@gmail.com>	2023-12-14 22:26:34 +0800	42)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)## 其他
