@@ -1,45 +1,50 @@
-a9308a96	(<you@hsuyuting.com>	2023-12-03 00:27:25 +0800	1)# 黃一哲
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	2)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	3)## 2024政見
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	4)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	5)## 2024帶公職參選
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	6)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	7)## 性別
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	8)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	9)## 生日
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	10)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	11)## 出生地
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	12)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	13)## 學歷
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	14)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	15)## 家庭背景
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	16)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	17)## 從政經歷
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	18)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	19)## 目前政黨
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	20)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	21)## 宗教信仰
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	22)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	23)## 兩岸主張
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	24)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	25)## 性平主張
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	26)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	27)## 前科
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	28)
-bd25badf	(<you@hsuyuting.com>	2023-12-02 20:42:40 +0800	29)## Meme迷因
-a9308a96	(<you@hsuyuting.com>	2023-12-03 00:27:25 +0800	30)
-a9308a96	(<you@hsuyuting.com>	2023-12-03 00:27:25 +0800	31)## 2024網友提問
-7a43dc6c	(<equallovetw@equallove.tw>	2023-12-03 03:50:09 +0800	32)
-7a43dc6c	(<equallovetw@equallove.tw>	2023-12-03 03:50:09 +0800	33)## 2024性別友善候選人問卷
-3d94f409	(<you@hsuyuting.com>	2023-12-03 21:23:53 +0800	34)
-3d94f409	(<you@hsuyuting.com>	2023-12-03 21:23:53 +0800	35)## 2020政見與達成度
-a1e3a372	(<you@hsuyuting.com>	2023-12-08 00:53:55 +0800	36)
-a1e3a372	(<you@hsuyuting.com>	2023-12-08 00:53:55 +0800	37)## 性別相關政績
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	38)
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	39)## 國防主張
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	40)
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	41)## 能源主張
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	42)
-1ef84327	(<you@hsuyuting.com>	2023-12-09 14:49:43 +0800	43)## 訴訟記錄
-0ae530db	(<you@hsuyuting.com>	2023-12-09 14:55:34 +0800	44)
-0ae530db	(<you@hsuyuting.com>	2023-12-09 14:55:34 +0800	45)## 經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	1)# 黃一哲
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	2)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	3)## 個人基本資訊
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	4)
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	5)### 出生年月日
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	6)
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	7)### 性別
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	8)
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	9)### 出生地
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	11)## 政黨
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	12)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	13)## 家庭背景
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	14)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	15)## 連任帶職
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	16)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	17)## 政見
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	18)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	19)### 2024
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	20)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	21)1. 打破 「政治世襲,黑官顧問」 派系私相授受~ 明修棧道, 暗渡陳倉~ [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	22)2. 外籍男女兵團保衛台灣，支援水電和農業缺工+山區建設避難基地(桃花源) [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	23)3. 解決山區“水電道路”基礎建設問題 +農特商品(生技園區)包裝, 直接外銷國際。 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	24)4. 發展山區的 賽車+賽馬+博弈+情色+觀光休閒產業, (台灣之光 超越歐美日)。 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	25)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	26)[^1]:https://www.facebook.com/photo/?fbid=844216931048455&set=a.366500452153441&locale=zh_TW
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	27)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	28)## 學經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	29)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	30)## 國防外交
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	31)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	32)## 能源環境
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	33)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	34)## 性別平權
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	35)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	36)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	44)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)## 其他
