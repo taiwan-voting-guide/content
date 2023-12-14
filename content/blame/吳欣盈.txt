@@ -40,7 +40,7 @@ adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)## 能源環境
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)
-207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	43)請參考柯文哲
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	43)### 請參考柯文哲
 207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	44)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 性別平權
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)
