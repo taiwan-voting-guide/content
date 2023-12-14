@@ -40,20 +40,22 @@ adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)## 能源環境
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)## 性別平權
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	44)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 教育文化
+207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	43)請參考柯文哲
+207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	44)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 性別平權
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)## 教育文化
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 建設交通
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)## 經濟財政
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 社福衛生
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	54)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	55)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	55)## 司法紀錄
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	56)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 爭議事件
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	58)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)## 其他
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	60)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)## 其他
