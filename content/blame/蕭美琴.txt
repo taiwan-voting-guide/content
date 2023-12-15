@@ -61,4 +61,11 @@ f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +08
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	62)## 發言表態
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	63)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	64)## 其他
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	64)### 專訪
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	65)
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	66)- [敏迪專訪](https://www.youtube.com/watch?v=MfbV62jDA0s)
+2d3c196c	(<bangyuwen@gmail.com>	2023-12-15 21:54:26 +0800	67)- [鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
+f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	68)### 校園
+f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	69)- [政大－青年議題](https://www.youtube.com/watch?v=PZvg56-ezlM)
+f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	70)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	71)## 其他
