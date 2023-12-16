@@ -38,24 +38,30 @@ adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)## 國防外交
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)## 能源環境
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	43)### 請參考柯文哲
-207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	44)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 性別平權
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)## 教育文化
+039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	41)### 相關事件
+7d2561a1	(<bangyuwen@gmail.com>	2023-12-16 23:28:47 +0800	42)- 參加聯合國氣候峰會卻不得其門而入，訪外交受限主因就是吳欣盈的「副總統候選人」身分[^1][^2]
+039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	43)
+1f1ea912	(<bangyuwen@gmail.com>	2023-12-16 23:29:28 +0800	44)[^1]: https://tw.news.yahoo.com/吳欣盈2度開酸-斷交部-外交部長文5度稱-不解-093900284.html
+7d2561a1	(<bangyuwen@gmail.com>	2023-12-16 23:28:47 +0800	45)[^2]: https://tw.news.yahoo.com/吳欣盈批外交部-斷交部-洪申翰-這樣的羞辱已經越線了-051512336.html
+039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	46)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)## 能源環境
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 建設交通
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)## 經濟財政
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	49)### 請參考柯文哲
+207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	50)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)## 性別平權
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 教育文化
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	54)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	55)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	55)## 建設交通
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	56)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 經濟財政
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	58)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)## 社福衛生
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	60)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)## 其他
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	62)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	63)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	64)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	66)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	67)## 其他
