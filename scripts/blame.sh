@@ -1,5 +1,9 @@
 #/bin/sh
 
+OLD_IFS="$IFS"
+
+IFS=$'\n'
+
 if [ $# -eq 0 ]; then
   echo "No files provided. Exiting."
   exit 1

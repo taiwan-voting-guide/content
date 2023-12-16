@@ -14,7 +14,7 @@
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	14)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	15)新竹縣新竹市 [^1]
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	16)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	17)[^1]: https://zh.wikipedia.org/wiki/%E6%9F%AF%E6%96%87%E5%93%B2
+90788019	(<bangyuwen@gmail.com>	2023-12-16 20:07:50 +0800	17)[^1]: https://zh.wikipedia.org/wiki/柯文哲
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	18)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	19)## 政黨
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	20)
@@ -30,45 +30,66 @@
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	30)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	31)## 學經歷
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	32)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	33)## 國防外交
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	34)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	35)## 能源環境
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	36)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	37)### 重新制定能源規畫，保持發電方式多元[^1]
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	38)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	39)- 燃氣占45%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	40)- 再生能源占30%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	41)- 燃煤發電占15%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	42)- 核能占比為10%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	43)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	44)### 重新整頓輸電、儲電、節電 遏止台電、中油長年虧損[^1]
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	45)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	46)- 加速發展儲電、更新智慧電網，搭配需量反應和電價梯度的政策誘因
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	47)- 打造虛擬電廠
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	48)- 連結分散的小型發電設備
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	49)- 重新評估各種能源會計成本、均化成本和土地利用效益
+448cef7a	(<bangyuwen@gmail.com>	2023-12-16 09:15:05 +0800	33)### 工作[^1]
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	34)- 台大醫院醫師
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	35)
+e24f5726	(<bangyuwen@gmail.com>	2023-12-16 09:15:10 +0800	36)### 政治工作[^1]
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	37)- 台北市長
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	38)- 民眾黨主席
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	39)
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	40)
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	41)[^1]: ttps://zh.wikipedia.org/zh-tw/柯文哲
+ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	42)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	43)## 國防外交
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	44)
+5042513f	(<bangyuwen@gmail.com>	2023-12-15 22:03:07 +0800	45)- [承認超譯葛來儀](https://www.youtube.com/shorts/xAaHkOU7BP8)
+5042513f	(<bangyuwen@gmail.com>	2023-12-15 22:03:07 +0800	46)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	47)## 能源環境
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	48)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	49)### 重新制定能源規畫，保持發電方式多元[^1]
 60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	50)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	51)### 成立「氣候永續委員會」，整合碳預算[^1]
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	52)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	53)- 設立專責氣候政策的「氣候永續委員會」，編列碳預算，監督行政部門政策落實情形
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	54)- 成立「氣候永續轉型基金」，協助轉型過程中遭到衝擊的中小型企業
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	51)- 燃氣占45%
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	52)- 再生能源占30%
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	53)- 燃煤發電占15%
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	54)- 核能占比為10%
 60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	55)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	56)[^1]: https://www.2024kpromise.tw/political/11/?postTab=solution 
-bd2c0abe	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:43:34 +0800	57)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	58)## 性別平權
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	59)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	60)## 教育文化
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	61)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	62)## 建設交通
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	63)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	64)## 經濟財政
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	65)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	66)## 社福衛生
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	67)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	68)## 司法紀錄
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	69)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	70)## 爭議事件
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	56)### 重新整頓輸電、儲電、節電 遏止台電、中油長年虧損[^1]
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	57)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	58)- 加速發展儲電、更新智慧電網，搭配需量反應和電價梯度的政策誘因
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	59)- 打造虛擬電廠
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	60)- 連結分散的小型發電設備
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	61)- 重新評估各種能源會計成本、均化成本和土地利用效益
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	62)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	63)### 成立「氣候永續委員會」，整合碳預算[^1]
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	64)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	65)- 設立專責氣候政策的「氣候永續委員會」，編列碳預算，監督行政部門政策落實情形
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	66)- 成立「氣候永續轉型基金」，協助轉型過程中遭到衝擊的中小型企業
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	67)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	68)[^1]: https://www.2024kpromise.tw/political/11/?postTab=solution 
+bd2c0abe	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:43:34 +0800	69)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	70)## 性別平權
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	71)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	72)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	72)## 教育文化
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	73)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	74)## 其他
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	74)## 建設交通
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	75)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	76)## 經濟財政
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	77)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	78)## 社福衛生
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	79)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	80)## 司法紀錄
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	81)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	82)## 爭議事件
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	83)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	84)### 質詢
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	85)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	86)- [未按照政策公開透明市府政策宣導內容](https://youtu.be/03TWxjttMHs?t=1006)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	87)- [使用稅金行銷個人](https://youtu.be/03TWxjttMHs?t=234)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	88)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	89)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	90)
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	91)### 專訪
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	92)- [新聞面對面](https://www.youtube.com/watch?v=ebawhgsTkos)
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	93)- [斐姨所思](https://www.youtube.com/watch?v=aT9adT89c6c)
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	94)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	95)## 其他

@@ -50,4 +50,8 @@ adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)## 發言表態
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 其他
+17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	53)### 校園講座
+17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	54)
+17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	55)- [政大](https://youtu.be/vwpaEZDHKQc?t=2372)
+17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	56)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 其他

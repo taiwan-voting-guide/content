@@ -38,18 +38,24 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 性別平權
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	44)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	45)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)## 社福衛生
+daa81147	(<bangyuwen@gmail.com>	2023-12-14 22:24:45 +0800	41)- 推動基隆性別友善校園環境[^1]
+daa81147	(<bangyuwen@gmail.com>	2023-12-14 22:24:45 +0800	42)- 爭取基隆市公共空間廁所免費提供衛生棉[^1]
+daa81147	(<bangyuwen@gmail.com>	2023-12-14 22:24:45 +0800	43)- 推動基隆性別友善廁所設立[^1]
+daa81147	(<bangyuwen@gmail.com>	2023-12-14 22:24:45 +0800	44)
+daa81147	(<bangyuwen@gmail.com>	2023-12-14 22:24:45 +0800	45)[^1]: https://pridewatch.tw/candidate/2024tingkeelung
+daa81147	(<bangyuwen@gmail.com>	2023-12-14 22:24:45 +0800	46)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)## 教育文化
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)## 建設交通
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)## 經濟財政
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	52)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)## 社福衛生
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	54)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	55)## 其他
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	55)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	56)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	57)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	58)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	59)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	60)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	61)## 其他

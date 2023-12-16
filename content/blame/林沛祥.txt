@@ -18,24 +18,37 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	18)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	19)## 學經歷
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	20)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	21)## 國防外交
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	22)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	23)## 能源環境
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	24)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)## 性別平權
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	26)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	27)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	21)### 經歷[^1]
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	22)
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	23)- 國立臺灣海洋大學講師
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	24)- 國立臺北科技大學兼任助理教授
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	25)- 基隆港分公司研究員
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	26)- 臺灣民主基金會國際組主任
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	27)
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	28)### 從政經歷[^1]
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	29)
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	30)- 基隆市議員
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	31)
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	32)[^1]: https://www.kmc.gov.tw/index.php/mac/mi/klal/289-klal-01
+573d0acf	(<bangyuwen@gmail.com>	2023-12-14 22:08:55 +0800	33)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)## 國防外交
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)## 能源環境
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)## 性別平權
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	44)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	45)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	52)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	54)## 其他

@@ -18,24 +18,45 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	18)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	19)## 學經歷
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	20)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	21)## 國防外交
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	22)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	23)## 能源環境
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	24)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)## 性別平權
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	26)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	27)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	21)### 經歷[^1]
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	22)
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	23)- 守護外木山行動小組召集人
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	24)- 基隆護海公投領銜提案人
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	25)- 輔仁大學心理系助理教授
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	26)- 輔仁大學心理學研究所博士
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	27)
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	28)### 政治經歷[^1]
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	29)
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	30)- 基隆市議員
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	31)
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	32)[^1]: https://election.ltn.com.tw/2024/candidate/legislator/Keelung/1
+382aca52	(<bangyuwen@gmail.com>	2023-12-14 22:13:02 +0800	33)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)## 國防外交
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)## 能源環境
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)## 性別平權
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	40)- 推動平等法／反歧視法立法：性別友善、減少歧視[^1]
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	41)- 強化防範數位性暴力：強化教育、保護被害人[^1]
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	42)- 持續推動月經平權：減輕經濟弱勢女性生理用品負擔[^1]
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	43)- 提升生育自主：修改《人工生殖法》，適用同志配偶及未婚女性[^1]
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	44)- 持續強化校園、職場、公共空間性別平等[^1]
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	45)
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	46)[^1]: https://pridewatch.tw/candidate/基隆市立法委員參選人-王醒之
+f468b73b	(<bangyuwen@gmail.com>	2023-12-14 22:21:17 +0800	47)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	52)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	54)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	55)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	56)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	57)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	58)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	59)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	60)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	61)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	62)## 其他

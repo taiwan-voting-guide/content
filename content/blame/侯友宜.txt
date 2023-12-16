@@ -14,7 +14,7 @@
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	14)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	15)嘉義縣朴子市 [^1]
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	16)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	17)[^1]: https://zh.wikipedia.org/zh-tw/%E4%BE%AF%E5%8F%8B%E5%AE%9C
+3dc11db1	(<bangyuwen@gmail.com>	2023-12-16 20:24:47 +0800	17)[^1]: https://zh.wikipedia.org/zh-tw/侯友宜
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	18)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	19)## 政黨
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	20)
@@ -119,4 +119,10 @@
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	119)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	120)## 發言表態
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	121)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	122)## 其他
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	122)### 校園座談
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	123)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	124)- [政大](https://www.youtube.com/watch?v=9f_V44IbKHI)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	125)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	126)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	127)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	128)## 其他
