@@ -21,7 +21,7 @@ jobs:
       - id: blame
         continue-on-error: true
         run: |
-          git diff-tree --no-commit-id --name-only -r HEAD | grep "content/politician" | xargs ./scripts/blame.sh
+          git diff --no-commit-id --name-only -r HEAD^ | grep "content/politician" | xargs ./scripts/blame.sh
           node ./scripts/contribution.js
       - if: ${{ steps.blame.outcome == 'success' }}
         uses: EndBug/add-and-commit@v9
