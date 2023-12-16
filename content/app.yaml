@@ -135,7 +135,7 @@ politician_groups:
         '黃奕睿',
         '孫一信',
         '吳祥榮',
-        '陳慧君 Mulas·Ismahasan',
+        '陳慧君_Mulas·Ismahasan',
         '柯富揚',
         '劉柏君',
         '石明謹',
@@ -673,12 +673,12 @@ politician_groups:
       [
         '高金素梅',
         '孔文吉',
-        'Savungaz Valincinan',
+        'Savungaz_Valincinan',
         '高畹芯',
         '林果',
         '林世偉',
         '張子孝',
-        '伍麗華 Saidhai．Tahovecahe',
+        '伍麗華_Saidhai．Tahovecahe',
         '盧縣一',
         '胡黃廣文',
       ]
@@ -694,7 +694,7 @@ politician_groups:
         '吳建智咖啡哥',
         '黃仁',
         '洪曹純明',
-        '鄭天財 Sra‧Kacaw',
+        '鄭天財_Sra‧Kacaw',
         '高美珠',
       ]
     keys: []
