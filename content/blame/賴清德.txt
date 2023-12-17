@@ -68,33 +68,41 @@ f899433a	(<bangyuwen@gmail.com>	2023-12-15 22:46:02 +0800	47)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	68)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	69)## 建設交通
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	70)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	71)## 經濟財政
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	72)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	73)## 社福衛生
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	74)
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	75)### 2024
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	76)
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	77)#### 五大社福政策[^1]
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	78)- 強化兒少保護及健康促進行動
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	79)- 身心障礙者權益促進行動
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	80)- 建構友善自主的高齡生活環境
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	81)- 推動社會安全網2.0
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	82)- 強化保障經濟安全
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	83)
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	84)[^1]: https://www.storm.mg/article/4888197
-52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	85)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	86)## 司法紀錄
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	87)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	88)## 爭議事件
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	89)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	90)## 發言表態
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	91)
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	92)### 專訪
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	93)
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	94)- [新聞面對面](https://www.youtube.com/watch?v=Zp2mUGTYibE)
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	95)
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	96)### 校園講座
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	97)
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	98)- 政大：[開頭](https://youtu.be/TknDukUZjz4?t=241)／[Q&A](https://youtu.be/TknDukUZjz4?t=2543)
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	99)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	100)## 其他
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	71)### 住宅[^1]
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	72)
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	73)- 支持推動囤房稅全國歸戶
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	74)- 提高青安優惠貸款額度
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	75)- 擴大住宅與租金補貼
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	76)
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	77)[^1]: https://tw.news.yahoo.com/2024總統大選政見一次看｜侯友宜、柯文哲、賴清德-10大主題政策精華版總整理-010050330.html
+a7be8a9b	(<bangyuwen@gmail.com>	2023-12-17 21:53:40 +0800	78)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	79)## 經濟財政
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	80)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	81)## 社福衛生
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	82)
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	83)### 2024
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	84)
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	85)#### 五大社福政策[^1]
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	86)- 強化兒少保護及健康促進行動
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	87)- 身心障礙者權益促進行動
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	88)- 建構友善自主的高齡生活環境
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	89)- 推動社會安全網2.0
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	90)- 強化保障經濟安全
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	91)
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	92)[^1]: https://www.storm.mg/article/4888197
+52bec44f	(<bobolincowo@gmail.com>	2023-12-17 21:33:07 +0800	93)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	94)## 司法紀錄
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	95)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	96)## 爭議事件
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	97)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	98)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	99)
+ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	100)### 專訪
+ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	101)
+ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	102)- [新聞面對面](https://www.youtube.com/watch?v=Zp2mUGTYibE)
+ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	103)
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	104)### 校園講座
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	105)
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	106)- 政大：[開頭](https://youtu.be/TknDukUZjz4?t=241)／[Q&A](https://youtu.be/TknDukUZjz4?t=2543)
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	107)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	108)## 其他
