@@ -65,4 +65,7 @@ c384ca09	(<you@hsuyuting.com>	2023-12-17 00:43:37 +0800	42)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	66)## 發言表態
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	67)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	68)## 其他
+7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	68)### 校園講座
+7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	69)- [政大](https://www.youtube.com/watch?v=RZ1J4-qkFbc)
+7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	70)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	71)## 其他
