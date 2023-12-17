@@ -60,6 +60,6 @@ adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	14)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	60)
 17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	61)### 校園講座
 17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	62)
-17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	63)- [政大](https://youtu.be/vwpaEZDHKQc?t=2372)
+6633f2cb	(<bangyuwen@gmail.com>	2023-12-17 20:13:08 +0800	63)- 政大：[開頭](https://youtu.be/ADFH0iuu7e4?t=202)／[Q&A](https://youtu.be/ADFH0iuu7e4?t=3328)
 17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	64)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)## 其他

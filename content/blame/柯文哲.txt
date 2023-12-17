@@ -92,4 +92,8 @@ f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	88)
 3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	92)- [新聞面對面](https://www.youtube.com/watch?v=ebawhgsTkos)
 3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	93)- [斐姨所思](https://www.youtube.com/watch?v=aT9adT89c6c)
 3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	94)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	95)## 其他
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	95)### 校園講座
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	96)- 政大：
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	97)    [開頭](https://youtu.be/cOvW1r6Uk-M?t=1367)／[Q&A](https://youtu.be/cOvW1r6Uk-M?t=4512)
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	98)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	99)## 其他

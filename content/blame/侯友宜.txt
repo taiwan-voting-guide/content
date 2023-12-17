@@ -126,8 +126,9 @@ b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	82)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	126)
 e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	127)### 校園座談
 e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	128)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	129)- [政大](https://www.youtube.com/watch?v=9f_V44IbKHI)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	130)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	131)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	132)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	133)## 其他
+d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	129)- 政大：
+d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	130)    [開頭](https://youtu.be/9f_V44IbKHI?t=540)／[Q&A](https://youtu.be/9f_V44IbKHI?t=2680)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	131)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	132)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	133)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	134)## 其他
