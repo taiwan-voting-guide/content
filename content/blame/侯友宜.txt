@@ -70,59 +70,64 @@
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	70)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	71)## 國防外交
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	72)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	73)- 大量開放陸客旅遊、陸生就學 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	74)- 增加60個航點，希望兩岸大量增加航班航點 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	75)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	76)[^1]: https://www.thenewslens.com/article/195297
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	77)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	78)## 能源環境
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	79)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	80)### 主張
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	81)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	82)- 第一任期內將完成核一、核二、核三檢查檢修工作，安全延役 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	83)- 成立「核四總體安全審查委員會」，在安全無虞下，推動核四安全重啟 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	84)- 「以綠永續」是要穩健務實持續增加再生能源發電，作為台灣未來主要的能源支柱 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	85)- 「以核減煤」是要與國際同步，善用既存核電的價值，作為降低碳排及空污的關鍵選項 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	86)- 「邁向無煤」是要初期運用燃煤發電作為能源安全與電價穩定的關鍵少數，但將逐漸減少燃煤發電，至2030年占比減少至14%，2040年完全停止燃煤發電，達成2040無煤台灣的目標 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	87)- 「以氣承轉」則是基於確保國家安全及供電無虞等因素，天然氣占比應維持安全不過半，未來部分天然氣機組在加裝CO2處理設備後，逐步移為備援 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	88)- 「節能優先」是以節能及調節供需為優先，擴大投入節能、儲能及智慧電網的資源，以降低用電需求成長並提高電力調度效益，確保供電充足及穩定 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	89)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	90)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	91)### 2019
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	92)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	93)- 台電沒有辦法、也沒有能力解決核安和核廢料問題。 [^2]
+b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	73)### 主張
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	74)- 大量開放陸客旅遊、陸生就學 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	75)- 增加60個航點，希望兩岸大量增加航班航點 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	76)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	77)[^1]: https://www.thenewslens.com/article/195297
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	78)
+b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	79)### 事件
+b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	80)
+b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	81)- [葛來儀表示：「請不要使用我的照片，或是我的說法，以此暗示我支持侯友宜市長，我並沒有。」](tw.news.yahoo.com/侯友宜外交政策po-葛來儀握手照-她怒轟別用照片暗示-我沒支持-侯辦火速道歉了-021439615.html)
+b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	82)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	83)## 能源環境
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	84)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	85)### 主張
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	86)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	87)- 第一任期內將完成核一、核二、核三檢查檢修工作，安全延役 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	88)- 成立「核四總體安全審查委員會」，在安全無虞下，推動核四安全重啟 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	89)- 「以綠永續」是要穩健務實持續增加再生能源發電，作為台灣未來主要的能源支柱 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	90)- 「以核減煤」是要與國際同步，善用既存核電的價值，作為降低碳排及空污的關鍵選項 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	91)- 「邁向無煤」是要初期運用燃煤發電作為能源安全與電價穩定的關鍵少數，但將逐漸減少燃煤發電，至2030年占比減少至14%，2040年完全停止燃煤發電，達成2040無煤台灣的目標 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	92)- 「以氣承轉」則是基於確保國家安全及供電無虞等因素，天然氣占比應維持安全不過半，未來部分天然氣機組在加裝CO2處理設備後，逐步移為備援 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	93)- 「節能優先」是以節能及調節供需為優先，擴大投入節能、儲能及智慧電網的資源，以降低用電需求成長並提高電力調度效益，確保供電充足及穩定 [^1]
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	94)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	95)[^1]: https://www.cna.com.tw/news/aipl/202308090062.aspx
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	96)[^2]: https://udn.com/news/story/11596/7362134
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	95)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	96)### 2019
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	97)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	98)## 性別平權
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	99)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	100)## 教育文化
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	101)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	102)## 建設交通
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	103)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	104)## 經濟財政
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	105)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	106)- 服貿、貨貿也都要快速重啟 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	107)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	108)[^1]: https://www.thenewslens.com/article/195297
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	109)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	110)## 社福衛生
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	111)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	112)## 司法紀錄
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	113)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	114)- [恩恩事件](https://zh.wikipedia.org/zh-tw/恩恩事件)：2歲男童延誤送醫，男童父親向市府提起國家賠償；被否決後，提起訴訟，一審時敗訴。[^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	115)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	116)[^1]: https://zh.wikipedia.org/zh-tw/恩恩事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	117)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	118)## 爭議事件
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	119)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	120)## 發言表態
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	121)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	122)### 校園座談
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	123)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	124)- [政大](https://www.youtube.com/watch?v=9f_V44IbKHI)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	125)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	126)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	127)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	128)## 其他
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	98)- 台電沒有辦法、也沒有能力解決核安和核廢料問題。 [^2]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	99)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	100)[^1]: https://www.cna.com.tw/news/aipl/202308090062.aspx
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	101)[^2]: https://udn.com/news/story/11596/7362134
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	102)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	103)## 性別平權
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	104)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	105)## 教育文化
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	106)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	107)## 建設交通
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	108)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	109)## 經濟財政
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	110)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	111)- 服貿、貨貿也都要快速重啟 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	112)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	113)[^1]: https://www.thenewslens.com/article/195297
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	114)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	115)## 社福衛生
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	116)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	117)## 司法紀錄
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	118)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	119)- [恩恩事件](https://zh.wikipedia.org/zh-tw/恩恩事件)：2歲男童延誤送醫，男童父親向市府提起國家賠償；被否決後，提起訴訟，一審時敗訴。[^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	120)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	121)[^1]: https://zh.wikipedia.org/zh-tw/恩恩事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	122)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	123)## 爭議事件
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	124)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	125)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	126)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	127)### 校園座談
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	128)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	129)- [政大](https://www.youtube.com/watch?v=9f_V44IbKHI)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	130)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	131)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	132)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	133)## 其他
