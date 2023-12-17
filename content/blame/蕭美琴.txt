@@ -2,80 +2,88 @@
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	2)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	3)## 個人基本資訊
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	4)
-adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	5)### 出生年月日
-adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	6)
-adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	7)### 性別
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	5)### 出生年月日 
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	6)
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	7)1971 年 8 月 7 日 [^1]
 adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	8)
-adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	9)### 出生地
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	9)### 性別
 adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	11)## 政黨
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	12)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	13)## 家庭背景
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	14)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	15)## 連任帶職
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	16)
-81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	17)無
-81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	18)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	19)## 政見
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	11)女 [^1]
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	12)
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	13)### 出生地
+adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	14)
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	15)日本兵庫縣神戶市 [^1]
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	16)
+e2451bcc	(<bangyuwen@gmail.com>	2023-12-17 21:06:20 +0800	17)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
+bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	18)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	19)## 政黨
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	20)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	21)## 學經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	21)## 家庭背景
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	22)
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	23)### 政治經歷
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	24)
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	25)- 四屆立法委員 [^1]
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	26)- 駐美代表 [^1]
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	27)
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	28)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	29)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	30)## 從政經歷
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	31)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	32)- 四屆立法委員 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	33)- 駐美代表 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	34)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	35)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	36)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)## 國防外交
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	39)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	40)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)## 能源環境
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	23)## 連任帶職
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	24)
+81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	25)無
+81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	26)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	27)## 政見
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	28)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	29)## 學經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	30)
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	31)### 政治經歷
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	32)
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	33)- 四屆立法委員 [^1]
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	34)- 駐美代表 [^1]
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	35)
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	36)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	37)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)## 從政經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)- 四屆立法委員 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)- 駐美代表 [^1]
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	43)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	44)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 性別平權
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	44)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)## 國防外交
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)
 60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	47)### 請參考賴清德
 f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	48)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 能源環境
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)
 60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	51)### 請參考賴清德
 f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	52)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 性別平權
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	54)
 60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	55)### 請參考賴清德
 f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	56)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 教育文化
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	58)
 60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	59)### 請參考賴清德
 f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	60)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)## 建設交通
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	62)
 60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	63)### 請參考賴清德
 f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	64)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)## 經濟財政
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	66)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	67)## 爭議事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	68)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	69)## 發言表態
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	67)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	68)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	69)## 社福衛生
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	70)
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	71)### 專訪
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	72)
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	73)- [敏迪專訪](https://www.youtube.com/watch?v=MfbV62jDA0s)
-2d3c196c	(<bangyuwen@gmail.com>	2023-12-15 21:54:26 +0800	74)- [鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
-875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	75)- [知定講堂](https://www.youtube.com/watch?v=4pKghPwUSaE)
-6dc9f8f4	(<bangyuwen@gmail.com>	2023-12-15 22:55:10 +0800	76)- [Reagan Foundation](https://www.youtube.com/watch?v=C0Z0A48O9VU)
-875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	77)
-f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	78)### 校園
-f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	79)- [政大－青年議題](https://www.youtube.com/watch?v=PZvg56-ezlM)
-f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	80)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	81)## 其他
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	71)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	72)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	73)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	74)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	75)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	76)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	77)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	78)
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	79)### 專訪
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	80)
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	81)- [敏迪專訪](https://www.youtube.com/watch?v=MfbV62jDA0s)
+2d3c196c	(<bangyuwen@gmail.com>	2023-12-15 21:54:26 +0800	82)- [鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
+875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	83)- [知定講堂](https://www.youtube.com/watch?v=4pKghPwUSaE)
+6dc9f8f4	(<bangyuwen@gmail.com>	2023-12-15 22:55:10 +0800	84)- [Reagan Foundation](https://www.youtube.com/watch?v=C0Z0A48O9VU)
+875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	85)
+f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	86)### 校園
+f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	87)- [政大－青年議題](https://www.youtube.com/watch?v=PZvg56-ezlM)
+f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	88)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	89)## 其他
