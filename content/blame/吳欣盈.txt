@@ -74,6 +74,7 @@ c384ca09	(<you@hsuyuting.com>	2023-12-17 00:43:37 +0800	50)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	74)## 發言表態
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	75)
 7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	76)### 校園講座
-7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	77)- [政大](https://www.youtube.com/watch?v=RZ1J4-qkFbc)
-7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	78)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	79)## 其他
+d4334ae6	(<bangyuwen@gmail.com>	2023-12-17 19:29:22 +0800	77)- 政大：
+d4334ae6	(<bangyuwen@gmail.com>	2023-12-17 19:29:22 +0800	78)  [開頭](https://youtu.be/RZ1J4-qkFbc?t=318)／[Q&A](https://youtu.be/RZ1J4-qkFbc?t=3612)
+7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	79)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	80)## 其他
