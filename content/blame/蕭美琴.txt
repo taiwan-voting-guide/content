@@ -83,11 +83,8 @@ a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	81)- [敏迪專訪](ht
 875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	83)- [知定講堂](https://www.youtube.com/watch?v=4pKghPwUSaE)
 6dc9f8f4	(<bangyuwen@gmail.com>	2023-12-15 22:55:10 +0800	84)- [Reagan Foundation](https://www.youtube.com/watch?v=C0Z0A48O9VU)
 875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	85)
-f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	86)### 校園
-f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	87)- [政大－青年議題](https://www.youtube.com/watch?v=PZvg56-ezlM)
-f3d0226c	(<bangyuwen@gmail.com>	2023-12-15 10:36:01 +0800	88)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	89)### 校園講座
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	90)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	91)- 政大：[開頭](https://youtu.be/PZvg56-ezlM?t=280)／[Q&A](https://youtu.be/PZvg56-ezlM?t=2315)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	92)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	93)## 其他
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	86)### 校園講座
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	87)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	88)- 政大：[開頭](https://youtu.be/PZvg56-ezlM?t=280)／[Q&A](https://youtu.be/PZvg56-ezlM?t=2315)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	89)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	90)## 其他
