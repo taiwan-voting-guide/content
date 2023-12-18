@@ -1,13 +1,13 @@
 {
-  "timestamp": 1702901274892,
+  "timestamp": 1702901745317,
   "lineCounts": [
+    {
+      "email": "bangyuwen@gmail.com",
+      "count": 234
+    },
     {
       "email": "equallovetw@equallove.tw",
       "count": 231
-    },
-    {
-      "email": "bangyuwen@gmail.com",
-      "count": 229
     },
     {
       "email": "you@hsuyuting.com",

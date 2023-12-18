@@ -73,27 +73,36 @@ bd2c0abe	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:43:34 +08
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	73)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	74)## 建設交通
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	75)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	76)## 經濟財政
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	77)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	78)## 社福衛生
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	79)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	80)## 司法紀錄
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	81)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	82)## 爭議事件
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	83)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	84)### 質詢
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	85)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	86)- [未按照政策公開透明市府政策宣導內容](https://youtu.be/03TWxjttMHs?t=1006)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	87)- [使用稅金行銷個人](https://youtu.be/03TWxjttMHs?t=234)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	88)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	89)## 發言表態
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	76)### 居住[^1]
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	77)
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	78)- **大力蓋**：堅定地蓋社宅
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	79)- **大力改**：單一房屋自住者採低稅率0.6%；但持有房子越多的人，稅就要越高。若願意將閒置空屋出租者，可以低利率課稅。
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	80)- **房東大赦**：房東不怕被補稅，才願意誠實申報、釋出更多空屋，補現在社宅的不足，這樣政府才能真正做好管理。
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	81)- **大力補**：除了依照家戶人數及收入給予不同的租金補貼，對於房客的所得稅報稅，租屋支出將從一般列舉項目移至特別扣除額，提高可申報額度，實質減輕租客負擔。
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	82)
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	83)[^1]:https://www.facebook.com/photo.php?fbid=821252072700455
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	84)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	85)## 經濟財政
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	86)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	87)## 社福衛生
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	88)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	89)## 司法紀錄
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	90)
-3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	91)### 專訪
-3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	92)- [新聞面對面](https://www.youtube.com/watch?v=ebawhgsTkos)
-3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	93)- [斐姨所思](https://www.youtube.com/watch?v=aT9adT89c6c)
-3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	94)
-c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	95)### 校園講座
-c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	96)- 政大：
-c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	97)    [開頭](https://youtu.be/cOvW1r6Uk-M?t=1367)／[Q&A](https://youtu.be/cOvW1r6Uk-M?t=4512)
-c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	98)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	99)## 其他
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	91)## 爭議事件
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	92)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	93)### 質詢
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	94)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	95)- [未按照政策公開透明市府政策宣導內容](https://youtu.be/03TWxjttMHs?t=1006)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	96)- [使用稅金行銷個人](https://youtu.be/03TWxjttMHs?t=234)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	97)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	98)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	99)
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	100)### 專訪
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	101)- [新聞面對面](https://www.youtube.com/watch?v=ebawhgsTkos)
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	102)- [斐姨所思](https://www.youtube.com/watch?v=aT9adT89c6c)
+3c7fa3a5	(<bangyuwen@gmail.com>	2023-12-15 01:02:26 +0800	103)
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	104)### 校園講座
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	105)- 政大：
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	106)    [開頭](https://youtu.be/cOvW1r6Uk-M?t=1367)／[Q&A](https://youtu.be/cOvW1r6Uk-M?t=4512)
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	107)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	108)## 其他
