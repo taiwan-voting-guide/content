@@ -24,18 +24,38 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	24)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)## 性別平權
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	26)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	27)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	27)### 性別政見
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	28)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	29)1. 變更法律性別應該與極端醫療手段（例如手術）脫鉤，以保障身體自主權。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	30)1. 積極推動《平等法》，保障無論任何弱勢身份都不應該有差別待遇，也不應該有歧視性言論。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	31)1. 立法禁止跨性別歧視的措施，保障跨性別者在家庭、就業、教育、醫療等領域的平等權利。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	32)1. 推動跨性別者性別認同保障措施，讓跨性別者能夠以符合自己性別認同的性別身分獲得政府承認，並且安穩的生活。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	33)1. 推廣多元性別教育，讓社會大眾更加理解各種多元性別者。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	34)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	35)### 2024友善候選人問卷[^1]
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	36)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	37)我是綠黨的吳伊婷：
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	38)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	39)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	40)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	41)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	42)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	43)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	44)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	45)[^1]: https://pridewatch.tw/candidate/lazurloner
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	46)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	52)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	54)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	55)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	56)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	57)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	58)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	59)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	60)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	61)## 其他

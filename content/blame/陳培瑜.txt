@@ -24,18 +24,30 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	24)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)## 性別平權
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	26)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	27)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	27)### 2024友善候選人問卷[^1]
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	28)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	29)我是民主進步黨的陳培瑜：
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	30)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	31)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	32)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	33)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	34)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	35)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	36)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	37)[^1]: https://pridewatch.tw/candidate/%E9%99%B3%E5%9F%B9%E7%91%9C
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	38)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 教育文化
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	44)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	45)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	52)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)## 其他

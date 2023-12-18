@@ -37,18 +37,35 @@ adeedb8f	(<you@hsuyuting.com>	2023-12-14 00:47:02 +0800	10)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)## 性別平權
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)## 教育文化
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)## 建設交通
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	44)## 經濟財政
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)## 社福衛生
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)## 司法紀錄
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)## 爭議事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)## 發言表態
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	54)## 其他
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	40)### 性別政見
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	41)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	42)支持不分任何性別應享有平等的公民權利，在「政治、經濟、社會、氣質、家庭」中應受到完全平等對待，反對性別歧視，營造性別平等的法律和社會環境
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	43)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	44)### 2024友善候選人問卷[^1]
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	45)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	46)我是民主進步黨的 林月琴：
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	47)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	48)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	49)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	50)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	51)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	52)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	53)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	54)[^1]: https://pridewatch.tw/candidate/aileen1685
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	55)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	56)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	58)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	60)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	62)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	63)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	64)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	66)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	67)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	68)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	69)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	70)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	71)## 其他
