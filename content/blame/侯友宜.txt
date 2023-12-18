@@ -106,29 +106,53 @@ b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	82)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	106)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	107)## 建設交通
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	108)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	109)## 經濟財政
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	110)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	111)- 服貿、貨貿也都要快速重啟 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	112)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	113)[^1]: https://www.thenewslens.com/article/195297
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	114)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	115)## 社福衛生
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	116)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	117)## 司法紀錄
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	118)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	119)- [恩恩事件](https://zh.wikipedia.org/zh-tw/恩恩事件)：2歲男童延誤送醫，男童父親向市府提起國家賠償；被否決後，提起訴訟，一審時敗訴。[^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	120)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	121)[^1]: https://zh.wikipedia.org/zh-tw/恩恩事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	122)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	123)## 爭議事件
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	124)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	125)## 發言表態
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	126)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	127)### 校園座談
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	128)
-d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	129)- 政大：
-d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	130)    [開頭](https://youtu.be/9f_V44IbKHI?t=540)／[Q&A](https://youtu.be/9f_V44IbKHI?t=2680)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	131)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	132)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	133)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	134)## 其他
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	109)### 五大住宅方案[^1]
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	110)
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	111)- **安心租**：
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	112)實踐租金實價登錄，讓租屋市場透明化；調高房租支出「所得稅列舉扣除額」上限，減輕租客負擔，針對房東採取「租稅特惠，分離課稅」的原則，引導房東誠實申報。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	113)- **拚社宅**：
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	114)  1. 市地重劃、區段徵收開發區以一定比例劃設「社福用地」，增加可興建社宅用地。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	115)  2. 以「容積獎勵」促進都更、危老，並回饋為社會住宅。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	116)  3. 公有土地參與開發分回房屋，將以包租代管方式納入社宅。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	117)  4. 大專私校退場土地，以一定比例優先興建社宅及運動中心。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	118)- **止炒作**：
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	119)重新檢討「不動產交易所得稅」，實踐漲價歸公，遏止房價炒作。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	120)- **挺青年**：
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	121)青年租金補貼加碼、青年購屋超低利貸款，讓青年能夠多元選擇。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	122)- **優先住**：
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	123)保障社宅青年（育嬰戶）優先入住名額，採行「輪候制」提高多次落籤者中籤率。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	124)
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	125)[^1]: https://www.facebook.com/houyuih/posts/840843460747063
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	126)
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	127)### 555方案[^2]
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	128)
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	129)- **內容**：40歲以下、信用無重大瑕疵、首次購屋、排富（無自有住房與所得限制）、轉售限制（閉鎖期最高十年）、一生一次的青年，可獲得全額貸款、免頭期款，並享有0.5%的利息補貼，寬限期5年。
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	130)
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	131)[^2]: https://tw.news.yahoo.com/侯友宜提出-555方案-青年購屋免頭期款-專家擔憂爆購屋潮-073205369.html
+2ab2699a	(<bangyuwen@gmail.com>	2023-12-17 22:24:18 +0800	132)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	133)## 經濟財政
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	134)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	135)- 服貿、貨貿也都要快速重啟 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	136)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	137)[^1]: https://www.thenewslens.com/article/195297
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	138)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	139)## 社福衛生
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	140)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	141)## 司法紀錄
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	142)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	143)- [恩恩事件](https://zh.wikipedia.org/zh-tw/恩恩事件)：2歲男童延誤送醫，男童父親向市府提起國家賠償；被否決後，提起訴訟，一審時敗訴。[^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	144)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	145)[^1]: https://zh.wikipedia.org/zh-tw/恩恩事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	146)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	147)## 爭議事件
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	148)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	149)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	150)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	151)### 校園座談
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	152)
+d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	153)- 政大：
+d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	154)    [開頭](https://youtu.be/9f_V44IbKHI?t=540)／[Q&A](https://youtu.be/9f_V44IbKHI?t=2680)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	155)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	156)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	157)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	158)## 其他
