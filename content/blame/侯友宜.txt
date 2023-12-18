@@ -138,21 +138,32 @@ b7640f6c	(<bangyuwen@gmail.com>	2023-12-16 23:46:39 +0800	82)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	138)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	139)## 社福衛生
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	140)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	141)## 司法紀錄
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	142)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	143)- [恩恩事件](https://zh.wikipedia.org/zh-tw/恩恩事件)：2歲男童延誤送醫，男童父親向市府提起國家賠償；被否決後，提起訴訟，一審時敗訴。[^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	144)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	145)[^1]: https://zh.wikipedia.org/zh-tw/恩恩事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	146)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	147)## 爭議事件
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	148)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	149)## 發言表態
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	150)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	151)### 校園座談
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	152)
-d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	153)- 政大：
-d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	154)    [開頭](https://youtu.be/9f_V44IbKHI?t=540)／[Q&A](https://youtu.be/9f_V44IbKHI?t=2680)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	155)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	156)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	157)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	158)## 其他
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	141)### 2024
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	142)
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	143)#### 長照主張[^1]
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	144)- 80 歲以上取消巴氏量表，長者可直接申請看護移工。
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	145)- 看護移工與長照體系整合，強化移工照護技能與品質，提升高齡長者照護品質，改善健康。
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	146)- 就業安定基金補助雇主聘用本國看護，提升薪資及工作環境，並提高本國勞工就業競爭力，減輕家屬負擔。
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	147)- 釋放家庭勞動力，減輕家庭照顧者的壓力與負擔，讓婦女重回職場，不必再為照顧家中長者而擔憂。
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	148)
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	149)
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	150)[^1]: https://www.youtube.com/watch?v=JMO8iHUbvUg
+35c89be7	(<bobolincowo@gmail.com>	2023-12-18 23:20:40 +0800	151)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	152)## 司法紀錄
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	153)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	154)- [恩恩事件](https://zh.wikipedia.org/zh-tw/恩恩事件)：2歲男童延誤送醫，男童父親向市府提起國家賠償；被否決後，提起訴訟，一審時敗訴。[^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	155)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	156)[^1]: https://zh.wikipedia.org/zh-tw/恩恩事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	157)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	158)## 爭議事件
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	159)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	160)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	161)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	162)### 校園座談
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	163)
+d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	164)- 政大：
+d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	165)    [開頭](https://youtu.be/9f_V44IbKHI?t=540)／[Q&A](https://youtu.be/9f_V44IbKHI?t=2680)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	166)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	167)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	168)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	169)## 其他
