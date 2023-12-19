@@ -24,95 +24,101 @@ bf1016c1	(<bobolincowo@gmail.com>	2023-12-17 21:05:02 +0800	18)
 53197aed	(<bobolincowo@gmail.com>	2023-12-17 23:08:41 +0800	24)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	25)## 家庭背景
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	26)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	27)## 連任帶職
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	28)
-81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	29)無
-81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	30)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	31)## 政見
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	32)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	33)## 學經歷
+b4b2d64b	(<you@hsuyuting.com>	2023-12-19 16:12:25 +0800	27)- 蕭美琴出生於日本神戶市。[^1]
+b4b2d64b	(<you@hsuyuting.com>	2023-12-19 16:12:25 +0800	28)- 父親蕭清芬是臺南人，曾任臺南神學院院長[^1]
+b4b2d64b	(<you@hsuyuting.com>	2023-12-19 16:12:25 +0800	29)- 母親邱碧玉（Peggy Cooley）是歐裔美國人。母親曾任臺南神學院音樂教師，來台灣後以羅馬拼音習得流利的台語。[^1]
+b4b2d64b	(<you@hsuyuting.com>	2023-12-19 16:12:25 +0800	30)
+b4b2d64b	(<you@hsuyuting.com>	2023-12-19 16:12:25 +0800	31)[^1]: https://zh.wikipedia.org/zh-tw/%E8%95%AD%E7%BE%8E%E7%90%B4
+b4b2d64b	(<you@hsuyuting.com>	2023-12-19 16:12:25 +0800	32)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	33)## 連任帶職
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	34)
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	35)### 政治經歷
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	36)
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	37)- 四屆立法委員 [^1]
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	38)- 駐美代表 [^1]
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	39)
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	40)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
-d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	41)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)## 從政經歷
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	44)- 四屆立法委員 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)- 駐美代表 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)## 國防外交
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	51)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	52)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 能源環境
+81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	35)無
+81f6f01a	(<bangyuwen@gmail.com>	2023-12-14 21:16:38 +0800	36)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)## 政見
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)## 學經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	41)### 政治經歷
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	42)
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	43)- 四屆立法委員 [^1]
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	44)- 駐美代表 [^1]
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	45)
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	46)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
+d7cacf34	(<bangyuwen@gmail.com>	2023-12-16 23:33:08 +0800	47)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)## 從政經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)- 四屆立法委員 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)- 駐美代表 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)[^1]: https://zh.wikipedia.org/zh-tw/蕭美琴
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	54)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	55)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	56)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 性別平權
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	58)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	59)### 性別政見 [^1]
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	60)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	61)性別友善，平權社會——讓生活在臺灣所有人，不分性別，都能共善共好。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	62)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	63)1. 為因應數位時代以及後同婚時期，啟動性別平等教育2.0：
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	64)1. 社會福利及社會安全政策應關注性別差異
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	65)1. 持續推動多元性別社會平權，增進同志家庭權益保障
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	66)1. 落實《性別平等教育法》、《性別平等工作法》、《性騷擾防治法》建構以被害人保護為中心，強化有效打擊加害人、預防再犯的裁罰處置與後續處遇、完備友善被害人的權益保障及服務、建立專業可信賴的性騷擾防治制度，確保性別平權落實。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	67)1. 為減輕女性在育兒及家務勞動上的負擔，正視男性的家庭照顧責任需求，提供不分性別的家長都能夠平衡家庭與工作的友善職場，推動「雙就業、雙照顧」方案。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	68)1. 促進女性決策參與，提升女性勞動價值，呼應聯合國《消除對婦女一切形式歧視公約》的精神，打破職涯性別天花板，減少因性別差異所造成之同工不同酬。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	69)1. 促進女性政治參與，培育女性公共事務人才
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	70)1. 促進女性的身心健康及經濟安全
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	71)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	72)### 2024友善候選人問卷[^1]
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	73)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	74)我是民主進步黨的蕭美琴：
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	75)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	76)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	77)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	78)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	79)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	80)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	55)## 國防外交
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	56)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	57)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	58)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)## 能源環境
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	60)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	61)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	62)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	63)## 性別平權
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	64)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	65)### 性別政見 [^1]
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	66)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	67)性別友善，平權社會——讓生活在臺灣所有人，不分性別，都能共善共好。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	68)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	69)1. 為因應數位時代以及後同婚時期，啟動性別平等教育2.0：
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	70)1. 社會福利及社會安全政策應關注性別差異
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	71)1. 持續推動多元性別社會平權，增進同志家庭權益保障
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	72)1. 落實《性別平等教育法》、《性別平等工作法》、《性騷擾防治法》建構以被害人保護為中心，強化有效打擊加害人、預防再犯的裁罰處置與後續處遇、完備友善被害人的權益保障及服務、建立專業可信賴的性騷擾防治制度，確保性別平權落實。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	73)1. 為減輕女性在育兒及家務勞動上的負擔，正視男性的家庭照顧責任需求，提供不分性別的家長都能夠平衡家庭與工作的友善職場，推動「雙就業、雙照顧」方案。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	74)1. 促進女性決策參與，提升女性勞動價值，呼應聯合國《消除對婦女一切形式歧視公約》的精神，打破職涯性別天花板，減少因性別差異所造成之同工不同酬。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	75)1. 促進女性政治參與，培育女性公共事務人才
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	76)1. 促進女性的身心健康及經濟安全
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	77)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	78)### 2024友善候選人問卷[^1]
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	79)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	80)我是民主進步黨的蕭美琴：
 d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	81)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	82)[^1]: https://pridewatch.tw/candidate/bikhimhsiao
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	83)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	84)## 教育文化
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	85)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	86)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	87)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	88)## 建設交通
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	89)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	90)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	91)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	92)## 經濟財政
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	93)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	94)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	95)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	96)## 社福衛生
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	97)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	98)### 請參考賴清德
-f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	99)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	100)## 司法紀錄
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	101)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	102)## 爭議事件
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	82)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	83)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	84)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	85)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	86)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	87)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	88)[^1]: https://pridewatch.tw/candidate/bikhimhsiao
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	89)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	90)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	91)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	92)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	93)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	94)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	95)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	96)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	97)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	98)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	99)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	100)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	101)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	102)## 社福衛生
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	103)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	104)## 發言表態
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	105)
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	106)### 專訪
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	107)
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	108)- [敏迪專訪](https://www.youtube.com/watch?v=MfbV62jDA0s)
-2d3c196c	(<bangyuwen@gmail.com>	2023-12-15 21:54:26 +0800	109)- [鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
-875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	110)- [知定講堂](https://www.youtube.com/watch?v=4pKghPwUSaE)
-6dc9f8f4	(<bangyuwen@gmail.com>	2023-12-15 22:55:10 +0800	111)- [Reagan Foundation](https://www.youtube.com/watch?v=C0Z0A48O9VU)
-e3d380da	(<bangyuwen@gmail.com>	2023-12-19 09:16:52 +0800	112)- 斐姨所思：[主持人道歉](https://www.youtube.com/watch?v=z-V6MkYNv7w)／[正片](https://www.youtube.com/watch?v=v2spCoUkuRk)／[訪談開始](https://youtu.be/v2spCoUkuRk?t=471)
-875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	113)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	114)### 校園講座
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	115)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	116)- 政大：[開頭](https://youtu.be/PZvg56-ezlM?t=280)／[Q&A](https://youtu.be/PZvg56-ezlM?t=2315)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	117)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	118)## 其他
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	104)### 請參考賴清德
+f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +0800	105)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	106)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	107)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	108)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	109)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	110)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	111)
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	112)### 專訪
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	113)
+a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	114)- [敏迪專訪](https://www.youtube.com/watch?v=MfbV62jDA0s)
+2d3c196c	(<bangyuwen@gmail.com>	2023-12-15 21:54:26 +0800	115)- [鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
+875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	116)- [知定講堂](https://www.youtube.com/watch?v=4pKghPwUSaE)
+6dc9f8f4	(<bangyuwen@gmail.com>	2023-12-15 22:55:10 +0800	117)- [Reagan Foundation](https://www.youtube.com/watch?v=C0Z0A48O9VU)
+e3d380da	(<bangyuwen@gmail.com>	2023-12-19 09:16:52 +0800	118)- 斐姨所思：[主持人道歉](https://www.youtube.com/watch?v=z-V6MkYNv7w)／[正片](https://www.youtube.com/watch?v=v2spCoUkuRk)／[訪談開始](https://youtu.be/v2spCoUkuRk?t=471)
+875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	119)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	120)### 校園講座
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	121)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	122)- 政大：[開頭](https://youtu.be/PZvg56-ezlM?t=280)／[Q&A](https://youtu.be/PZvg56-ezlM?t=2315)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	123)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	124)## 其他
