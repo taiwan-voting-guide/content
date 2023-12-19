@@ -109,9 +109,10 @@ a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	108)- [敏迪專訪](h
 2d3c196c	(<bangyuwen@gmail.com>	2023-12-15 21:54:26 +0800	109)- [鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
 875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	110)- [知定講堂](https://www.youtube.com/watch?v=4pKghPwUSaE)
 6dc9f8f4	(<bangyuwen@gmail.com>	2023-12-15 22:55:10 +0800	111)- [Reagan Foundation](https://www.youtube.com/watch?v=C0Z0A48O9VU)
-875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	112)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	113)### 校園講座
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	114)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	115)- 政大：[開頭](https://youtu.be/PZvg56-ezlM?t=280)／[Q&A](https://youtu.be/PZvg56-ezlM?t=2315)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	116)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	117)## 其他
+e3d380da	(<bangyuwen@gmail.com>	2023-12-19 09:16:52 +0800	112)- 斐姨所思：[主持人道歉](https://www.youtube.com/watch?v=z-V6MkYNv7w)／[正片](https://www.youtube.com/watch?v=v2spCoUkuRk)／[訪談開始](https://youtu.be/v2spCoUkuRk?t=471)
+875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	113)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	114)### 校園講座
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	115)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	116)- 政大：[開頭](https://youtu.be/PZvg56-ezlM?t=280)／[Q&A](https://youtu.be/PZvg56-ezlM?t=2315)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	117)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	118)## 其他
