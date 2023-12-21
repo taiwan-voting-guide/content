@@ -39,6 +39,11 @@
   isPolitician: false
   isVerified: false
 -
+  email: sa901218@gmail.com
+  name: Nuo
+  isPolitician: false
+  isVerified: false
+-
   email: shaojohn.wj@gmail.com
   name: JS
   isPolitician: false
