@@ -59,151 +59,179 @@ ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	58)[^1]: ttps://zh.wik
 ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	59)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	60)## 國防外交
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	61)
-5042513f	(<bangyuwen@gmail.com>	2023-12-15 22:03:07 +0800	62)- [承認超譯葛來儀](https://www.youtube.com/shorts/xAaHkOU7BP8)
-5042513f	(<bangyuwen@gmail.com>	2023-12-15 22:03:07 +0800	63)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	64)## 能源環境
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	65)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	66)### 重新制定能源規畫，保持發電方式多元[^1]
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	67)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	68)- 燃氣占45%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	69)- 再生能源占30%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	70)- 燃煤發電占15%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	71)- 核能占比為10%
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	72)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	73)### 重新整頓輸電、儲電、節電 遏止台電、中油長年虧損[^1]
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	74)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	75)- 加速發展儲電、更新智慧電網，搭配需量反應和電價梯度的政策誘因
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	76)- 打造虛擬電廠
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	77)- 連結分散的小型發電設備
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	78)- 重新評估各種能源會計成本、均化成本和土地利用效益
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	79)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	80)### 成立「氣候永續委員會」，整合碳預算[^1]
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	81)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	82)- 設立專責氣候政策的「氣候永續委員會」，編列碳預算，監督行政部門政策落實情形
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	83)- 成立「氣候永續轉型基金」，協助轉型過程中遭到衝擊的中小型企業
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	84)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	85)[^1]: https://www.2024kpromise.tw/political/11/?postTab=solution 
-bd2c0abe	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:43:34 +0800	86)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	87)## 性別平權
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	88)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	89)### 性別政見
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	90)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	91)1. 打破玻璃天花板，積極提升婦女職場權益，弭平性別薪資落差。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	92)1. 拔擢優秀女性菁英，首長、主管、簡薦委升等，女性比例不得低於1/3。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	93)1. 公布職場性別平等指標，表揚落實性平企業。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	94)1. 兩性平權從家做起，政府提供家庭照顧者補助，鼓勵兩性分攤養育照護責任。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	95)1. 修改「人工生殖法」，讓單身者、同志，有機會透過人工生殖技術，成家養育孩子。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	96)1. 「代理孕母解禁」，立法保護、降低疑慮，解決生理限制，保護婦女身體自主權。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	97)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	98)### 2024友善候選人問卷[^1]
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	99)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	100)我是台灣民眾黨的柯文哲：
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	101)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	102)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	103)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	104)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	105)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	106)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	107)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	108)[^1]: https://pridewatch.tw/candidate/2024kpromise
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	109)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	110)## 教育文化
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	111)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	112)## 建設交通
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	113)
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	114)### 居住[^1]
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	115)
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	116)- **大力蓋**：堅定地蓋社宅
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	117)- **大力改**：單一房屋自住者採低稅率0.6%；但持有房子越多的人，稅就要越高。若願意將閒置空屋出租者，可以低利率課稅。
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	118)- **房東大赦**：房東不怕被補稅，才願意誠實申報、釋出更多空屋，補現在社宅的不足，這樣政府才能真正做好管理。
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	119)- **大力補**：除了依照家戶人數及收入給予不同的租金補貼，對於房客的所得稅報稅，租屋支出將從一般列舉項目移至特別扣除額，提高可申報額度，實質減輕租客負擔。
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	120)
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	121)[^1]:https://www.facebook.com/photo.php?fbid=821252072700455
-666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	122)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	123)## 經濟財政
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	124)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	125)## 社福衛生
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	126)
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	127)### 2024
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	128)
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	129)#### 醫療政策[^1]
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	130)- 提高醫療衛生支出：達到GDP8%
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	131)- 倡健康生活型態：運動、減重、戒菸、推廣癌症篩檢、三高控制、健檢等等
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	132)- 提供全責照護，住院看護免煩惱
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	133)- 65 歲以上長者健保費全額補助
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	134)- 申請幫傭移工審核多元化（不需巴式量表）
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	135)
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	136)#### 長照政策[^1]
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	137)- 預算提高到 2300 億
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	138)- 成立中央長照保險局
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	139)- 住宿型長照機構補助提高到 30000 元
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	140)- 聘請外籍看護工也可享有基本長照保險照顧，享有居家服務、夜間照顧、家庭托顧等服務
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	141)- 把餅做大，提升長照服務品質與頻率
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	142)- 提供家庭照顧者『現金補助』
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	143)- 建立 PAC（急性後期照顧）制度，紓解病床壓力
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	144)
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	145)[^1]: https://www.thenewslens.com/article/195525
-9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	146)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	147)## 司法紀錄
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	148)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	149)## 爭議事件
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	150)
-c95b9e08	(<bangyuwen@gmail.com>	2023-12-19 21:49:37 +0800	151)- [把自有農地改成停車場](https://www.ftvnews.com.tw/news/detail/2023C19W0234)
-c95b9e08	(<bangyuwen@gmail.com>	2023-12-19 21:49:37 +0800	152)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	153)### 質詢
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	154)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	155)- [未按照政策公開透明市府政策宣導內容](https://youtu.be/03TWxjttMHs?t=1006)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	156)- [使用稅金行銷個人](https://youtu.be/03TWxjttMHs?t=234)
-f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	157)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	158)## 發言表態
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	159)
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	160)### 專訪／新聞面對面 <a href="https://www.youtube.com/watch?v=ebawhgsTkos">link</a>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	161)
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	162)> <details>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	163)> <summary>大綱</summary>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	164)> - 「賴蕭配」呼之欲出？藍白合趕上最後大限！<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	165)> - 終局之戰！柯侯vs.侯柯...11/18掀底牌<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	166)> - 柯一念之間成全藍白合？2024最大變數？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	167)> - 美憂中共介入？柯爆AIT致電要求解釋？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	168)> - 昨幕僚會議跟今差很大？柯認：被突襲了...？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	169)> - 「侯、柯同在選票上」藍：政黨票各自努力？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	170)> - 柯文哲被下套？一切都是朱立倫說了算？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	171)> - 結果讓幕僚切心？柯文哲：我回去會反省？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	172)> - 白監督制衡！柯文哲當副總統就滿足了？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	173)> - 誤差範圍內算侯柯配一點！國民黨卯贏？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	174)> - 民眾黨不分區納徐春鶯？柯文哲這樣說？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	175)> - 柯：最討厭蟑螂、蚊子、國民黨！今轉折？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	176)> </details>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	177)
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	178)### 專訪／斐姨所思 <a href="https://www.youtube.com/watch?v=aT9adT89c6c">link</a>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	179)
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	180)> <details>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	181)> <summary>時碼 Timecode</summary>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	182)> <a href="https://www.youtube.com/watch?v=aT9adT89c6c">影片</a> ／
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	183)> <a href="https://youtu.be/aT9adT89c6c?t=3885">評論</a><br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	184)> <a href="https://youtu.be/aT9adT89c6c?t=29s">00:29</a> Open-值班小道士 路易莎莎<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	185)> <a href="https://youtu.be/aT9adT89c6c?t=06m49s">06:49</a> 【工商時間】擴大電子書計次借閱網<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	186)> <a href="https://youtu.be/aT9adT89c6c?t=08m08s">08:08</a> 藍白破局是DNA不合？ 協議簽字前幕僚不知情？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	187)> <a href="https://youtu.be/aT9adT89c6c?t=11m37s">11:37</a> 立院黨團與藍綠怎互動？ 是否支持韓國瑜當立院院長？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	188)> <a href="https://youtu.be/aT9adT89c6c?t=18m31s">18:31</a> 決策難捉摸又常失言？ 外交場域的柯文哲可預測？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	189)> <a href="https://youtu.be/aT9adT89c6c?t=21m45s">21:45</a> 回顧與葛來儀隔空交火 「用字不精」醫生性格害得？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	190)> <a href="https://youtu.be/aT9adT89c6c?t=26m02s">26:02</a> 對美政策承襲蔡總統 對中要懂人情留一線？ <br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	191)> <a href="https://youtu.be/aT9adT89c6c?t=29m14s">29:14</a> 怎麼看九二共識一國兩制？ 兩岸無互信基礎能對話？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	192)> <a href="https://youtu.be/aT9adT89c6c?t=35m18s">35:18</a> 抱持善意避免民族主義 對岸民心也是國防一部份？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	193)> <a href="https://youtu.be/aT9adT89c6c?t=38m50s">38:50</a> 中國毫無疑問是威脅！ 一年義務役無助國防？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	194)> <a href="https://youtu.be/aT9adT89c6c?t=43m50s">43:50</a> 大選選輸也不辭黨主席？ 民眾黨失去柯P會泡沫？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	195)> <a href="https://youtu.be/aT9adT89c6c?t=47m20s">47:20</a> 決策風格是否太專斷？ 幕僚流動率高是抹黑？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	196)> <a href="https://youtu.be/aT9adT89c6c?t=51m48s">51:48</a> 標榜新政治卻緊靠鍾東錦？ 對排黑條款有話要說？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	197)> <a href="https://youtu.be/aT9adT89c6c?t=55m35s">55:35</a> 「正常國家」算核心價值？ 「賭爛票」是民眾黨大票倉？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	198)> <a href="https://youtu.be/aT9adT89c6c?t=59m36s">59:36</a> 內心深綠與卻國民黨合作？ 邦交國數目不重要？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	199)> <a href="https://youtu.be/aT9adT89c6c?t=01h00m23s">01:00:23</a> 柯文哲對大型建設的看法？ 上范姊專訪是「逆來順受」？<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	200)> <a href="https://youtu.be/aT9adT89c6c?t=01h04m02s">01:04:02</a> Takeaway<br />
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	201)> </details>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	202)
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	203)### 校園講座／政大 <a href="https://youtu.be/cOvW1r6Uk-M?t=1367">link</a>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	204)><details>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	205)><a href="https://youtu.be/aT9adT89c6c?t=1367">59:36</a> 開頭</br>
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	206)><a href="https://youtu.be/aT9adT89c6c?t=4512s">59:36</a> Q&A
-67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	207)></details>
-c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	208)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	209)## 其他
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	62)備戰而不畏戰，能戰而不求戰。除了提升國防預算，人民也應盡服役義務，「一年的役期是不夠的，要國家安全一定要付出代價」。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	63)
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	64)### 建軍目標：
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	65)1. 面對強敵不被擊垮而「能堅持作戰的軍隊」。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	66)1. 受全國人民信任、支持的「能戰勝的軍隊」。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	67)1. 能貫徹常後一體、全民國防，並能與友軍有效合作的「能合作的軍隊」。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	68)1. 能夠因應未來戰場，持續加強部隊專業化與知識化，並將新的戰術戰法，與前沿科技有效發揮應用的「能變化的軍隊」。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	69)
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	70)### 軍事改革：
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	71)1. 實戰化：主戰和後備部隊訓練都要貫徹實兵、實地、實戰、實作的要求，盡可能貼近戰場真實情況下訓練。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	72)1. 專業化：盡可能減少與戰鬥訓練不相關的任務，並將行政作業簡化，部隊才有更多時間訓練。並要以科學為基礎、科技為輔助練兵，以提高訓練效率。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	73)1. 合理化：讓權責下放的「任務式指揮」更加徹底，部隊在分散的戰場上以更小單位獨立完成各自任務。也可培養官兵對部隊的認同榮譽，全面檢討部隊專業人力待遇，提高官兵的留營率。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	74)1. 透明化：向社會與國會揭露訊息，以利監督。對解放軍的侵擾行為也應有更多揭露，讓自由世界了解中共如何以軍事與非軍事行動侵蝕我國主權。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	75)1. 資訊化：三個「資訊戰」自動化指揮系統(C4ISR)、電子作戰、網路作戰，是現代戰爭的一環，也是不對稱作戰以少勝多的關鍵，提升資源挹注與專業人培養，補足「看不見的戰場」。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	76)1. 科學化：現代戰爭是多兵種的協同作戰，要求快速且精準的調動部隊與後勤體系，科學化練兵能因應不同單位的任務需求，在有限的時空間提高訓練成效。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	77)
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	78)### 具體政策：
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	79)1. 財政政策：考慮到兩岸軍力已嚴重失衡，未來有必要將國防預算逐步提升到GDP3%為目標，並減少動用特別預算，以免破壞財政紀律與規避監督。同時合理提升作業維持費用，以因應戰鬥訓練和戰備所需。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	80)1. 軍事投資：建立更多元軍購途徑，確保可以如質、如期獲取作戰所需裝備，同時爭取技術轉移彈藥與武器系統在台生產，以提升國防產業實力。對內將廣納民間技術，將國家單位研發能量集中於具必要性、發展性與可行性或不易購得之裝備研發，朝無人載具、精準彈藥、長程打擊、人工智慧與具備低成本高效益方面裝備發展。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	81)1. 國防產業：透過政府商用與軍用採購，帶動民間產業參與國防工業技術開發，鼓勵國外關鍵技術廠商在台生產，帶動國防產業升級，再協助業者利用製造優勢融入國際國防供應鏈和拓展軍民通用領域市場。
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	82)
+1225dc86	(<shaojohn.wj@gmail.com>	2023-12-20 16:23:41 +0800	83)來源：國防軍事改革｜柯文哲 Keep Promise 相信美好臺灣・柯文哲競選資訊網站，https://2024kpromise.tw/political/7/?postTab=solution
+5042513f	(<bangyuwen@gmail.com>	2023-12-15 22:03:07 +0800	84)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	85)## 能源環境
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	86)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	87)### 重新制定能源規畫，保持發電方式多元[^1]
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	88)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	89)- 燃氣占45%
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	90)- 再生能源占30%
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	91)- 燃煤發電占15%
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	92)- 核能占比為10%
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	93)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	94)### 重新整頓輸電、儲電、節電 遏止台電、中油長年虧損[^1]
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	95)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	96)- 加速發展儲電、更新智慧電網，搭配需量反應和電價梯度的政策誘因
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	97)- 打造虛擬電廠
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	98)- 連結分散的小型發電設備
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	99)- 重新評估各種能源會計成本、均化成本和土地利用效益
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	100)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	101)### 成立「氣候永續委員會」，整合碳預算[^1]
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	102)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	103)- 設立專責氣候政策的「氣候永續委員會」，編列碳預算，監督行政部門政策落實情形
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	104)- 成立「氣候永續轉型基金」，協助轉型過程中遭到衝擊的中小型企業
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	105)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	106)[^1]: https://www.2024kpromise.tw/political/11/?postTab=solution 
+bd2c0abe	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:43:34 +0800	107)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	108)## 性別平權
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	109)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	110)### 性別政見
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	111)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	112)1. 打破玻璃天花板，積極提升婦女職場權益，弭平性別薪資落差。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	113)1. 拔擢優秀女性菁英，首長、主管、簡薦委升等，女性比例不得低於1/3。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	114)1. 公布職場性別平等指標，表揚落實性平企業。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	115)1. 兩性平權從家做起，政府提供家庭照顧者補助，鼓勵兩性分攤養育照護責任。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	116)1. 修改「人工生殖法」，讓單身者、同志，有機會透過人工生殖技術，成家養育孩子。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	117)1. 「代理孕母解禁」，立法保護、降低疑慮，解決生理限制，保護婦女身體自主權。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	118)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	119)### 2024友善候選人問卷[^1]
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	120)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	121)我是台灣民眾黨的柯文哲：
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	122)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	123)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	124)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	125)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	126)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	127)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	128)
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	129)[^1]: https://pridewatch.tw/candidate/2024kpromise
+d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	130)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	131)## 教育文化
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	132)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	133)## 建設交通
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	134)
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	135)### 居住[^1]
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	136)
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	137)- **大力蓋**：堅定地蓋社宅
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	138)- **大力改**：單一房屋自住者採低稅率0.6%；但持有房子越多的人，稅就要越高。若願意將閒置空屋出租者，可以低利率課稅。
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	139)- **房東大赦**：房東不怕被補稅，才願意誠實申報、釋出更多空屋，補現在社宅的不足，這樣政府才能真正做好管理。
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	140)- **大力補**：除了依照家戶人數及收入給予不同的租金補貼，對於房客的所得稅報稅，租屋支出將從一般列舉項目移至特別扣除額，提高可申報額度，實質減輕租客負擔。
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	141)
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	142)[^1]:https://www.facebook.com/photo.php?fbid=821252072700455
+666b2a47	(<bangyuwen@gmail.com>	2023-12-17 22:31:40 +0800	143)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	144)## 經濟財政
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	145)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	146)## 社福衛生
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	147)
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	148)### 2024
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	149)
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	150)#### 醫療政策[^1]
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	151)- 提高醫療衛生支出：達到GDP8%
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	152)- 倡健康生活型態：運動、減重、戒菸、推廣癌症篩檢、三高控制、健檢等等
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	153)- 提供全責照護，住院看護免煩惱
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	154)- 65 歲以上長者健保費全額補助
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	155)- 申請幫傭移工審核多元化（不需巴式量表）
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	156)
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	157)#### 長照政策[^1]
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	158)- 預算提高到 2300 億
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	159)- 成立中央長照保險局
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	160)- 住宿型長照機構補助提高到 30000 元
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	161)- 聘請外籍看護工也可享有基本長照保險照顧，享有居家服務、夜間照顧、家庭托顧等服務
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	162)- 把餅做大，提升長照服務品質與頻率
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	163)- 提供家庭照顧者『現金補助』
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	164)- 建立 PAC（急性後期照顧）制度，紓解病床壓力
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	165)
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	166)[^1]: https://www.thenewslens.com/article/195525
+9cb048bd	(<bobolincowo@gmail.com>	2023-12-17 23:04:12 +0800	167)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	168)## 司法紀錄
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	169)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	170)## 爭議事件
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	171)
+c95b9e08	(<bangyuwen@gmail.com>	2023-12-19 21:49:37 +0800	172)- [把自有農地改成停車場](https://www.ftvnews.com.tw/news/detail/2023C19W0234)
+c95b9e08	(<bangyuwen@gmail.com>	2023-12-19 21:49:37 +0800	173)
+428bb0d7	(<you@hsuyuting.com>	2023-12-20 17:42:56 +0800	174)### 超譯葛來儀事件
+428bb0d7	(<you@hsuyuting.com>	2023-12-20 17:42:56 +0800	175)
+428bb0d7	(<you@hsuyuting.com>	2023-12-20 17:42:56 +0800	176)1. [葛來儀談柯文哲](https://www.youtube.com/watch?v=udyhV9C4JHM)
+428bb0d7	(<you@hsuyuting.com>	2023-12-20 17:42:56 +0800	177)1. [柯文哲解讀葛來儀](https://youtu.be/9UorG02kUx4?si=6I703K3GtvMyG3Bh&t=71)
+428bb0d7	(<you@hsuyuting.com>	2023-12-20 17:42:56 +0800	178)1. [承認超譯葛來儀](https://www.youtube.com/shorts/xAaHkOU7BP8)
+428bb0d7	(<you@hsuyuting.com>	2023-12-20 17:42:56 +0800	179)    - 柯並無於記者會中說：「葛來儀說」。范對柯說：「你說葛來儀說」有誤，但柯並無否認超譯。
+428bb0d7	(<you@hsuyuting.com>	2023-12-20 17:42:56 +0800	180)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	181)### 質詢
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	182)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	183)- [未按照政策公開透明市府政策宣導內容](https://youtu.be/03TWxjttMHs?t=1006)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	184)- [使用稅金行銷個人](https://youtu.be/03TWxjttMHs?t=234)
+f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	185)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	186)## 發言表態
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	187)
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	188)### 專訪／新聞面對面 <a href="https://www.youtube.com/watch?v=ebawhgsTkos">link</a>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	189)
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	190)> <details>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	191)> <summary>大綱</summary>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	192)> - 「賴蕭配」呼之欲出？藍白合趕上最後大限！<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	193)> - 終局之戰！柯侯vs.侯柯...11/18掀底牌<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	194)> - 柯一念之間成全藍白合？2024最大變數？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	195)> - 美憂中共介入？柯爆AIT致電要求解釋？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	196)> - 昨幕僚會議跟今差很大？柯認：被突襲了...？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	197)> - 「侯、柯同在選票上」藍：政黨票各自努力？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	198)> - 柯文哲被下套？一切都是朱立倫說了算？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	199)> - 結果讓幕僚切心？柯文哲：我回去會反省？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	200)> - 白監督制衡！柯文哲當副總統就滿足了？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	201)> - 誤差範圍內算侯柯配一點！國民黨卯贏？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	202)> - 民眾黨不分區納徐春鶯？柯文哲這樣說？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	203)> - 柯：最討厭蟑螂、蚊子、國民黨！今轉折？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	204)> </details>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	205)
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	206)### 專訪／斐姨所思 <a href="https://www.youtube.com/watch?v=aT9adT89c6c">link</a>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	207)
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	208)> <details>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	209)> <summary>時碼 Timecode</summary>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	210)> <a href="https://www.youtube.com/watch?v=aT9adT89c6c">影片</a> ／
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	211)> <a href="https://youtu.be/aT9adT89c6c?t=3885">評論</a><br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	212)> <a href="https://youtu.be/aT9adT89c6c?t=29s">00:29</a> Open-值班小道士 路易莎莎<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	213)> <a href="https://youtu.be/aT9adT89c6c?t=06m49s">06:49</a> 【工商時間】擴大電子書計次借閱網<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	214)> <a href="https://youtu.be/aT9adT89c6c?t=08m08s">08:08</a> 藍白破局是DNA不合？ 協議簽字前幕僚不知情？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	215)> <a href="https://youtu.be/aT9adT89c6c?t=11m37s">11:37</a> 立院黨團與藍綠怎互動？ 是否支持韓國瑜當立院院長？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	216)> <a href="https://youtu.be/aT9adT89c6c?t=18m31s">18:31</a> 決策難捉摸又常失言？ 外交場域的柯文哲可預測？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	217)> <a href="https://youtu.be/aT9adT89c6c?t=21m45s">21:45</a> 回顧與葛來儀隔空交火 「用字不精」醫生性格害得？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	218)> <a href="https://youtu.be/aT9adT89c6c?t=26m02s">26:02</a> 對美政策承襲蔡總統 對中要懂人情留一線？ <br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	219)> <a href="https://youtu.be/aT9adT89c6c?t=29m14s">29:14</a> 怎麼看九二共識一國兩制？ 兩岸無互信基礎能對話？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	220)> <a href="https://youtu.be/aT9adT89c6c?t=35m18s">35:18</a> 抱持善意避免民族主義 對岸民心也是國防一部份？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	221)> <a href="https://youtu.be/aT9adT89c6c?t=38m50s">38:50</a> 中國毫無疑問是威脅！ 一年義務役無助國防？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	222)> <a href="https://youtu.be/aT9adT89c6c?t=43m50s">43:50</a> 大選選輸也不辭黨主席？ 民眾黨失去柯P會泡沫？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	223)> <a href="https://youtu.be/aT9adT89c6c?t=47m20s">47:20</a> 決策風格是否太專斷？ 幕僚流動率高是抹黑？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	224)> <a href="https://youtu.be/aT9adT89c6c?t=51m48s">51:48</a> 標榜新政治卻緊靠鍾東錦？ 對排黑條款有話要說？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	225)> <a href="https://youtu.be/aT9adT89c6c?t=55m35s">55:35</a> 「正常國家」算核心價值？ 「賭爛票」是民眾黨大票倉？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	226)> <a href="https://youtu.be/aT9adT89c6c?t=59m36s">59:36</a> 內心深綠與卻國民黨合作？ 邦交國數目不重要？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	227)> <a href="https://youtu.be/aT9adT89c6c?t=01h00m23s">01:00:23</a> 柯文哲對大型建設的看法？ 上范姊專訪是「逆來順受」？<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	228)> <a href="https://youtu.be/aT9adT89c6c?t=01h04m02s">01:04:02</a> Takeaway<br />
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	229)> </details>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	230)
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	231)### 校園講座／政大 <a href="https://youtu.be/cOvW1r6Uk-M?t=1367">link</a>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	232)><details>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	233)><a href="https://youtu.be/aT9adT89c6c?t=1367">59:36</a> 開頭</br>
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	234)><a href="https://youtu.be/aT9adT89c6c?t=4512s">59:36</a> Q&A
+67b1dfc5	(<bangyuwen@gmail.com>	2023-12-20 00:46:14 +0800	235)></details>
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	236)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	237)## 其他
