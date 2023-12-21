@@ -43,3 +43,8 @@
   name: Nuo
   isPolitician: false
   isVerified: false
+-
+  email: shaojohn.wj@gmail.com
+  name: JS
+  isPolitician: false
+  isVerified: false
