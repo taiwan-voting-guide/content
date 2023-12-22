@@ -139,3 +139,5 @@ f0ec17d3	(<joanchang@npptw.org>	2023-12-22 11:18:13 +0800	94)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	139)## 發言表態
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	140)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	141)## 其他
+8e54f798	(<joanchang@npptw.org>	2023-12-22 10:29:15 +0800	142)
+8e54f798	(<joanchang@npptw.org>	2023-12-22 10:29:15 +0800	143)https://www.facebook.com/yiying.npp/
