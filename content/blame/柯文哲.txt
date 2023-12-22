@@ -397,11 +397,58 @@ f5926e5b	(<bangyuwen@gmail.com>	2023-12-15 09:13:57 +0800	345)
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	397)> - 柯：最討厭蟑螂、蚊子、國民黨！今轉折？<br />
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	398)> </details>
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	399)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	400)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	401)#### [校園講座]：[【直播／與黨主席有約！柯文哲現身政大　與大學生暢談民眾黨願景】](https://youtu.be/cOvW1r6Uk-M?t=1367)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	402)> <details>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	403)> <a href="https://www.youtube.com/live/cOvW1r6Uk-M?si=AQhfodVJZ92nlwlS&t=1370">22:50</a> 開頭</br>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	404)> <a href="https://www.youtube.com/live/cOvW1r6Uk-M?si=lLgWnq4rSH4HDIqN&t=4513">1:15:16</a> Q&A
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	405)> </details>
-c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	406)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	407)## 其他
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	400)#### [專訪]：[The quirky candidate running for president in Taiwan](https://www.youtube.com/watch?v=1TYEpxJ9yzY), Bloombery, 2023年09月17日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	401)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	402)#### [專訪]：[【LIVE】2024總統候選人教育論壇 柯文哲發表教育政見](https://www.youtube.com/watch?v=zBV1-KnDrtA)，TVBVS News，2023年09月16日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	403)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	404)#### [專訪]：[Meet The Surprise Contender to Lead Taiwan](https://www.youtube.com/watch?v=o-_gK3S5GLs), Bloombery, 2023年09月14日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	405)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	406)#### [專訪]：[Taiwan Presidential Contender Ko on Cross-Strait Relations](https://www.youtube.com/watch?v=85DVG3xd90Q)，Bloomberg Television，2023年09月14日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	407)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	408)#### [專訪]：[【全民平評理】 柯文哲來了! 邀請政黨領袖喝咖啡，親揭勝選密碼 EP.103 平秀琳 @Team__KP #柯文哲](https://www.youtube.com/watch?v=EpmKN1YjYCM), 52 News Club, 2023年08月26日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	409)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	410)#### [專訪]：[【盧秀芳辣晚報】獨家! 盧秀芳專訪柯文哲 2024總統參選人系列首登場](https://www.youtube.com/watch?v=2NstZ88vFNk), CTITV NEWS, 2023年08月23日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	411)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	412)#### [專訪]：[2023.08.04【蘭萱時間】專訪：柯文哲 | 如何不讓台灣完蛋?](https://www.youtube.com/watch?v=hQCVje6Nc7g), 中廣流行網 i like radio, 2023年08月04日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	413)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	414)#### [專訪]：[蔡正元來挑戰-蔡正元vs柯文哲總統之路](https://www.youtube.com/watch?v=MWvY41NZGVs), 公道之聲, 2023年08月02日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	415)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	416)#### [專訪]：[我問柯文哲為什麼台灣薪水很低？🤔️ 柯文哲有機會的話會讓台灣改變哪裡？🇹🇼](https://www.youtube.com/watch?v=JiRPnULJ4p4) , lexww歐亞力, 2023年07月22日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	417)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	418)#### [專訪]：[20230717 柯文哲專訪（影片來源：ETtoday新聞雲）](https://www.youtube.com/watch?v=yD0X2qQePDk), ETtoday新聞雲, 2023年07月17日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	419)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	420)#### [專訪]：[【專訪柯文哲】享受直球對決的總統參選人！曝行政院長理想型？跟朱立倫沒通過電話！欽點館長當體育署長？大嗆新潮流！｜李明賢 柯文哲【鄉民監察院】完整版20230710 @Team__KP](https://www.youtube.com/watch?v=9QzT5_EsLlY), 鄉民監察院, 2023年07月10日 
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	421)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	422)#### [專訪]：[柯文哲出席董事長開講粉絲見面會-台北站｜7月9日 晚上8點](https://www.youtube.com/watch?v=Kb_ALl3yuzM), 柯文哲, 2023年07月09日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	423)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	424)#### [專訪]：[2023-05-16《POP大國民》黃國昌 專訪 柯文哲 談 「柯文哲期許自己帶給臺灣什麼樣的選擇？」](https://www.youtube.com/watch?v=jMsaHaqucB8)，POP Radio聯播網 官方頻道，2023年05月16
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	425)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	426)#### [專訪]：[《 阿北面對面！ 直球對決2024！ 你所不知的柯文哲全公開？ 》【新聞面對面】2023.05.15](https://www.youtube.com/watch?v=1Q-Sx-Njn6E)，新聞面對面，2023年05月15日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	427)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	428)#### [專訪]：[【全台首播】觀點芹爆戰 柯文哲來了！ft.柯文哲｜黃光芹-觀點芹爆戰1｜品觀點](https://www.youtube.com/watch?v=QK0feWERr18)，品觀點，2023年05月03日
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	429)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	430)#### [校園講座]：[【直播／與黨主席有約！柯文哲現身政大　與大學生暢談民眾黨願景】](https://youtu.be/cOvW1r6Uk-M?t=1367)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	431)> <details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	432)> <a href="https://www.youtube.com/live/cOvW1r6Uk-M?si=AQhfodVJZ92nlwlS&t=1370">22:50</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	433)> <a href="https://www.youtube.com/live/cOvW1r6Uk-M?si=lLgWnq4rSH4HDIqN&t=4513">1:15:16</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	434)> </details>
+c0ce01cc	(<bangyuwen@gmail.com>	2023-12-17 20:05:24 +0800	435)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	436)#### [專訪]：[台北市前市長柯文哲美國德州休士頓美南電視座談會【現場直播回放】(2023年4月25日)](https://www.youtube.com/watch?v=dm_xeUSLhAM)，美南新聞 STV 21.8 Southern News，2023年04月26日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	437)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	438)#### [專訪]：[VOA独家专访台湾民众党主席柯文哲：“备战不求战” 若当选将与北京对话](https://www.youtube.com/watch?v=3dj3gqtJWjI)，美国之音中文网，2023年04月24日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	439)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	440)#### [專訪]：[Fireside Chat with Dr. Ko Wen-je, Chairman of the Taiwan People’s Party and Former Mayor of Taipei](https://www.youtube.com/watch?v=nnxbI4m4HJE)，Center for Strategic & International Studies，2023年04月21日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	441)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	442)#### [專訪]：[【下班瀚你聊】2023-04-02 Ep.48 柯文哲驚爆:賴神一不小心就會落選!直言若我當選總統必到立院備詢! @TheStormMedia](https://www.youtube.com/watch?v=vTO-H49T4bo)，風傳媒 The Storm Media，2023年04月02日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	443)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	444)#### [專訪]：[A Dialogue with Chairman of the Taiwan People's Party, Dr. Ko Wen-je](https://www.youtube.com/watch?v=SkvjODPopzc),Weatherhead East Asian Institute，2023年05月18日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	445)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	446)#### [專訪]：[2023臺大醫學系杜鵑花節 柯文哲醫師訪談影片](https://www.youtube.com/watch?v=gItFMCAp_xU)，2023臺大醫學系杜鵑花節-文醫復興Medaissance，2023年04月24日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	447)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	448)#### [專訪]：[【中廣論壇】柯文哲 你在想什麼？！｜來賓：台灣民眾黨主席柯文哲＋大媽老司機 朱蕙蓉 (代班)｜3.24.23](https://www.youtube.com/watch?v=QMT9feSYCiQ)，中廣新聞網，2023年03月24日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	449)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	450)#### [專訪]：[2023-01-18《POP大國民》黃國昌 專訪 柯文哲 談 「柯文哲的下一步？/ 黃國昌體驗質詢柯文哲」](https://www.youtube.com/watch?v=cZ0Z4H8SQpI)，POP Radio聯播網 官方頻道，2023年01月13日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	451)
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	452)#### [專訪]：[【Men's Talk】專訪 柯文哲｜欸！我說到哪裡了？ 2022.12.27](https://www.youtube.com/watch?v=7cvrdtdocrE)，中廣流行網 i like radio，2022年12月27日
+bc2189b7	(<shaojohn.wj@gmail.com>	2023-12-20 14:27:07 +0800	453)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	454)## 其他
