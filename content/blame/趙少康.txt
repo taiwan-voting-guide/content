@@ -66,8 +66,20 @@ dd185c94	(<you@hsuyuting.com>	2023-12-19 16:16:20 +0800	30)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	66)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	67)## 發言表態
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	68)
-17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	69)### 校園講座
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	69)### 共同內容
 17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	70)
-6633f2cb	(<bangyuwen@gmail.com>	2023-12-17 20:13:08 +0800	71)- 政大：[開頭](https://youtu.be/ADFH0iuu7e4?t=202)／[Q&A](https://youtu.be/ADFH0iuu7e4?t=3328)
-17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	72)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	73)## 其他
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	71)#### [校園講座]：[【直播／政治金童來了！趙少康前進政大　與學生直球對決】](https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	72)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	73)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s">3:22</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	74)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=3328s">55:28</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	75)> </details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	76)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	77)### 依時間排序
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	78)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	79)#### [校園講座]：[【直播／政治金童來了！趙少康前進政大　與學生直球對決】](https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	80)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	81)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s">3:22</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	82)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=3328s">55:28</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	83)> </details>
+17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	84)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	85)## 其他

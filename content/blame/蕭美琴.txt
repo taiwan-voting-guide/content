@@ -109,16 +109,33 @@ f5454997	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:44:47 +08
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	109)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	110)## 發言表態
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	111)
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	112)### 專訪
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	112)### 共同內容
 a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	113)
-a6e7ac96	(<bangyuwen@gmail.com>	2023-12-15 09:22:46 +0800	114)- [敏迪專訪](https://www.youtube.com/watch?v=MfbV62jDA0s)
-2d3c196c	(<bangyuwen@gmail.com>	2023-12-15 21:54:26 +0800	115)- [鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
-875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	116)- [知定講堂](https://www.youtube.com/watch?v=4pKghPwUSaE)
-6dc9f8f4	(<bangyuwen@gmail.com>	2023-12-15 22:55:10 +0800	117)- [Reagan Foundation](https://www.youtube.com/watch?v=C0Z0A48O9VU)
-e3d380da	(<bangyuwen@gmail.com>	2023-12-19 09:16:52 +0800	118)- 斐姨所思：[主持人道歉](https://www.youtube.com/watch?v=z-V6MkYNv7w)／[正片](https://www.youtube.com/watch?v=v2spCoUkuRk)／[訪談開始](https://youtu.be/v2spCoUkuRk?t=471)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	114)#### [校園講座]：[【直播／戰貓來了！蕭美琴現身政大校園　與大學生暢談青年議題】](https://youtu.be/PZvg56-ezlM)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	115)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	116)> <a href="https://youtu.be/PZvg56-ezlM?t=280">4:40</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	117)> <a href="https://youtu.be/PZvg56-ezlM?t=2315">38:36</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	118)> </details>
 875767bd	(<bangyuwen@gmail.com>	2023-12-15 22:40:04 +0800	119)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	120)### 校園講座
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	120)### 依時間排序
 47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	121)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	122)- 政大：[開頭](https://youtu.be/PZvg56-ezlM?t=280)／[Q&A](https://youtu.be/PZvg56-ezlM?t=2315)
-47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	123)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	124)## 其他
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	122)#### [專訪]：[綠電、香港、萊豬都有問！戰貓能回應民進黨內政問題？ ft.副總統候選人 蕭美琴 | 斐姨所思【阿姨想知道】 EP124](https://www.youtube.com/watch?v=v2spCoUkuRk)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	123)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	124)> <a href="https://youtu.be/v2spCoUkuRk?t=471">4:40</a> 訪談開始<br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	125)> </details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	126)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	127)#### [專訪]：[蔡英文路線獲認同　蕭美琴：我們是正牌　「鄰居常暴怒」　和平永續要有實力 | 大選鏡來講 #鏡新聞](https://www.youtube.com/watch?v=TDkMh__Q3I4)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	128)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	129)#### [校園講座]：[【直播／戰貓來了！蕭美琴現身政大校園　與大學生暢談青年議題】](https://youtu.be/PZvg56-ezlM)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	130)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	131)> <a href="https://youtu.be/PZvg56-ezlM?t=280">4:40</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	132)> <a href="https://youtu.be/PZvg56-ezlM?t=2315">38:36</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	133)> </details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	134)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	135)#### [專訪]：[【智慧的戰貓】與蕭美琴對談；為你深度分析美、中、台關係【知定講堂 曹興誠】 EP18](https://www.youtube.com/watch?v=4pKghPwUSaE)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	136)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	137)#### [專訪]：[敏迪專訪 | 你會是個什麼樣的副總統？ ─專訪前駐美大使、2024副總統候選人蕭美琴 Exclusive Interview with Hsiao Bi-khim](https://www.youtube.com/watch?v=MfbV62jDA0s)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	138)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	139)#### [專訪]：[A Reagan Foundation Exclusive Interview with Taiwan Representative to the U.S., Bi-khim Hsiao](https://www.youtube.com/watch?v=C0Z0A48O9VU)
+47e1b8f5	(<bangyuwen@gmail.com>	2023-12-17 20:14:55 +0800	140)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	141)## 其他
