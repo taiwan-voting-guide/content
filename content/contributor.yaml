@@ -48,3 +48,8 @@
   name: JS
   isPolitician: false
   isVerified: false
+-
+  email: joanchang@npptw.org
+  name: 時代力量
+  isPolitician: false
+  isVerified: false
