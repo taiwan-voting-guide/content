@@ -131,7 +131,7 @@ ea660de0	(<bangyuwen@gmail.com>	2023-12-15 22:51:41 +0800	79)
 bd2c0abe	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:43:34 +0800	131)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	132)## 性別平權
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	133)
-d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	134)### 性別政見
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	134)### 性別政見 [^1]
 d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	135)
 d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	136)1. 打破玻璃天花板，積極提升婦女職場權益，弭平性別薪資落差。
 d30714e0	(<equallovetw@equallove.tw>	2023-12-18 21:45:56 +0800	137)1. 拔擢優秀女性菁英，首長、主管、簡薦委升等，女性比例不得低於1/3。

@@ -71,42 +71,63 @@ c384ca09	(<you@hsuyuting.com>	2023-12-17 00:43:37 +0800	57)
 207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	71)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	72)## 性別平權
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	73)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	74)## 教育文化
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	75)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	76)## 建設交通
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	77)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	78)## 經濟財政
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	79)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	80)## 社福衛生
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	81)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	82)## 司法紀錄
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	83)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	84)## 爭議事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	85)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	86)## 發言表態
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	87)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	88)### 共同內容
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	89)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	90)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	91)> <details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	92)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	93)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	94)> </details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	95)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	96)### 依時間排序
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	97)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	98)#### [專訪]：[【完整版】參選後首上節目吐心聲，吳欣盈化身小廚娘露一手｜李四端 ft.吳欣盈 2019.12.27 【大雲時堂】](https://www.youtube.com/watch?v=2Vj3WAmGBG0), 大雲時堂, 2019年12月27日 
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	99)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	100)#### [專訪]：[Live【誰來Talk館】第九十四集 | 台灣選哲，民眾會盈 | 最好選哲選①號！義無反顧拼①次！ | feat. 民眾黨副總統候選人 - 吳欣盈 @TPP_Media](https://www.youtube.com/watch?v=T26bO-pta2w), 館長惡名昭彰, 2023年12月21日
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	101)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	102)#### [專訪]：[【完整公開】LIVE 決戰2024 台灣大未來 柯文哲、吳欣盈專訪](https://www.youtube.com/live/uy9XCbq_01I?si=mUTn6vBwhW1nNjv0), 台視新聞 TTV NEWS, 2023年12月19日
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	103)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	104)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	105)> <details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	106)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	107)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	108)> </details>
-7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	109)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	110)#### [專訪]：[新光公主吳欣盈 窺奇"欣"人生 20230205 (完整版) | 看板人物 方念華](https://www.youtube.com/watch?v=XEABiG1toOs), TVBS Insight People, 2023年02月05日
-19315f0d	(<shaojohn.wj@gmail.com>	2023-12-22 14:49:41 +0800	111)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	112)## 其他
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	74)### 性別政見 [^1]
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	75)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	76)1. 打破玻璃天花板，積極提升婦女職場權益，弭平性別薪資落差。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	77)1. 拔擢優秀女性菁英，首長、主管、簡薦委升等，女性比例不得低於1/3。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	78)1. 公布職場性別平等指標，表揚落實性平企業。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	79)1. 兩性平權從家做起，政府提供家庭照顧者補助，鼓勵兩性分攤養育照護責任。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	80)1. 修改「人工生殖法」，讓單身者、同志，有機會透過人工生殖技術，成家養育孩子。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	81)1. 「代理孕母解禁」，立法保護、降低疑慮，解決生理限制，保護婦女身體自主權。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	82)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	83)### 2024友善候選人問卷[^1]
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	84)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	85)我是台灣民眾黨的吳欣盈：
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	86)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	87)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	88)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	89)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	90)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	91)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	92)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	93)[^1]: https://pridewatch.tw/candidate/tppcw908
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	94)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	95)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	96)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	97)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	98)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	99)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	100)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	101)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	102)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	103)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	104)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	105)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	106)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	107)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	108)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	109)### 共同內容
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	110)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	111)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	112)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	113)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	114)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	115)> </details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	116)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	117)### 依時間排序
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	118)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	119)#### [專訪]：[【完整版】參選後首上節目吐心聲，吳欣盈化身小廚娘露一手｜李四端 ft.吳欣盈 2019.12.27 【大雲時堂】](https://www.youtube.com/watch?v=2Vj3WAmGBG0), 大雲時堂, 2019年12月27日 
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	120)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	121)#### [專訪]：[Live【誰來Talk館】第九十四集 | 台灣選哲，民眾會盈 | 最好選哲選①號！義無反顧拼①次！ | feat. 民眾黨副總統候選人 - 吳欣盈 @TPP_Media](https://www.youtube.com/watch?v=T26bO-pta2w), 館長惡名昭彰, 2023年12月21日
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	122)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	123)#### [專訪]：[【完整公開】LIVE 決戰2024 台灣大未來 柯文哲、吳欣盈專訪](https://www.youtube.com/live/uy9XCbq_01I?si=mUTn6vBwhW1nNjv0), 台視新聞 TTV NEWS, 2023年12月19日
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	124)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	125)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	126)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	127)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	128)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	129)> </details>
+7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	130)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	131)#### [專訪]：[新光公主吳欣盈 窺奇"欣"人生 20230205 (完整版) | 看板人物 方念華](https://www.youtube.com/watch?v=XEABiG1toOs), TVBS Insight People, 2023年02月05日
+19315f0d	(<shaojohn.wj@gmail.com>	2023-12-22 14:49:41 +0800	132)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	133)## 其他
