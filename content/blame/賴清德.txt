@@ -201,12 +201,25 @@ d9868907	(<bobolincowo@gmail.com>	2023-12-17 23:06:26 +0800	196)[^2]: https://ww
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	201)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	202)## 發言表態
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	203)
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	204)### 專訪
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	204)### 共同內容
 ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	205)
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	206)- [新聞面對面](https://www.youtube.com/watch?v=Zp2mUGTYibE)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	206)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
 ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	207)
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	208)### 校園講座
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	209)
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	210)- 政大：[開頭](https://youtu.be/TknDukUZjz4?t=241)／[Q&A](https://youtu.be/TknDukUZjz4?t=2543)
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	211)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	212)## 其他
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	208)> <details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	209)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	210)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	211)> </details>
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	212)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	213)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	214)### 依時間排序
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	215)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	216)#### [專訪]：[《 獨家！國政！外交！願景！賴清德內心擘劃的台灣藍圖？ 》【2023.12.08『新聞面對面』】](https://www.youtube.com/watch?v=Zp2mUGTYibE)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	217)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	218)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	219)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	220)> <details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	221)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	222)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	223)> </details>
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	224)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	225)## 其他

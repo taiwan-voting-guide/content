@@ -167,54 +167,105 @@ bc9c56c7	(<bangyuwen@gmail.com>	2023-12-19 09:34:19 +0800	112)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	167)
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	168)## 發言表態
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	169)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	170)### 校園座談
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	171)
-d02584a2	(<bangyuwen@gmail.com>	2023-12-17 20:09:18 +0800	172)- 政大：
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	173)    - [開頭](https://youtu.be/9f_V44IbKHI?t=540)
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	174)    - [Q&A](https://youtu.be/9f_V44IbKHI?t=2680)
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	175)        <details>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	176)            <summary> 時碼 </summary> 
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	177)            <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=2695s">第一輪問答44:55</a>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	178)            <ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	179)                <li>第一個問題: 如果換國民黨來做，哪裡會不一樣?</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	180)                <li>第二個問題: 關於黑金</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	181)                <li>第三個問題: 0-6歲國家養的話，這錢從哪裡來?</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	182)                <li>第四個問題: 侯友宜支持度的問題 (名調)</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	183)            </ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	184)            <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=3548s">第二輪問答59:08</a>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	185)            <ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	186)                <li>第一個問題: 詢問性平</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	187)                <li>第二個問題: 警察執法</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	188)                <li>第三個問題: 民進黨侯友宜覺得哪裡做不好，換侯友宜會如何做?</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	189)                <li>第四個問題: 低薪、高房價</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	190)            </ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	191)            <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=4300s">第三輪問答1:11:40</a>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	192)            <ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	193)                <li>第一個問題: 性騷擾</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	194)                <li>第二個問題: 孩童安全</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	195)                <li>第三個問題: 對於博弈產業</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	196)            </ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	197)            <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=4905s">第四輪問答1:21:45</a>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	198)            <ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	199)                <li>第一個問題: 核廢料問題</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	200)                <li>第二個問題: 外交政策</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	201)            </ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	202)            <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=5400s">第五輪問答1:30:00</a>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	203)            <ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	204)                <li>第一個問題: 低薪、高房價</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	205)                <li>第二個問題: 帶職參選問題</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	206)            </ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	207)            <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=6180s">第六輪問答1:43:00</a>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	208)            <ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	209)                <li>第一個問題: 國防政策</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	210)                <li>第二個問題: 性平會</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	211)                <li>第三個問題: 能源問題</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	212)                <li>第四個問題: 特赦問題</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	213)                <li>第五個問題: 募兵、徵兵制</li>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	214)            </ul>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	215)        </details>
-b447e500	(<you@hsuyuting.com>	2023-12-19 13:59:52 +0800	216)         
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	217)- [淡江](https://www.youtube.com/watch?v=C5173H1dQBE)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	218)- [台大](https://www.youtube.com/watch?v=FIkFZLdHpKo)
-e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	219)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	220)## 其他
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	170)### 共同內容
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	171)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	172)#### [校園講座]：[【直播／侯友宜搶攻年輕票！今晚現身政大　與學生對談】](https://youtu.be/9f_V44IbKHI?t=540)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	173)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	174)> <details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	175)> <summary> 詳細資料 </summary> 
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	176)> <a href="https://youtu.be/9f_V44IbKHI?t=540">9:00</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	177)> <a href="https://youtu.be/9f_V44IbKHI?t=2680">44:42</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	178)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=2695s">第一輪問答44:55</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	179)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	180)>     <li>第一個問題: 如果換國民黨來做，哪裡會不一樣?</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	181)>     <li>第二個問題: 關於黑金</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	182)>     <li>第三個問題: 0-6歲國家養的話，這錢從哪裡來?</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	183)>     <li>第四個問題: 侯友宜支持度的問題 (名調)</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	184)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	185)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=3548s">第二輪問答59:08</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	186)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	187)>     <li>第一個問題: 詢問性平</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	188)>     <li>第二個問題: 警察執法</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	189)>     <li>第三個問題: 民進黨侯友宜覺得哪裡做不好，換侯友宜會如何做?</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	190)>     <li>第四個問題: 低薪、高房價</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	191)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	192)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=4300s">第三輪問答1:11:40</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	193)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	194)>     <li>第一個問題: 性騷擾</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	195)>     <li>第二個問題: 孩童安全</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	196)>     <li>第三個問題: 對於博弈產業</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	197)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	198)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=4905s">第四輪問答1:21:45</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	199)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	200)>     <li>第一個問題: 核廢料問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	201)>     <li>第二個問題: 外交政策</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	202)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	203)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=5400s">第五輪問答1:30:00</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	204)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	205)>     <li>第一個問題: 低薪、高房價</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	206)>     <li>第二個問題: 帶職參選問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	207)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	208)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=6180s">第六輪問答1:43:00</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	209)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	210)>     <li>第一個問題: 國防政策</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	211)>     <li>第二個問題: 性平會</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	212)>     <li>第三個問題: 能源問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	213)>     <li>第四個問題: 特赦問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	214)>     <li>第五個問題: 募兵、徵兵制</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	215)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	216)> </details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	217)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	218)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	219)### 依時間排序
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	220)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	221)#### [校園座談]：[侯友宜台大演講場面一度火爆！學生打斷嗆「沒回答到問題」【一刀未剪看新聞】](https://www.youtube.com/watch?v=FIkFZLdHpKo)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	222)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	223)#### [校園講座]：[【直播／侯友宜搶攻年輕票！今晚現身政大　與學生對談】](https://youtu.be/9f_V44IbKHI?t=540)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	224)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	225)> <details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	226)> <summary> 詳細資料 </summary> 
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	227)> <a href="https://youtu.be/9f_V44IbKHI?t=540">9:00</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	228)> <a href="https://youtu.be/9f_V44IbKHI?t=2680">44:42</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	229)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=2695s">第一輪問答44:55</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	230)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	231)>     <li>第一個問題: 如果換國民黨來做，哪裡會不一樣?</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	232)>     <li>第二個問題: 關於黑金</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	233)>     <li>第三個問題: 0-6歲國家養的話，這錢從哪裡來?</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	234)>     <li>第四個問題: 侯友宜支持度的問題 (名調)</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	235)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	236)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=3548s">第二輪問答59:08</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	237)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	238)>     <li>第一個問題: 詢問性平</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	239)>     <li>第二個問題: 警察執法</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	240)>     <li>第三個問題: 民進黨侯友宜覺得哪裡做不好，換侯友宜會如何做?</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	241)>     <li>第四個問題: 低薪、高房價</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	242)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	243)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=4300s">第三輪問答1:11:40</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	244)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	245)>     <li>第一個問題: 性騷擾</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	246)>     <li>第二個問題: 孩童安全</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	247)>     <li>第三個問題: 對於博弈產業</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	248)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	249)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=4905s">第四輪問答1:21:45</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	250)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	251)>     <li>第一個問題: 核廢料問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	252)>     <li>第二個問題: 外交政策</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	253)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	254)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=5400s">第五輪問答1:30:00</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	255)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	256)>     <li>第一個問題: 低薪、高房價</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	257)>     <li>第二個問題: 帶職參選問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	258)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	259)> <a href="https://www.youtube.com/watch?v=9f_V44IbKHI&t=6180s">第六輪問答1:43:00</a>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	260)> <ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	261)>     <li>第一個問題: 國防政策</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	262)>     <li>第二個問題: 性平會</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	263)>     <li>第三個問題: 能源問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	264)>     <li>第四個問題: 特赦問題</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	265)>     <li>第五個問題: 募兵、徵兵制</li>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	266)> </ul>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	267)> </details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	268)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	269)#### [校園座談]：[【完整公開】LIVE 侯友宜 淡江大學演講](https://www.youtube.com/watch?v=C5173H1dQBE)
+e853c704	(<bangyuwen@gmail.com>	2023-12-16 21:21:41 +0800	270)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	271)## 其他
