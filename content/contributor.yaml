@@ -53,3 +53,8 @@
   name: 時代力量
   isPolitician: false
   isVerified: true
+-
+  email: eddy12011@gmail.com
+  name: Edward
+  isPolitician: false
+  isVerified: false
