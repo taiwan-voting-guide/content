@@ -1,5 +1,5 @@
 {
-  "timestamp": 1703184438227,
+  "timestamp": 1703215555464,
   "lineCounts": [
     {
       "email": "equallovetw@equallove.tw",
@@ -12,6 +12,10 @@
     {
       "email": "you@hsuyuting.com",
       "count": 189
+    },
+    {
+      "email": "joanchang@npptw.org",
+      "count": 57
     },
     {
       "email": "bobolincowo@gmail.com",
