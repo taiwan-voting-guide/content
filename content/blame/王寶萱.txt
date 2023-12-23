@@ -61,7 +61,7 @@ d1e0ee21	(<joanchang@npptw.org>	2023-12-22 11:03:15 +0800	60)國立臺北藝術�
 d1e0ee21	(<joanchang@npptw.org>	2023-12-22 11:03:15 +0800	61)<br>
 d1e0ee21	(<joanchang@npptw.org>	2023-12-22 11:03:15 +0800	62)國立臺北藝術大學 主任秘書
 d1e0ee21	(<joanchang@npptw.org>	2023-12-22 11:03:15 +0800	63)
-edf9a1fc	(<joanchang@npptw.org>	2023-12-22 12:51:28 +0800	64)[^1]: 時代力量編寫
+ea59239f	(<joanchang@npptw.org>	2023-12-22 18:00:59 +0800	64)[^1]: https://www.newpowerparty.tw/campaign
 edf9a1fc	(<joanchang@npptw.org>	2023-12-22 12:51:28 +0800	65)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	66)## 國防外交
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	67)
