@@ -82,7 +82,7 @@ f13350af	(<joanchang@npptw.org>	2023-12-22 10:23:08 +0800	34)
 2644b287	(<joanchang@npptw.org>	2023-12-22 11:24:25 +0800	82)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	83)## 學經歷
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	84)
-f0ec17d3	(<joanchang@npptw.org>	2023-12-22 11:18:13 +0800	85)【學歷】[^1]
+63d979e0	(<joanchang@npptw.org>	2023-12-22 17:56:13 +0800	85)### 【學歷】[^1]
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	86)
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	87)國立中正大學 社會福利研究所博士班肄業
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	88)
@@ -92,14 +92,14 @@ f0ec17d3	(<joanchang@npptw.org>	2023-12-22 11:18:13 +0800	85)【學歷】[^1]
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	92)
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	93)伯拉罕共生照顧勞動合作社 理事主席
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	94)
-f0ec17d3	(<joanchang@npptw.org>	2023-12-22 11:18:13 +0800	95)【現職】[^1]
+63d979e0	(<joanchang@npptw.org>	2023-12-22 17:56:13 +0800	95)### 【現職】[^1]
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	96)臺灣合作社照顧聯盟（合照盟） 秘書長
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	97)
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	98)行政院開放政府國家行動方案推動小組 第 2 屆委員
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	99)
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	100)第 20 屆行政院國家永續發展委員會 民間團體委員
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	101)
-f0ec17d3	(<joanchang@npptw.org>	2023-12-22 11:18:13 +0800	102)【經歷】[^1]
+63d979e0	(<joanchang@npptw.org>	2023-12-22 17:56:13 +0800	102)### 【經歷】[^1]
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	103)臺中市政府 副市長
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	104)
 6c890a2e	(<joanchang@npptw.org>	2023-12-22 10:21:57 +0800	105)弘道老人福利基金會 執行長／《不老騎士》 推手
