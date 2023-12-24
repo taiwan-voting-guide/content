@@ -45,9 +45,9 @@ dd185c94	(<you@hsuyuting.com>	2023-12-19 16:16:20 +0800	30)
 764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	45)
 764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	46)* [逐字稿](https://tw.news.yahoo.com/%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%94%BF%E8%A6%8B%E7%99%BC%E8%A1%A8%E6%9C%83%E7%9B%B4%E6%92%AD-%E9%80%90%E5%AD%97%E7%A8%BF%E5%85%A8%E6%96%87%E5%AE%8C%E6%95%B4%E5%85%AC%E9%96%8B%E3%80%90%E9%80%99%E7%AF%87%E6%98%AFai%E5%AF%AB%E7%9A%84%E9%80%90%E5%AD%97%E7%A8%BF%E3%80%91-084209500.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI9UlQAUojOFvbyZxQSQdMU24lnZFl4XyYznOuyVFd-sZGv-6hWfWowjZZ9RE4QnALUZQGyT-NgD7O2kCIzXBiWLeep0eY8_2WttajZ80Ug7ctmeufgi-Dud06liZD5gnXPfLDuiwKSHP1tafa1GQWwaOyKkJaDEWhVJHchKsbCI)
 764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	47)
-764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	48)* 趙少康於2024副總統政見發表會上總共講了38次賴清德
-764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	49)  - [卡提諾狂新聞：侯友宜最後悔的一集](https://www.youtube.com/watch?v=a4bJVYXDKp0)
-764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	50)
+a90d8753	(<you@hsuyuting.com>	2023-12-24 20:36:15 +0800	48)- [卡提諾狂新聞：侯友宜最後悔的一集](https://www.youtube.com/watch?v=a4bJVYXDKp0)
+a90d8753	(<you@hsuyuting.com>	2023-12-24 20:36:15 +0800	49)  - 趙少康於2024副總統政見發表會上總共講了38次賴清德
+a90d8753	(<you@hsuyuting.com>	2023-12-24 20:36:15 +0800	50)  - 口誤稱「賴清德當選就是總統，他就是老大，將來一定是最好的總統」
 764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	51)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)## 學經歷
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)
