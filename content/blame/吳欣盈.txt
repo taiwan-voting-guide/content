@@ -35,138 +35,143 @@ bf897a73	(<bobolincowo@gmail.com>	2023-12-17 21:01:18 +0800	18)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	35)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	36)## 政見
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	38)### 2024副總統候選人 政見發表會
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	39)* 台視新聞 TTV NEWS 直播片段：[1](https://www.youtube.com/watch?v=FgJmBuZvMHY?t=3m57s)，[2](https://www.youtube.com/watch?v=FgJmBuZvMHY?t=33m18s)，[3](https://www.youtube.com/watch?v=FgJmBuZvMHY?t=1h3m42s)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	40)* [吳欣盈逐字稿](https://hackmd.io/@johnshao/HkG5Ie4Pp)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	41)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	42)<details>
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	43)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	44)<summary>[bard.google 總結政見發表會內容]</summary>
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	45)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	46)吳欣盈副總統候選人的政見發表會，主軸是「打造美好台灣，從經濟著手」，主要分為三個部分：
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	47)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	48)經濟發展：
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	49)* 強化資安，從源頭解決詐騙犯罪的問題。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	50)* 推動數位轉型，提升行政效率、促進民主參選。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	51)* 發展綠色金融，加速台灣的淨零轉型。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	52)* 加強投資健康，提升醫療品質、保障民眾福祉。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	53)社會福利：
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	54)* 成立主權基金，補貼健保、長照，提升人民購買力。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	55)* 提高勞退自提比率，為退休生活做好準備。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	56)* 提升長照支出到 GDP 1%，提供照顧者的現金給付。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	57)國際連結：
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	58)* 推動台歐協定，強化雙邊經貿關係。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	59)* 爭取與日本、美國等國簽署央行貨幣互換協議。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	60)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	61)吳欣盈在政見發表會中強調，台灣的未來要靠繁榮來保障，而繁榮要靠國際連結、數位轉型、綠色金融、永續醫療、主權基金等五大策略來推動。她也表示，台灣具有非常好的人文環境跟潛力，只要政府願意打破政治的包袱，用科學、理性、務實的態度來治理，就能讓台灣成為一個有發展性、有競爭力的國家。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	62)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	63)以下是吳欣盈副總統候選人政見發表會的幾個重點：
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	64)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	65)* 資安：吳欣盈主張引進歐盟的 GDPR，強化個資保護，並將虛擬貨幣納管，以打擊詐騙犯罪。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	66)* 數位轉型：吳欣盈主張推動電子投票、一站式數位服務，並發展綠色金融，加速台灣的淨零轉型。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	67)* 健康：吳欣盈主張加速推動數位醫療、增加健保點值，並成立主權基金，補貼健保、長照，提升人民福祉。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	68)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	69)吳欣盈的政見發表會內容充實，涵蓋了台灣經濟、社會、外交等各個面向，展現了她對台灣未來發展的願景。
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	70)
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	71)</details>
-44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	72)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	73)## 學經歷
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	74)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	75)### 從政經歷
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	76)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	77)- 台灣民眾黨不分區立委 [^2]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	78)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	79)### 經歷
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	80)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	81)- 新光金控董事長吳東進的特別助理 [^1][^2]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	82)- 新光人壽副總經理 [^1][^2]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	83)- 新光金控董事 [^1][^2]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	84)- 籌組新光人壽戰略發展部 [^1][^2]
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	38)### 2024副總統候選人政見發表會
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	39)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	40)* 台視新聞 TTV NEWS 直播片段：
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	41)    - [第一輪](https://www.youtube.com/watch?v=FgJmBuZvMHY?t=3m57s)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	42)    - [第二輪](https://www.youtube.com/watch?v=FgJmBuZvMHY?t=33m18s)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	43)    - [第三輪](https://www.youtube.com/watch?v=FgJmBuZvMHY?t=1h3m42s)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	44)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	45)* [吳欣盈逐字稿](https://hackmd.io/@johnshao/HkG5Ie4Pp)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	46)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	47)<details>
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	48)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	49)<summary>[bard.google 總結政見發表會內容]</summary>
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	50)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	51)吳欣盈副總統候選人的政見發表會，主軸是「打造美好台灣，從經濟著手」，主要分為三個部分：
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	52)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	53)經濟發展：
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	54)* 強化資安，從源頭解決詐騙犯罪的問題。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	55)* 推動數位轉型，提升行政效率、促進民主參選。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	56)* 發展綠色金融，加速台灣的淨零轉型。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	57)* 加強投資健康，提升醫療品質、保障民眾福祉。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	58)社會福利：
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	59)* 成立主權基金，補貼健保、長照，提升人民購買力。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	60)* 提高勞退自提比率，為退休生活做好準備。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	61)* 提升長照支出到 GDP 1%，提供照顧者的現金給付。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	62)國際連結：
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	63)* 推動台歐協定，強化雙邊經貿關係。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	64)* 爭取與日本、美國等國簽署央行貨幣互換協議。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	65)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	66)吳欣盈在政見發表會中強調，台灣的未來要靠繁榮來保障，而繁榮要靠國際連結、數位轉型、綠色金融、永續醫療、主權基金等五大策略來推動。她也表示，台灣具有非常好的人文環境跟潛力，只要政府願意打破政治的包袱，用科學、理性、務實的態度來治理，就能讓台灣成為一個有發展性、有競爭力的國家。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	67)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	68)以下是吳欣盈副總統候選人政見發表會的幾個重點：
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	69)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	70)* 資安：吳欣盈主張引進歐盟的 GDPR，強化個資保護，並將虛擬貨幣納管，以打擊詐騙犯罪。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	71)* 數位轉型：吳欣盈主張推動電子投票、一站式數位服務，並發展綠色金融，加速台灣的淨零轉型。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	72)* 健康：吳欣盈主張加速推動數位醫療、增加健保點值，並成立主權基金，補貼健保、長照，提升人民福祉。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	73)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	74)吳欣盈的政見發表會內容充實，涵蓋了台灣經濟、社會、外交等各個面向，展現了她對台灣未來發展的願景。
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	75)
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	76)</details>
+44b4174e	(<shaojohn.wj@gmail.com>	2023-12-23 15:01:41 +0800	77)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	78)## 學經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	79)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	80)### 從政經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	81)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	82)- 台灣民眾黨不分區立委 [^2]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	83)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	84)### 經歷
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	85)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	86)[^1]: https://www.youtube.com/watch?v=KUHo2Sdo9n8
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	87)[^2]: https://zh.wikipedia.org/zh-tw/吳欣盈
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	88)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	89)## 國防外交
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	86)- 新光金控董事長吳東進的特別助理 [^1][^2]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	87)- 新光人壽副總經理 [^1][^2]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	88)- 新光金控董事 [^1][^2]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	89)- 籌組新光人壽戰略發展部 [^1][^2]
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	90)
-039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	91)### 相關事件
-c384ca09	(<you@hsuyuting.com>	2023-12-17 00:43:37 +0800	92)
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	93)- 參加聯合國氣候峰會卻不得其門而入，訪外交受限主因就是吳欣盈的「副總統候選人」身分[^sp_1][^sp_2]
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	94)- 吳欣盈公開回應[^sp_3]
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	95)- 外交部批言行不適格！ 吳欣盈反擊：非盲目批評[^sp_4]
-039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	96)
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	97)
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	98)[^sp_1]: https://tw.news.yahoo.com/吳欣盈2度開酸-斷交部-外交部長文5度稱-不解-093900284.html
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	99)[^sp_2]: https://tw.news.yahoo.com/吳欣盈批外交部-斷交部-洪申翰-這樣的羞辱已經越線了-051512336.html
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	100)[^sp_3]: 吳欣盈 Facebook，https://m.facebook.com/story.php?story_fbid=pfbid0nekHiMxcdR3KUd9Shjw7ZnAuMCvBL2rwAC4NDaHUs2GMQQyKYkQZwo8ASpL1v3Tel&id=100063484879445
-852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	101)[^sp_4]: https://www.youtube.com/watch?v=5k8WXFnmYyM
-039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	102)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	103)## 能源環境
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	104)
-60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	105)### 請參考柯文哲
-207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	106)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	107)## 性別平權
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	108)
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	109)### 性別政見 [^1]
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	110)
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	111)1. 打破玻璃天花板，積極提升婦女職場權益，弭平性別薪資落差。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	112)1. 拔擢優秀女性菁英，首長、主管、簡薦委升等，女性比例不得低於1/3。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	113)1. 公布職場性別平等指標，表揚落實性平企業。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	114)1. 兩性平權從家做起，政府提供家庭照顧者補助，鼓勵兩性分攤養育照護責任。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	115)1. 修改「人工生殖法」，讓單身者、同志，有機會透過人工生殖技術，成家養育孩子。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	116)1. 「代理孕母解禁」，立法保護、降低疑慮，解決生理限制，保護婦女身體自主權。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	117)
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	118)### 2024友善候選人問卷[^1]
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	119)
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	120)我是台灣民眾黨的吳欣盈：
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	121)
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	122)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	123)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	124)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	125)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	126)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	127)
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	128)[^1]: https://pridewatch.tw/candidate/tppcw908
-1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	129)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	130)## 教育文化
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	131)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	132)## 建設交通
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	133)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	134)## 經濟財政
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	135)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	136)## 社福衛生
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	137)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	138)## 司法紀錄
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	139)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	140)## 爭議事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	141)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	142)## 發言表態
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	143)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	144)### 共同內容
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	145)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	146)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	147)> <details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	148)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	149)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	150)> </details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	151)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	152)### 依時間排序
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	153)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	154)#### [專訪]：[Live【誰來Talk館】第九十四集 | 台灣選哲，民眾會盈 | 最好選哲選①號！義無反顧拼①次！ | feat. 民眾黨副總統候選人 - 吳欣盈 @TPP_Media](https://www.youtube.com/watch?v=T26bO-pta2w), 館長惡名昭彰, 2023年12月21日
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	155)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	156)#### [專訪]：[【完整公開】LIVE 決戰2024 台灣大未來 柯文哲、吳欣盈專訪](https://www.youtube.com/live/uy9XCbq_01I?si=mUTn6vBwhW1nNjv0), 台視新聞 TTV NEWS, 2023年12月19日
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	157)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	158)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	159)> <details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	160)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	161)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	162)> </details>
-7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	163)
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	164)#### [專訪]：[【#臣心報報_直播EP62】幸福中和，吳欣盈來了！](https://www.youtube.com/watch?v=mUso2Om3THE), 邱臣遠, 2023年11月23日
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	165)
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	166)#### [專訪]：[力拚打造「護國金盾」，立委吳欣盈推主權基金，接軌全球趨勢！《黑天鵝學院EP158》](https://www.youtube.com/watch?v=0SkWIUVXkdY), SmartGate智門, 2023年07月13日
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	167)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	168)#### [專訪]：[新光公主吳欣盈 窺奇"欣"人生 20230205 (完整版) | 看板人物 方念華](https://www.youtube.com/watch?v=XEABiG1toOs), TVBS Insight People, 2023年02月05日
-19315f0d	(<shaojohn.wj@gmail.com>	2023-12-22 14:49:41 +0800	169)
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	170)#### [專訪]：[【完整版】參選後首上節目吐心聲，吳欣盈化身小廚娘露一手｜李四端 ft.吳欣盈 2019.12.27 【大雲時堂】](https://www.youtube.com/watch?v=2Vj3WAmGBG0), 大雲時堂, 2019年12月27日
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	171)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	172)## 其他
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	91)[^1]: https://www.youtube.com/watch?v=KUHo2Sdo9n8
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	92)[^2]: https://zh.wikipedia.org/zh-tw/吳欣盈
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	93)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	94)## 國防外交
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	95)
+039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	96)### 相關事件
+c384ca09	(<you@hsuyuting.com>	2023-12-17 00:43:37 +0800	97)
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	98)- 參加聯合國氣候峰會卻不得其門而入，訪外交受限主因就是吳欣盈的「副總統候選人」身分[^sp_1][^sp_2]
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	99)- 吳欣盈公開回應[^sp_3]
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	100)- 外交部批言行不適格！ 吳欣盈反擊：非盲目批評[^sp_4]
+039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	101)
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	102)
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	103)[^sp_1]: https://tw.news.yahoo.com/吳欣盈2度開酸-斷交部-外交部長文5度稱-不解-093900284.html
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	104)[^sp_2]: https://tw.news.yahoo.com/吳欣盈批外交部-斷交部-洪申翰-這樣的羞辱已經越線了-051512336.html
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	105)[^sp_3]: 吳欣盈 Facebook，https://m.facebook.com/story.php?story_fbid=pfbid0nekHiMxcdR3KUd9Shjw7ZnAuMCvBL2rwAC4NDaHUs2GMQQyKYkQZwo8ASpL1v3Tel&id=100063484879445
+852674f0	(<shaojohn.wj@gmail.com>	2023-12-22 15:01:33 +0800	106)[^sp_4]: https://www.youtube.com/watch?v=5k8WXFnmYyM
+039c87bd	(<bangyuwen@gmail.com>	2023-12-16 23:26:44 +0800	107)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	108)## 能源環境
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	109)
+60932a11	(<you@hsuyuting.com>	2023-12-14 22:12:45 +0800	110)### 請參考柯文哲
+207eb184	(<134963040+small-man@users.noreply.github.com>	2023-12-14 17:45:59 +0800	111)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	112)## 性別平權
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	113)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	114)### 性別政見 [^1]
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	115)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	116)1. 打破玻璃天花板，積極提升婦女職場權益，弭平性別薪資落差。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	117)1. 拔擢優秀女性菁英，首長、主管、簡薦委升等，女性比例不得低於1/3。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	118)1. 公布職場性別平等指標，表揚落實性平企業。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	119)1. 兩性平權從家做起，政府提供家庭照顧者補助，鼓勵兩性分攤養育照護責任。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	120)1. 修改「人工生殖法」，讓單身者、同志，有機會透過人工生殖技術，成家養育孩子。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	121)1. 「代理孕母解禁」，立法保護、降低疑慮，解決生理限制，保護婦女身體自主權。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	122)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	123)### 2024友善候選人問卷[^1]
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	124)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	125)我是台灣民眾黨的吳欣盈：
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	126)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	127)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	128)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	129)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	130)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	131)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	132)
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	133)[^1]: https://pridewatch.tw/candidate/tppcw908
+1e404d0d	(<you@hsuyuting.com>	2023-12-23 02:29:42 +0800	134)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	135)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	136)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	137)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	138)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	139)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	140)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	141)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	142)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	143)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	144)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	145)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	146)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	147)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	148)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	149)### 共同內容
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	150)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	151)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	152)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	153)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	154)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	155)> </details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	156)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	157)### 依時間排序
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	158)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	159)#### [專訪]：[Live【誰來Talk館】第九十四集 | 台灣選哲，民眾會盈 | 最好選哲選①號！義無反顧拼①次！ | feat. 民眾黨副總統候選人 - 吳欣盈 @TPP_Media](https://www.youtube.com/watch?v=T26bO-pta2w), 館長惡名昭彰, 2023年12月21日
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	160)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	161)#### [專訪]：[【完整公開】LIVE 決戰2024 台灣大未來 柯文哲、吳欣盈專訪](https://www.youtube.com/live/uy9XCbq_01I?si=mUTn6vBwhW1nNjv0), 台視新聞 TTV NEWS, 2023年12月19日
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	162)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	163)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	164)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	165)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	166)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	167)> </details>
+7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	168)
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	169)#### [專訪]：[【#臣心報報_直播EP62】幸福中和，吳欣盈來了！](https://www.youtube.com/watch?v=mUso2Om3THE), 邱臣遠, 2023年11月23日
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	170)
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	171)#### [專訪]：[力拚打造「護國金盾」，立委吳欣盈推主權基金，接軌全球趨勢！《黑天鵝學院EP158》](https://www.youtube.com/watch?v=0SkWIUVXkdY), SmartGate智門, 2023年07月13日
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	172)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	173)#### [專訪]：[新光公主吳欣盈 窺奇"欣"人生 20230205 (完整版) | 看板人物 方念華](https://www.youtube.com/watch?v=XEABiG1toOs), TVBS Insight People, 2023年02月05日
+19315f0d	(<shaojohn.wj@gmail.com>	2023-12-22 14:49:41 +0800	174)
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	175)#### [專訪]：[【完整版】參選後首上節目吐心聲，吳欣盈化身小廚娘露一手｜李四端 ft.吳欣盈 2019.12.27 【大雲時堂】](https://www.youtube.com/watch?v=2Vj3WAmGBG0), 大雲時堂, 2019年12月27日
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	176)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	177)## 其他

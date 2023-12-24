@@ -36,50 +36,63 @@ dd185c94	(<you@hsuyuting.com>	2023-12-19 16:16:20 +0800	30)
 6efd3cd9	(<bangyuwen@gmail.com>	2023-12-14 21:21:09 +0800	36)
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	37)## 政見
 3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	38)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	39)## 學經歷
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	40)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	41)## 國防外交
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	42)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	43)### 國防主張
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	44)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	45)- 質疑國軍4個月義務役不足以應付國防需求 - 2021 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	46)- 堅決反對延長兵役 - 2022 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	47)- 反對M136火山布雷系統 - 2023 [^1]
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	48)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	49)[^1]: https://zh.wikipedia.org/zh-tw/趙少康
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	50)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	51)## 能源環境
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)## 性別平權
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	54)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	55)## 教育文化
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	56)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)## 建設交通
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	58)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)## 經濟財政
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	60)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)## 社福衛生
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	62)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	63)## 司法紀錄
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	64)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)## 爭議事件
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	66)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	67)## 發言表態
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	68)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	69)### 共同內容
-17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	70)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	71)#### [校園講座]：[【直播／政治金童來了！趙少康前進政大　與學生直球對決】](https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	72)> <details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	73)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s">3:22</a> 開頭</br>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	74)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=3328s">55:28</a> Q&A
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	75)> </details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	76)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	77)### 依時間排序
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	78)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	79)#### [校園講座]：[【直播／政治金童來了！趙少康前進政大　與學生直球對決】](https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s)
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	80)> <details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	81)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s">3:22</a> 開頭</br>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	82)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=3328s">55:28</a> Q&A
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	83)> </details>
-17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	84)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	85)## 其他
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	39)### 2024副總統候選人政見發表會
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	40)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	41)* 台視新聞 TTV NEWS 直播片段：
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	42)    - [第一輪](https://www.youtube.com/live/FgJmBuZvMHY?si=UrEC_zCqaCzHVxOp&t=808)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	43)    - [第二輪](https://www.youtube.com/live/FgJmBuZvMHY?si=BqJJXHbt-PnqdMta&t=2611)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	44)    - [第三輪](https://www.youtube.com/live/FgJmBuZvMHY?si=tJHsxQT6HpnmZpBr&t=4385)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	45)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	46)* [逐字稿](https://tw.news.yahoo.com/%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%94%BF%E8%A6%8B%E7%99%BC%E8%A1%A8%E6%9C%83%E7%9B%B4%E6%92%AD-%E9%80%90%E5%AD%97%E7%A8%BF%E5%85%A8%E6%96%87%E5%AE%8C%E6%95%B4%E5%85%AC%E9%96%8B%E3%80%90%E9%80%99%E7%AF%87%E6%98%AFai%E5%AF%AB%E7%9A%84%E9%80%90%E5%AD%97%E7%A8%BF%E3%80%91-084209500.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI9UlQAUojOFvbyZxQSQdMU24lnZFl4XyYznOuyVFd-sZGv-6hWfWowjZZ9RE4QnALUZQGyT-NgD7O2kCIzXBiWLeep0eY8_2WttajZ80Ug7ctmeufgi-Dud06liZD5gnXPfLDuiwKSHP1tafa1GQWwaOyKkJaDEWhVJHchKsbCI)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	47)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	48)* 趙少康於2024副總統政見發表會上總共講了38次賴清德
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	49)  - [卡提諾狂新聞：侯友宜最後悔的一集](https://www.youtube.com/watch?v=a4bJVYXDKp0)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	50)
+764c7a75	(<you@hsuyuting.com>	2023-12-24 20:26:46 +0800	51)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	52)## 學經歷
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	53)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	54)## 國防外交
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	55)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	56)### 國防主張
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	57)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	58)- 質疑國軍4個月義務役不足以應付國防需求 - 2021 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	59)- 堅決反對延長兵役 - 2022 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	60)- 反對M136火山布雷系統 - 2023 [^1]
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	61)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	62)[^1]: https://zh.wikipedia.org/zh-tw/趙少康
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	63)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	64)## 能源環境
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	65)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	66)## 性別平權
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	67)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	68)## 教育文化
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	69)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	70)## 建設交通
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	71)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	72)## 經濟財政
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	73)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	74)## 社福衛生
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	75)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	76)## 司法紀錄
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	77)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	78)## 爭議事件
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	79)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	80)## 發言表態
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	81)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	82)### 共同內容
+17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	83)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	84)#### [校園講座]：[【直播／政治金童來了！趙少康前進政大　與學生直球對決】](https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	85)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	86)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s">3:22</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	87)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=3328s">55:28</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	88)> </details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	89)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	90)### 依時間排序
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	91)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	92)#### [校園講座]：[【直播／政治金童來了！趙少康前進政大　與學生直球對決】](https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s)
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	93)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	94)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=202s">3:22</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	95)> <a href="https://www.youtube.com/watch?v=ADFH0iuu7e4&t=3328s">55:28</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	96)> </details>
+17fc3b05	(<bangyuwen@gmail.com>	2023-12-16 21:30:35 +0800	97)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	98)## 其他
