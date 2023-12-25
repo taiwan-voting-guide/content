@@ -328,23 +328,27 @@ d9868907	(<bobolincowo@gmail.com>	2023-12-17 23:06:26 +0800	321)[^2]: https://ww
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	328)
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	329)### 共同內容
 ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	330)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	331)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	332)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	333)> <details>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	334)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	335)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	336)> </details>
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	337)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	338)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	339)### 依時間排序
+8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	331)#### [論壇]：[【完整公開】LIVE 勞工團體「工辦政見發表會」 賴清德、侯友宜、柯文哲較勁](https://www.youtube.com/live/QFZECD1Vnvs?si=PQ_DPPDpzcQF_1OR&t=49)
+8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	332)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	333)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
+ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	334)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	335)> <details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	336)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	337)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	338)> </details>
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	339)
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	340)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	341)#### [專訪]：[《 獨家！國政！外交！願景！賴清德內心擘劃的台灣藍圖？ 》【2023.12.08『新聞面對面』】](https://www.youtube.com/watch?v=Zp2mUGTYibE)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	341)### 依時間排序
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	342)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	343)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	343)#### [專訪]：[《 獨家！國政！外交！願景！賴清德內心擘劃的台灣藍圖？ 》【2023.12.08『新聞面對面』】](https://www.youtube.com/watch?v=Zp2mUGTYibE)
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	344)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	345)> <details>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	346)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	347)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	348)> </details>
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	349)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	350)## 其他
+8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	345)#### [論壇]：[【完整公開】LIVE 勞工團體「工辦政見發表會」 賴清德、侯友宜、柯文哲較勁](https://www.youtube.com/live/QFZECD1Vnvs?si=PQ_DPPDpzcQF_1OR&t=49)
+8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	346)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	347)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	348)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	349)> <details>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	350)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	351)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	352)> </details>
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	353)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	354)## 其他
