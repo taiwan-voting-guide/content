@@ -328,27 +328,45 @@ d9868907	(<bobolincowo@gmail.com>	2023-12-17 23:06:26 +0800	321)[^2]: https://ww
 4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	328)
 8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	329)### 共同內容
 ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	330)
-8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	331)#### [論壇]：[【完整公開】LIVE 勞工團體「工辦政見發表會」 賴清德、侯友宜、柯文哲較勁](https://www.youtube.com/live/QFZECD1Vnvs?si=PQ_DPPDpzcQF_1OR&t=49)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	331)#### 論壇：
 8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	332)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	333)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
-ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	334)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	335)> <details>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	336)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	337)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	338)> </details>
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	339)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	340)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	341)### 依時間排序
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	342)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	343)#### [專訪]：[《 獨家！國政！外交！願景！賴清德內心擘劃的台灣藍圖？ 》【2023.12.08『新聞面對面』】](https://www.youtube.com/watch?v=Zp2mUGTYibE)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	344)
-8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	345)#### [論壇]：[【完整公開】LIVE 勞工團體「工辦政見發表會」 賴清德、侯友宜、柯文哲較勁](https://www.youtube.com/live/QFZECD1Vnvs?si=PQ_DPPDpzcQF_1OR&t=49)
-8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	346)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	347)#### [校園講座]：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	348)
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	349)> <details>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	350)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	351)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
-8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	352)> </details>
-4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	353)
-4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	354)## 其他
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	333)[【完整公開】LIVE 勞工團體「工辦政見發表會」 賴清德、侯友宜、柯文哲較勁](https://www.youtube.com/live/QFZECD1Vnvs?si=PQ_DPPDpzcQF_1OR&t=49)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	334)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	335)#### 校園講座：
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	336)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	337)[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
+ab66e175	(<bangyuwen@gmail.com>	2023-12-15 01:03:16 +0800	338)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	339)> <details>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	340)> <summary>詳細</summary>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	341)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	342)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	343)> </details>
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	344)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	345)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	346)### 依時間排序
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	347)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	348)#### 專訪：[《 獨家！國政！外交！願景！賴清德內心擘劃的台灣藍圖？ 》【2023.12.08『新聞面對面』】](https://www.youtube.com/watch?v=Zp2mUGTYibE)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	349)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	350)#### 論壇：[【完整公開】LIVE 勞工團體「工辦政見發表會」 賴清德、侯友宜、柯文哲較勁](https://www.youtube.com/live/QFZECD1Vnvs?si=PQ_DPPDpzcQF_1OR&t=49)
+8862e190	(<you@hsuyuting.com>	2023-12-25 22:24:50 +0800	351)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	352)#### 校園講座：[【直播／賴清德現身政大演講　與學生暢談未來願景】](https://www.youtube.com/watch?v=TknDukUZjz4)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	353)
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	354)> <details>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	355)> <summary>詳細</summary>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	356)> <a href="https://youtu.be/TknDukUZjz4?t=241">4:01</a> 開頭</br>
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	357)> <a href="https://www.youtube.com/live/TknDukUZjz4?si=jnybDWElgNw-jVMB&t=2557">42:37</a> Q&A
+8e52597a	(<you@hsuyuting.com>	2023-12-23 00:56:31 +0800	358)> </details>
+4260fd80	(<bangyuwen@gmail.com>	2023-12-17 20:11:27 +0800	359)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	360)#### 專訪：[數字台灣](https://youtube.com/watch?v=KX981EDaeAc)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	361)
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	362)> <details>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	363)> <summary>詳細</summary>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	364)> <a href="https://www.youtube.com/watch?v=iL-pw1wYIwY">精彩片段</a> 地緣政治張力越演越烈 台韓2021出現大逆轉?</br>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	365)> <a href="https://www.youtube.com/watch?v=HKY_jW5Sh64">精彩片段</a> 台經濟成績亮眼 過去8年選對人? 昔為台積電南科排除萬難 賴清德未來怎讓台灣蛻變?</br>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	366)> <a href="https://www.youtube.com/watch?v=nsD8GO1Lnl4">精彩片段</a> 中國大運走完了? 賴清德看香港:台灣不應走回頭路!蔡執政台積電變護國神山 台30年大運靠大家齊打拼?</br>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	367)> <a href="https://www.youtube.com/watch?v=M0AQHDfmYbk">精彩片段</a> 老謝秀數字台經濟沒那麼慘..切記一個數字你就懂!張忠謀曝台積電成功靠trust 老謝:要選正直領導人..</br>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	368)> <a href="https://www.youtube.com/watch?v=Xi3vbLnUkuU">精彩片段</a> 加薪 減稅 少負擔 賴清德要為年輕人做的事!賴清德:看過2組候選人居住政策!我最完整最有效益!</br>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	369)> <a href="https://www.youtube.com/watch?v=Pkl3IvHN4sM">精彩片段</a> 對計程車執法太嚴? 賴清德:檢討溝通!政府已做調整!認同台灣就是這塊土地的主人 賴清德看侯柯路線竟..</br>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	370)> </details>
+03e8cb74	(<bangyuwen@gmail.com>	2023-12-27 00:20:02 +0800	371)
+4d61485d	(<you@hsuyuting.com>	2023-12-13 23:18:01 +0800	372)## 其他
