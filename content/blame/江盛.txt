@@ -2,15 +2,15 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	2)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	3)## 個人基本資訊
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	4)
-5a667acb	(<joanchang@npptw.org>	2023-12-27 11:52:24 +0800	5)一名旗幟鮮明，支持安樂死合法化的婦產科醫師。曾在 2018 年領銜提案安樂死公投。從搖籃到墳墓，爭取尊嚴善終，改善台灣醫療文化和環境。為了推動安樂死合法化，接受時代力量邀請，代表時代力量參選 2024 不分區立委。[^1]
-5a667acb	(<joanchang@npptw.org>	2023-12-27 11:52:24 +0800	6)
-5a667acb	(<joanchang@npptw.org>	2023-12-27 11:52:24 +0800	7)目前擔任台東醫院婦產科主治醫師。[^2]
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	8)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	9)### 性別
-5a667acb	(<joanchang@npptw.org>	2023-12-27 11:52:24 +0800	10)男
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	11)
-5a667acb	(<joanchang@npptw.org>	2023-12-27 11:52:24 +0800	12)[^1]: https://www.facebook.com/sheng.npp/posts/pfbid0fCiRPFhtsfK7TXUsPfJqHQNap6y5Mbe5s4vBwMzJpjMjF3fZ54BLNgRXzS2rVMEml
-5a667acb	(<joanchang@npptw.org>	2023-12-27 11:52:24 +0800	13)[^2]: https://www.tait.mohw.gov.tw/?aid=51&pid=0&page_name=detail&iid=699
+5a667acb	(<joanchang@npptw.org>	2023-12-27 11:52:24 +0800	5)
+465d0bf1	(<joanchang@npptw.org>	2023-12-27 12:04:41 +0800	6)一名旗幟鮮明，支持安樂死合法化的婦產科醫師。曾在 2018 年領銜提案安樂死公投[^1]。從搖籃到墳墓，爭取尊嚴善終，改善台灣醫療文化和環境。為了推動安樂死合法化，接受時代力量邀請，代表時代力量參選 2024 不分區立委。[^2]
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	7)
+465d0bf1	(<joanchang@npptw.org>	2023-12-27 12:04:41 +0800	8)目前擔任台東醫院婦產科主治醫師。[^3]
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	9)
+465d0bf1	(<joanchang@npptw.org>	2023-12-27 12:04:41 +0800	10)[^1]: https://web.cec.gov.tw/preview/cms/27414
+465d0bf1	(<joanchang@npptw.org>	2023-12-27 12:04:41 +0800	11)[^2]: https://www.facebook.com/sheng.npp/posts/pfbid0fCiRPFhtsfK7TXUsPfJqHQNap6y5Mbe5s4vBwMzJpjMjF3fZ54BLNgRXzS2rVMEml
+465d0bf1	(<joanchang@npptw.org>	2023-12-27 12:04:41 +0800	12)[^3]: https://www.tait.mohw.gov.tw/?aid=51&pid=0&page_name=detail&iid=699
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	13)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	14)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	15)## 政黨
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	16)
