@@ -38,7 +38,7 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 性別平權
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-e022a777	(<equallovetw@equallove.tw>	2023-12-28 00:06:37 +0800	41)### 性別政見
+5e94d3fb	(<you@hsuyuting.com>	2023-12-28 02:22:21 +0800	41)### 性別政見[^1]
 e022a777	(<equallovetw@equallove.tw>	2023-12-28 00:06:37 +0800	42)
 e022a777	(<equallovetw@equallove.tw>	2023-12-28 00:06:37 +0800	43)【顧工作也能顧家庭】
 e022a777	(<equallovetw@equallove.tw>	2023-12-28 00:06:37 +0800	44)
