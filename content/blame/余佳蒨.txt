@@ -69,3 +69,5 @@ dfd49e1a	(<sa901218@gmail.com>	2023-12-20 14:02:53 +0800	16)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	69)## 發言表態
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	70)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	71)## 其他
+8fa3a3da	(<joanchang@npptw.org>	2023-12-27 11:37:11 +0800	72)
+8fa3a3da	(<joanchang@npptw.org>	2023-12-27 11:37:11 +0800	73)https://www.facebook.com/chiachien.npp
