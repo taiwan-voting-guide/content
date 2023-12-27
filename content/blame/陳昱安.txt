@@ -69,3 +69,5 @@ ade64752	(<joanchang@npptw.org>	2023-12-27 11:34:10 +0800	16)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	69)## 發言表態
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	70)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	71)## 其他
+1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	72)
+1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	73)https://www.facebook.com/Arery.Chen.1990
