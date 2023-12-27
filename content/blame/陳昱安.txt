@@ -96,6 +96,15 @@ ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	52)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	96)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	97)## 發言表態
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	98)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	99)## 其他
-1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	100)
-1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	101)https://www.facebook.com/Arery.Chen.1990
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	99)《天下雜誌》存不到錢！33歲青年對職場灰心　跑外送竟月收翻倍，還要選立委
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	100)https://www.cw.com.tw/article/5128053
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	101)
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	102)《今周刊》貧富差距達五年新高 一半勞工月領不到四萬三 促企業調薪 綠藍白三陣營解方可行嗎？
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	103)https://www.businesstoday.com.tw/article/category/183027/post/202312200015/
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	104)
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	105)《中央社》Uber Eats與外送工會聯盟對話 討論產業通用標準
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	106)https://www.cna.com.tw/news/ahel/202312040150.aspx
+0a7556d2	(<joanchang@npptw.org>	2023-12-27 15:15:57 +0800	107)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	108)## 其他
+1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	109)
+1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	110)https://www.facebook.com/Arery.Chen.1990
