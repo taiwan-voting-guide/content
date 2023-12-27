@@ -112,6 +112,15 @@ edf9a1fc	(<joanchang@npptw.org>	2023-12-22 12:51:28 +0800	68)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	112)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	113)## 發言表態
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	114)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	115)## 其他
-8ef4330a	(<joanchang@npptw.org>	2023-12-27 11:35:03 +0800	116)
-8ef4330a	(<joanchang@npptw.org>	2023-12-27 11:35:03 +0800	117)https://www.facebook.com/standforpeople
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	115)《ETToday》時力、民眾黨都曾邀不分區　王寶萱談選擇關鍵：不能成為他黨附庸
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	116)https://www.ettoday.net/news/20231105/2616386.htm
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	117)
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	118)《ETToday》走過柯市府、藍綠夾殺　王寶萱哽咽談新政治：只有時力能做到
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	119)https://www.ettoday.net/news/20231111/2619531.htm
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	120)
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	121)《POP搶先爆》羅旺哲專訪王寶萱 談「在野關鍵少數，拚國會四黨不過半」
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	122)https://www.youtube.com/live/XPJxKlyceVU?si=cQVKNpD7MtQeVsF2
+a21e502d	(<joanchang@npptw.org>	2023-12-27 14:53:54 +0800	123)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	124)## 其他
+8ef4330a	(<joanchang@npptw.org>	2023-12-27 11:35:03 +0800	125)
+8ef4330a	(<joanchang@npptw.org>	2023-12-27 11:35:03 +0800	126)https://www.facebook.com/standforpeople
