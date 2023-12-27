@@ -30,7 +30,7 @@ e587efe6	(<joanchang@npptw.org>	2023-12-22 11:44:56 +0800	27)臺灣彰化縣福�
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)
 9540b690	(<joanchang@npptw.org>	2023-12-22 11:21:07 +0800	31)時代力量 [^1]
 9540b690	(<joanchang@npptw.org>	2023-12-22 11:21:07 +0800	32)
-9540b690	(<joanchang@npptw.org>	2023-12-22 11:21:07 +0800	33)[^1]: 時代力量編寫
+caabf094	(<joanchang@npptw.org>	2023-12-27 11:32:14 +0800	33)[^1]: https://www.newpowerparty.tw/campaign
 f13350af	(<joanchang@npptw.org>	2023-12-22 10:23:08 +0800	34)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 家庭背景
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
