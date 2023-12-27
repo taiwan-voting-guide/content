@@ -21,52 +21,81 @@ ade64752	(<joanchang@npptw.org>	2023-12-27 11:34:10 +0800	15)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	21)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	22)## 學經歷
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	23)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	24)## 國防外交
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	26)## 能源環境
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	27)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)## 性別平權
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	30)### 性別政見[^1]
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	31)
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	32)1. 打造性別友善職場與公共場所：
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	33)1. 推動綜合性平等法/反歧視法立法：
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	34)1. 強化防範性暴力
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	35)1. 推廣永續性別友善
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	36)    - 人工生殖法
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	37)    - 重新重用助產師
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	38)    - 性別健康
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	39)1. 月經平權
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	40)1. 性別平等教育
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	41)    - 強化性別領域高等教育資源
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	42)    - 杜絕校園性霸凌
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	43)
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	44)### 2024友善候選人問卷[^1]
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	45)
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	46)我是時代力量的陳昱安：
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	47)
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	48)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	49)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	50)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	51)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	52)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	53)
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	54)[^1]: https://pridewatch.tw/candidate/yuannpp
-7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	55)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	56)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	57)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	58)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	59)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	60)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	61)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	62)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	63)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	64)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	65)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	66)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	67)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	68)## 發言表態
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	69)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	70)## 其他
-1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	71)
-1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	72)https://www.facebook.com/Arery.Chen.1990
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	24)### 【學歷】[^1]
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	25)國立勤益科技大學 機械工程系精密機械專班肄業
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	26)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	27)臺北市立木柵高級工業職業學校
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	28)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	29)### 【現職】[^1]
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	30)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	31)全國外送產業工會 理事長
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	32)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	33)### 【經歷】[^1]
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	34)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	35)全國外送產業工會 創會理事長
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	36)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	37)全球第一屆國際外送工人大會 台灣代表
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	38)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	39)全球國際外送工人大會  創始會員國代表
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	40)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	41)台北市產業總工會 常務理事
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	42)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	43)第一屆交通解嚴大遊行 協辦
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	44)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	45)行人零死亡推動聯盟 發起人
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	46)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	47)連鎖餐飲集團店 副理
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	48)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	49)全職外送員
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	50)
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	51)[^1]: https://www.newpowerparty.tw/campaign
+ae83ef41	(<joanchang@npptw.org>	2023-12-27 12:25:29 +0800	52)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)## 國防外交
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	54)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	55)## 能源環境
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	56)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	57)## 性別平權
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	58)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	59)### 性別政見[^1]
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	60)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	61)1. 打造性別友善職場與公共場所：
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	62)1. 推動綜合性平等法/反歧視法立法：
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	63)1. 強化防範性暴力
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	64)1. 推廣永續性別友善
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	65)    - 人工生殖法
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	66)    - 重新重用助產師
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	67)    - 性別健康
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	68)1. 月經平權
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	69)1. 性別平等教育
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	70)    - 強化性別領域高等教育資源
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	71)    - 杜絕校園性霸凌
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	72)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	73)### 2024友善候選人問卷[^1]
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	74)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	75)我是時代力量的陳昱安：
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	76)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	77)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	78)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	79)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	80)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	81)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	82)
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	83)[^1]: https://pridewatch.tw/candidate/yuannpp
+7a5f1eee	(<equallovetw@equallove.tw>	2023-12-18 22:48:37 +0800	84)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	85)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	86)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	87)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	88)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	89)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	90)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	91)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	92)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	93)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	94)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	95)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	96)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	97)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	98)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	99)## 其他
+1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	100)
+1d95d1b5	(<joanchang@npptw.org>	2023-12-27 11:36:51 +0800	101)https://www.facebook.com/Arery.Chen.1990
