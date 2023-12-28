@@ -25,7 +25,7 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	26)### 【學歷】[^1]
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	27)國立臺灣藝術大學 戲劇學系
-bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	28)
+c00b4645	(<joanchang@npptw.org>	2023-12-28 13:22:36 +0800	28)<br>
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	29)華岡藝術學校 戲劇科
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	30)
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	31)### 【現職】[^1]
@@ -33,9 +33,9 @@ bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	32)房仲作家
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	33)
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	34)### 【著作】[^1]
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	35)《這個房仲太狠了！揭開買、賣、租屋秘辛，教你躲過黑心建商坑殺陷阱》
-bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	36)
+c00b4645	(<joanchang@npptw.org>	2023-12-28 13:22:36 +0800	36)<br>
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	37)《省出一棟房：24 招易上手的存錢絕技》
-bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	38)
+c00b4645	(<joanchang@npptw.org>	2023-12-28 13:22:36 +0800	38)<br>
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	39)《一眼看穿房仲賣屋手法：讓房仲為你賣命》
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	40)
 bfd50680	(<joanchang@npptw.org>	2023-12-27 12:21:17 +0800	41)[^1]: https://www.newpowerparty.tw/campaign
