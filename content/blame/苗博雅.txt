@@ -50,8 +50,14 @@ dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	49)## 爭議事�
 dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	50)
 dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	51)## 發言表態
 dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	52)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	53)## 其他
-735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	54)
-735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	55)- Youtube：苗博雅 [[連結]](https://www.youtube.com/@miaopoya)
-735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	56)- Podcast：仁愛路四段 [[連結]](https://podcasts.apple.com/tw/podcast/%E4%BB%81%E6%84%9B%E8%B7%AF%E5%9B%9B%E6%AE%B5507%E8%99%9F/id1591354068)
-735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	57)- Facebook：苗博雅[[連結]](https://www.facebook.com/miaopoya.sdp/)
+a8fe4fd7	(<bangyuwen@gmail.com>	2023-12-29 00:09:59 +0800	53)- 苗博雅坦言參選真正原因! "我不忍看到台灣在暴雨中沒有一把雨傘!" [[連結]](https://youtu.be/CMDeDM9S3Q4?t=181)
+a8fe4fd7	(<bangyuwen@gmail.com>	2023-12-29 00:09:59 +0800	54)- BBC 中文全球問答論壇：台海危機及台灣年輕世代－ BBC News 中文
+a8fe4fd7	(<bangyuwen@gmail.com>	2023-12-29 00:09:59 +0800	55)[[連結]](https://youtu.be/_i5p1VhPxdw?t=212)
+a8fe4fd7	(<bangyuwen@gmail.com>	2023-12-29 00:09:59 +0800	56)- The KK Show - 234 苗博雅
+a8fe4fd7	(<bangyuwen@gmail.com>	2023-12-29 00:09:59 +0800	57)[[連結]](https://youtu.be/ewGlxOyEewk?t=157)
+a8fe4fd7	(<bangyuwen@gmail.com>	2023-12-29 00:09:59 +0800	58)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	59)## 其他
+735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	60)
+735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	61)- Youtube：苗博雅 [[連結]](https://www.youtube.com/@miaopoya)
+735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	62)- Podcast：仁愛路四段 [[連結]](https://podcasts.apple.com/tw/podcast/%E4%BB%81%E6%84%9B%E8%B7%AF%E5%9B%9B%E6%AE%B5507%E8%99%9F/id1591354068)
+735c762c	(<bangyuwen@gmail.com>	2023-12-28 23:15:50 +0800	63)- Facebook：苗博雅[[連結]](https://www.facebook.com/miaopoya.sdp/)
