@@ -42,7 +42,7 @@ bf611305	(<joanchang@npptw.org>	2023-12-27 12:05:37 +0800	40)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	43)### 【學歷】[^1]
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	44)英國格拉斯哥大學 醫學遺傳博士
-7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	45)
+93c064b2	(<joanchang@npptw.org>	2023-12-28 13:22:21 +0800	45)<br>
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	46)臺北醫學大學 醫學系學士
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	47)
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	48)### 【現職】[^1]
@@ -50,15 +50,15 @@ bf611305	(<joanchang@npptw.org>	2023-12-27 12:05:37 +0800	40)
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	50)
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	51)### 【經歷】[^1]
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	52)台灣婦產醫學會 倫理紀律委員會委員
-7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	53)
+93c064b2	(<joanchang@npptw.org>	2023-12-28 13:22:21 +0800	53)<br>
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	54)台北馬偕醫院 醫學教育部倫理法律組組長
-7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	55)
+93c064b2	(<joanchang@npptw.org>	2023-12-28 13:22:21 +0800	55)<br>
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	56)馬偕醫學院 醫學系醫學人文助理教授
-7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	57)
+93c064b2	(<joanchang@npptw.org>	2023-12-28 13:22:21 +0800	57)<br>
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	58)台北馬偕醫院 婦產部主治醫師
-7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	59)
+93c064b2	(<joanchang@npptw.org>	2023-12-28 13:22:21 +0800	59)<br>
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	60)台東馬偕醫院 婦產科主治醫師
-7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	61)
+93c064b2	(<joanchang@npptw.org>	2023-12-28 13:22:21 +0800	61)<br>
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	62)嘉義基督教醫院 婦產科主治醫師
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	63)
 7241ce6b	(<joanchang@npptw.org>	2023-12-27 12:08:32 +0800	64)[^1]: https://www.newpowerparty.tw/campaign
