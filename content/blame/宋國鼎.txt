@@ -100,6 +100,15 @@ c9efa88c	(<sa901218@gmail.com>	2023-12-20 14:03:33 +0800	31)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	100)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	101)## 發言表態
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	102)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	103)## 其他
-9374d288	(<joanchang@npptw.org>	2023-12-27 11:35:49 +0800	104)
-9374d288	(<joanchang@npptw.org>	2023-12-27 11:35:49 +0800	105)https://www.facebook.com/kds.miaoli
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	103)《今周刊》父親房門上一張獎狀是他心中的痛…當年辭律師為關廠工人義務辯護，時力宋國鼎為何參選苗栗縣長？
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	104)https://www.businesstoday.com.tw/article/category/231734/post/202210110028/
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	105)
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	106)《新聞不芹菜》宋國鼎告訴你，苗栗那些非關藍綠的事！
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	107)https://www.youtube.com/live/qiH0X0wfE_A?si=zlgN_YB_TDKDdO3D
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	108)
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	109)用這支影片認識國鼎｜你好! 我是宋國鼎 我要應徵苗栗縣長
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	110)https://youtu.be/NHE7PTf9oFw?si=rRzIBcHWEGHx5qDJ
+82941ef8	(<joanchang@npptw.org>	2023-12-28 15:13:15 +0800	111)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	112)## 其他
+9374d288	(<joanchang@npptw.org>	2023-12-27 11:35:49 +0800	113)
+9374d288	(<joanchang@npptw.org>	2023-12-27 11:35:49 +0800	114)https://www.facebook.com/kds.miaoli
