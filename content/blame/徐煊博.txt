@@ -16,36 +16,51 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	16)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	17)## 政見
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	18)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	19)## 學經歷
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	20)
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	21)**學歷**[^1]  
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	22)陽明交通大學機械系
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	23)
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	24)**經歷**[^1]  
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	25)科技教育公司《程式老爹》創辦人  
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	26)《呢喃貓區塊鏈學院》共同創辦人  
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	27)2022 臺中市第十四選區
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	28)（東勢、和平、新社、石岡）市議員候選人
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	29)[^1]: https://www.statebuilding.tw/2024fighters/
-1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	30)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)## 國防外交
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)## 能源環境
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 性別平權
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	44)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	45)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)## 發言表態
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)## 其他
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	19)*我希望我的下一代可以在更好的環境中長大*  
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	20)
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	21)**四個不妥協****[^1]    
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	22)堅持打造國族不妥協、保衛台灣不妥協、抗中侵略不妥協、轉型正義不妥協，讓我們一起堅持理念，讓台灣基進進國會。
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	23)
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	24)**三個最優先****[^1]    
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	25)國防改革、立法抓共碟、轉型正義  
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	26)
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	27)**抗中保台也要好生活！**[^1]    
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	28)居住正義、人本交通、青年未來、母語復振、文化台灣、性別平權 
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	29)
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	30)**前往了解**
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	31)[台灣基進SDGs幸福提案](https://www.statebuilding.tw/tag/2024%e5%9f%ba%e9%80%b2%e6%94%bf%e7%ad%96%ef%bc%8d%e5%b9%b8%e7%a6%8f%e6%8f%90%e6%a1%88/)
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	32)[^1]:https://www.statebuilding.tw/2024%e6%94%bf%e7%ad%96%e7%89%88/
+3e8df611	(<uitiok.tsp@gmail.com>	2023-12-29 17:17:22 +0800	33)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)## 學經歷
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	36)**學歷**[^1]  
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	37)陽明交通大學機械系
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	38)
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	39)**經歷**[^1]  
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	40)科技教育公司《程式老爹》創辦人  
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	41)《呢喃貓區塊鏈學院》共同創辦人  
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	42)2022 臺中市第十四選區
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	43)（東勢、和平、新社、石岡）市議員候選人
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	44)[^1]: https://www.statebuilding.tw/2024fighters/
+1e71c7c9	(<uitiok.tsp@gmail.com>	2023-12-29 17:19:06 +0800	45)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)## 國防外交
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)## 能源環境
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)## 性別平權
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	52)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	54)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	55)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	56)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	57)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	58)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	59)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	60)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	61)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	62)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	63)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	64)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	65)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	66)## 其他
