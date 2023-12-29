@@ -18,24 +18,33 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	18)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	19)## 學經歷
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	20)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	21)## 國防外交
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	22)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	23)## 能源環境
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	24)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	25)## 性別平權
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	26)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	27)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	21)**學歷**[^1]  
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	22)國立臺灣師範大學歷史研究所博士
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	23)
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	24)**經歷**[^1]  
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	25)輔仁大學歷史學系專任教授  
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	26)台灣歷史學會理事長  
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	27)教育部高級中學歷史科教科用書審定委員會委員
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	28)[^1]: https://www.statebuilding.tw/2024fighters/
+44cf65ee	(<uitiok.tsp@gmail.com>	2023-12-29 16:50:56 +0800	29)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)## 國防外交
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)## 能源環境
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)## 性別平權
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	44)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	45)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)## 其他
