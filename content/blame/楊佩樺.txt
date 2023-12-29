@@ -16,33 +16,49 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	16)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	17)## 政見
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	18)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	19)## 學經歷
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	20)
-147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	21)高雄榮民總醫院資深臨床護理師  
-147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	22)2022年高雄市第十一選區（林園、大寮區）市議員候選人  
-147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	23)台灣基進黨高雄黨部執行長  
-147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	24)台灣基進發言人[^1]
-147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	25)
-147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	26)[^1]: https://www.statebuilding.tw/2024fighters/
-147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	27)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	28)## 國防外交
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	29)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	30)## 能源環境
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	31)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	32)## 性別平權
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	33)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)## 教育文化
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)## 建設交通
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)## 經濟財政
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)## 社福衛生
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)## 司法紀錄
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	44)## 爭議事件
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	19)*我沒那麼勇敢，
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	20)但我更害怕失去台灣！*  
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	21)
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	22)**四個不妥協****[^1]    
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	23)堅持打造國族不妥協、保衛台灣不妥協、抗中侵略不妥協、轉型正義不妥協，讓我們一起堅持理念，讓台灣基進進國會。
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	24)
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	25)**三個最優先****[^1]    
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	26)國防改革、立法抓共碟、轉型正義  
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	27)
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	28)**抗中保台也要好生活！**[^1]    
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	29)居住正義、人本交通、青年未來、母語復振、文化台灣、性別平權 
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	30)
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	31)**前往了解**
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	32)[台灣基進SDGs幸福提案](https://www.statebuilding.tw/tag/2024%e5%9f%ba%e9%80%b2%e6%94%bf%e7%ad%96%ef%bc%8d%e5%b9%b8%e7%a6%8f%e6%8f%90%e6%a1%88/)
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	33)[^1]:https://www.statebuilding.tw/2024%e6%94%bf%e7%ad%96%e7%89%88/
+ea6cfec7	(<uitiok.tsp@gmail.com>	2023-12-29 17:12:51 +0800	34)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 學經歷
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
+147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	37)高雄榮民總醫院資深臨床護理師  
+147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	38)2022年高雄市第十一選區（林園、大寮區）市議員候選人  
+147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	39)台灣基進黨高雄黨部執行長  
+147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	40)台灣基進發言人[^1]
+147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	41)
+147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	42)[^1]: https://www.statebuilding.tw/2024fighters/
+147e731d	(<uitiok.tsp@gmail.com>	2023-12-29 17:21:02 +0800	43)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	44)## 國防外交
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	45)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	46)## 能源環境
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	47)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)## 其他
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	48)## 性別平權
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	49)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	50)## 教育文化
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	51)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	52)## 建設交通
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	53)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	54)## 經濟財政
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	55)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	56)## 社福衛生
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	57)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	58)## 司法紀錄
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	59)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	60)## 爭議事件
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	61)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	62)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	63)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	64)## 其他
