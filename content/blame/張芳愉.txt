@@ -80,36 +80,47 @@ e7cf6585	(<you@hsuyuting.com>	2023-12-27 02:49:58 +0800	79)[^1]: https://obs.ppe
 e7cf6585	(<you@hsuyuting.com>	2023-12-27 02:49:58 +0800	80)
 dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	81)## 學經歷
 dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	82)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	83)## 國防外交
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	84)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	85)## 能源環境
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	86)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	87)## 性別平權
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	88)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	89)### 2024友善候選人問卷[^1]
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	90)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	91)我是小民參政歐巴桑聯盟的張芳愉：
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	92)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	93)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	94)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	95)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	96)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	97)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	98)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	99)[^1]: https://pridewatch.tw/user/2405
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	100)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	101)## 教育文化
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	102)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	103)## 建設交通
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	104)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	105)## 經濟財政
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	106)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	107)## 社福衛生
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	108)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	109)## 司法紀錄
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	110)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	111)## 爭議事件
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	112)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	113)## 發言表態
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	114)
-dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	115)## 其他
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	83)**學歷：** 國立高雄應用科技大學觀光事業系  
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	84)**經歷：**
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	85)- 高雄市小港區市議員選舉總幹事
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	86)- 小民參政歐巴桑聯盟高雄黨部主任
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	87)
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	88)身為教育工作者，致力落實「教育即生活」使之不脫節。帶著溝通協調能力，推動「兒童人權」、「勞工權益」、「性別平等」、「環境永續」、「守護臺灣主權」等議題。  
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	89)
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	90)教育與政治無法切割，落實公民教育於生活中，讓公民意識的名詞，在孩子身上變成動詞。捍衛民主，為下一代守護言論自由。[^1]
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	91)
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	92)[^1]:[小民參政歐巴桑聯盟粉專](https://www.facebook.com/photo/?fbid=909481707211086&set=a.903303214495602)
+721f1d08	(<mike.lien0417@gmail.com>	2023-12-31 00:57:21 +0800	93)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	94)## 國防外交
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	95)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	96)## 能源環境
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	97)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	98)## 性別平權
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	99)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	100)### 2024友善候選人問卷[^1]
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	101)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	102)我是小民參政歐巴桑聯盟的張芳愉：
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	103)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	104)1. 我支持台灣成為一個更性別友善、減少歧視的國家，並支持相關法律的推動與修法，如平等法等。
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	105)1. 我支持進一步完善同性婚姻相關修法及行政體系配套措施，減少同性婚姻與異性婚姻間的差距。
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	106)1. 我支持教育部推動性別平等教育政策，並落實於不同階段，如學齡前幼托人員、成人性平教育。
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	107)1. 我願意承諾，在競選期間不使用歧視或污名化同志的文宣，並且願意協助澄清、指正錯誤不實的說法。
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	108)1. 我願意承諾，在自身所在的職場落實性別平等相關法規，並支持推動多元友善環境營造，如增加性平意識培訓機制、建立職場友善評核指標等。
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	109)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	110)[^1]: https://pridewatch.tw/user/2405
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	111)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	112)## 教育文化
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	113)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	114)## 建設交通
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	115)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	116)## 經濟財政
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	117)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	118)## 社福衛生
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	119)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	120)## 司法紀錄
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	121)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	122)## 爭議事件
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	123)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	124)## 發言表態
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	125)
+dd16bc8d	(<equallovetw@equallove.tw>	2023-12-13 22:06:10 +0800	126)## 其他
