@@ -34,12 +34,14 @@
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	34)
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	35)## 司法紀錄
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	36)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	37)## 爭議事件
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	38)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 發言表態
+61813219	(<bangyuwen@gmail.com>	2023-12-31 17:55:39 +0800	37)- 國民黨立委參選人羅智強就網傳綠色臭雞蛋告發行政院院長陳建仁、前農業部部長陳吉仲，台北地院裁定2人不罰。[[連結]](https://www.cna.com.tw/news/aipl/202312190202.aspx)
+61813219	(<bangyuwen@gmail.com>	2023-12-31 17:55:39 +0800	38)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	39)## 爭議事件
 9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	40)
-9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 其他
-fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	42)
-fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	43)- Youtube：野電視94強[[連結]](https://www.youtube.com/@94strong)
-fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	44)- IG：羅智強[[連結]](https://www.instagram.com/debate.locc/)
-fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	45)- Facebook：羅智強[[連結]](https://www.facebook.com/debatelo)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	41)## 發言表態
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	42)
+9a3166c6	(<you@hsuyuting.com>	2023-12-14 00:55:56 +0800	43)## 其他
+fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	44)
+fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	45)- Youtube：野電視94強[[連結]](https://www.youtube.com/@94strong)
+fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	46)- IG：羅智強[[連結]](https://www.instagram.com/debate.locc/)
+fb99a530	(<bangyuwen@gmail.com>	2023-12-29 00:23:56 +0800	47)- Facebook：羅智強[[連結]](https://www.facebook.com/debatelo)
