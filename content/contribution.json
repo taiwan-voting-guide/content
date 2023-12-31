@@ -1,17 +1,17 @@
 {
-  "timestamp": 1704022742198,
+  "timestamp": 1704035501219,
   "lineCounts": [
     {
-      "email": "equallovetw@equallove.tw",
-      "count": 687
+      "email": "mike.lien0417@gmail.com",
+      "count": 2172
     },
     {
-      "email": "mike.lien0417@gmail.com",
-      "count": 578
+      "email": "equallovetw@equallove.tw",
+      "count": 616
     },
     {
       "email": "you@hsuyuting.com",
-      "count": 454
+      "count": 444
     },
     {
       "email": "joanchang@npptw.org",
@@ -19,7 +19,7 @@
     },
     {
       "email": "bangyuwen@gmail.com",
-      "count": 264
+      "count": 254
     },
     {
       "email": "shaojohn.wj@gmail.com",
@@ -34,10 +34,6 @@
       "count": 41
     },
     {
-      "email": "jacob7166@gmail.com",
-      "count": 26
-    },
-    {
       "email": "sa901218@gmail.com",
       "count": 8
     },
@@ -47,6 +43,10 @@
     },
     {
       "email": "s1128ec@hotmail.com",
+      "count": 2
+    },
+    {
+      "email": "jacob7166@gmail.com",
       "count": 2
     }
   ]
