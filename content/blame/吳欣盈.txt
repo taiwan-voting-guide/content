@@ -156,32 +156,34 @@ c384ca09	(<you@hsuyuting.com>	2023-12-17 00:43:37 +0800	97)
 6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	156)
 6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	157)### 依時間排序
 6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	158)
-30048d05	(<shaojohn.wj@gmail.com>	2023-12-30 20:26:30 +0800	159)#### [專訪]：[【有盈來抬槓】吳欣盈與印度Raj 談主權基金 - 完整版](https://www.youtube.com/watch?v=EWQG6KMXO_A)，柯文哲，2023年12月30日
-30048d05	(<shaojohn.wj@gmail.com>	2023-12-30 20:26:30 +0800	160)
-30048d05	(<shaojohn.wj@gmail.com>	2023-12-30 20:26:30 +0800	161)#### [專訪]：[推主權基金　質疑央行誤導　面對攻擊　吳：I am always ready！ | 大選鏡來講 #鏡新聞](https://www.youtube.com/watch?v=lX5hZOfh9Tk)，鏡電視，2023年12月29日
+02befb24	(<shaojohn.wj@gmail.com>	2024-01-04 14:33:40 +0800	159)#### [專訪]：[民眾黨副總統參選人 #吳欣盈 ：我不介意被稱作「公主」｜DW 台灣2024總統大選](https://www.youtube.com/watch?v=P0g_qMT5DdM)，DW Chinese，2024年1月4日
+02befb24	(<shaojohn.wj@gmail.com>	2024-01-04 14:33:40 +0800	160)
+30048d05	(<shaojohn.wj@gmail.com>	2023-12-30 20:26:30 +0800	161)#### [專訪]：[【有盈來抬槓】吳欣盈與印度Raj 談主權基金 - 完整版](https://www.youtube.com/watch?v=EWQG6KMXO_A)，柯文哲，2023年12月30日
 30048d05	(<shaojohn.wj@gmail.com>	2023-12-30 20:26:30 +0800	162)
-9d49382a	(<shaojohn.wj@gmail.com>	2023-12-29 20:12:31 +0800	163)#### [專訪]：[台湾总统大选 专访民众党副总统候选人吴欣盈（戴忠仁/吴欣盈）| 亚洲很想聊](https://www.youtube.com/watch?v=jLAVpPPPxlQ)，自由亚洲电台，2023年12月28日
-9d49382a	(<shaojohn.wj@gmail.com>	2023-12-29 20:12:31 +0800	164)
-e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	165)#### [專訪]：[主權基金新視野 吳欣盈直球對決！【Yahoo TV#風向龍鳳配 】LIVE](https://www.youtube.com/watch?v=Uyl4n29BLV4)，Yahoo TV 一起看，2023年12月27日
-e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	166)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	167)#### [專訪]：[Live【誰來Talk館】第九十四集 | 台灣選哲，民眾會盈 | 最好選哲選①號！義無反顧拼①次！ | feat. 民眾黨副總統候選人 - 吳欣盈 @TPP_Media](https://www.youtube.com/watch?v=T26bO-pta2w), 館長惡名昭彰, 2023年12月21日
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	168)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	169)#### [專訪]：[【完整公開】LIVE 決戰2024 台灣大未來 柯文哲、吳欣盈專訪](https://www.youtube.com/live/uy9XCbq_01I?si=mUTn6vBwhW1nNjv0), 台視新聞 TTV NEWS, 2023年12月19日
+30048d05	(<shaojohn.wj@gmail.com>	2023-12-30 20:26:30 +0800	163)#### [專訪]：[推主權基金　質疑央行誤導　面對攻擊　吳：I am always ready！ | 大選鏡來講 #鏡新聞](https://www.youtube.com/watch?v=lX5hZOfh9Tk)，鏡電視，2023年12月29日
+30048d05	(<shaojohn.wj@gmail.com>	2023-12-30 20:26:30 +0800	164)
+9d49382a	(<shaojohn.wj@gmail.com>	2023-12-29 20:12:31 +0800	165)#### [專訪]：[台湾总统大选 专访民众党副总统候选人吴欣盈（戴忠仁/吴欣盈）| 亚洲很想聊](https://www.youtube.com/watch?v=jLAVpPPPxlQ)，自由亚洲电台，2023年12月28日
+9d49382a	(<shaojohn.wj@gmail.com>	2023-12-29 20:12:31 +0800	166)
+e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	167)#### [專訪]：[主權基金新視野 吳欣盈直球對決！【Yahoo TV#風向龍鳳配 】LIVE](https://www.youtube.com/watch?v=Uyl4n29BLV4)，Yahoo TV 一起看，2023年12月27日
+e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	168)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	169)#### [專訪]：[Live【誰來Talk館】第九十四集 | 台灣選哲，民眾會盈 | 最好選哲選①號！義無反顧拼①次！ | feat. 民眾黨副總統候選人 - 吳欣盈 @TPP_Media](https://www.youtube.com/watch?v=T26bO-pta2w), 館長惡名昭彰, 2023年12月21日
 dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	170)
-e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	171)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)，NOW NEWS，2023年12月14日
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	172)> <details>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	173)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	174)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
-6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	175)> </details>
-7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	176)
-e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	177)#### [論壇]：[【完整公開】LIVE 吳欣盈出席 台灣健康與醫療政策願景論壇](https://www.youtube.com/live/owLKkTvAbAg?t=1765)，台視新聞 TTV NEWS，2023年12月14日
-e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	178)
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	179)#### [專訪]：[【#臣心報報_直播EP62】幸福中和，吳欣盈來了！](https://www.youtube.com/watch?v=mUso2Om3THE), 邱臣遠, 2023年11月23日
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	180)
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	181)#### [專訪]：[力拚打造「護國金盾」，立委吳欣盈推主權基金，接軌全球趨勢！《黑天鵝學院EP158》](https://www.youtube.com/watch?v=0SkWIUVXkdY), SmartGate智門, 2023年07月13日
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	171)#### [專訪]：[【完整公開】LIVE 決戰2024 台灣大未來 柯文哲、吳欣盈專訪](https://www.youtube.com/live/uy9XCbq_01I?si=mUTn6vBwhW1nNjv0), 台視新聞 TTV NEWS, 2023年12月19日
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	172)
+e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	173)#### [校園講座]：[【直播／新光公主來了！吳欣盈赴政大座談　助柯文哲全力鞏固年輕票】](https://youtu.be/RZ1J4-qkFbc)，NOW NEWS，2023年12月14日
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	174)> <details>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	175)> <a href="https://youtu.be/RZ1J4-qkFbc?t=318">5:18</a> 開頭</br>
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	176)> <a href="https://youtu.be/RZ1J4-qkFbc">1:00:12</a> Q&A
+6c4c6902	(<you@hsuyuting.com>	2023-12-23 02:05:19 +0800	177)> </details>
+7282a942	(<bangyuwen@gmail.com>	2023-12-17 18:38:39 +0800	178)
+e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	179)#### [論壇]：[【完整公開】LIVE 吳欣盈出席 台灣健康與醫療政策願景論壇](https://www.youtube.com/live/owLKkTvAbAg?t=1765)，台視新聞 TTV NEWS，2023年12月14日
+e27c6aa7	(<shaojohn.wj@gmail.com>	2023-12-27 21:39:36 +0800	180)
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	181)#### [專訪]：[【#臣心報報_直播EP62】幸福中和，吳欣盈來了！](https://www.youtube.com/watch?v=mUso2Om3THE), 邱臣遠, 2023年11月23日
 98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	182)
-dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	183)#### [專訪]：[新光公主吳欣盈 窺奇"欣"人生 20230205 (完整版) | 看板人物 方念華](https://www.youtube.com/watch?v=XEABiG1toOs), TVBS Insight People, 2023年02月05日
-19315f0d	(<shaojohn.wj@gmail.com>	2023-12-22 14:49:41 +0800	184)
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	185)#### [專訪]：[【完整版】參選後首上節目吐心聲，吳欣盈化身小廚娘露一手｜李四端 ft.吳欣盈 2019.12.27 【大雲時堂】](https://www.youtube.com/watch?v=2Vj3WAmGBG0), 大雲時堂, 2019年12月27日
-98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	186)
-3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	187)## 其他
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	183)#### [專訪]：[力拚打造「護國金盾」，立委吳欣盈推主權基金，接軌全球趨勢！《黑天鵝學院EP158》](https://www.youtube.com/watch?v=0SkWIUVXkdY), SmartGate智門, 2023年07月13日
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	184)
+dc818a3b	(<shaojohn.wj@gmail.com>	2023-12-23 02:11:08 +0800	185)#### [專訪]：[新光公主吳欣盈 窺奇"欣"人生 20230205 (完整版) | 看板人物 方念華](https://www.youtube.com/watch?v=XEABiG1toOs), TVBS Insight People, 2023年02月05日
+19315f0d	(<shaojohn.wj@gmail.com>	2023-12-22 14:49:41 +0800	186)
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	187)#### [專訪]：[【完整版】參選後首上節目吐心聲，吳欣盈化身小廚娘露一手｜李四端 ft.吳欣盈 2019.12.27 【大雲時堂】](https://www.youtube.com/watch?v=2Vj3WAmGBG0), 大雲時堂, 2019年12月27日
+98b329f7	(<shaojohn.wj@gmail.com>	2023-12-23 13:36:03 +0800	188)
+3de4c894	(<bangyuwen@gmail.com>	2023-12-14 00:06:47 +0800	189)## 其他
